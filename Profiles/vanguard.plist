@@ -1,0 +1,1016 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Shield Specialist (Defense)</key>
+	<array>
+		<array>
+			<string>Brutal Impact</string>
+			<integer>2</integer>
+			<string>brutal_impact.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage of High Impact Bolt by 3%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage of High Impact Bolt by 6%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Intimidation</string>
+			<integer>3</integer>
+			<string>intimidation.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases damage done by elemental attacks by 2%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases damage done by elemental attacks by 4%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases damage done by elemental attacks by 6%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Static Field</string>
+			<integer>2</integer>
+			<string>static_field.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Ion Pulse and Explosive Surge spawn a static field, lowering the target&apos;s damage dealt by 2% for 15 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Ion Pulse and Explosive Surge spawn a static field, lowering the target&apos;s damage dealt by 4% for 15 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Rebraced Armor</string>
+			<integer>2</integer>
+			<string>rebraced_armor.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases armor rating by 8%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases armor rating by 8%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Steely Resolve</string>
+			<integer>3</integer>
+			<string>steely_resolve.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases Aim by 3%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases Aim by 6%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases Aim by 9%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Ion Overload</string>
+			<integer>2</integer>
+			<string>ion_overload.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Stockstrike now has a 50% chance to trigger your Ion Cell. In addition, when Ion Cell deals damage, it has a 50% chance to shock the target for 125 additional energy damage over 6 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Stockstrike now has a 100% chance to trigger your Ion Cell. In addition, when Ion Cell deals damage, it has a 100% chance to shock the target for 125 additional energy damage over 6 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Neural Overload</string>
+			<integer>1</integer>
+			<string>neural_overload.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Ion Cell damage now lowers the movement speed of the target by 50% for 2 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Ceramic Plating</string>
+			<integer>2</integer>
+			<string>ceramic_plating.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases absorption by 3% and reduces the cooldown of Adrenaline Rush by 30 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases absorption by 6% and reduces the cooldown of Adrenaline Rush by 60 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Smoke Grenade</string>
+			<integer>1</integer>
+			<string>smoke_grenade.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string></string>
+					<string>Throws a smoke grenade at your feet that releases a large cloud of smoke, causing nearby enemies to have their accuracy with ranged and melee attacks lowerd by 20% for 18 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Shield Cycler</string>
+			<integer>2</integer>
+			<string>shield_cycler.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the shield chance by 1%. In addition, shielding an attack has a 25% chance to generate 1 energy cell. This effect cannot occur more than once every 6 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the shield chance by 2%. In addition, shielding an attack has a 50% chance to generate 1 energy cell. This effect cannot occur more than once every 6 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Static Shield</string>
+			<integer>2</integer>
+			<string>static_shield.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical chance of Stockstrike and Explosive Surge by 15%. In addition, shielding an attach has a 25% chance to finish the cooldown on Stockstrike. This effect cannot occur more than once every 4.5 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical chance of Stockstrike and Explosive Surge by 30%. In addition, shielding an attach has a 50% chance to finish the cooldown on Stockstrike. This effect cannot occur more than once every 4.5 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Ion Shield</string>
+			<integer>2</integer>
+			<string>ion_shield.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Further increases damage reduction by 1% while Ion Cell is active.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Further increases damage reduction by 2% while Ion Cell is active.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Supercharged Ion Cell</string>
+			<integer>1</integer>
+			<string>supercharged_ion_cell.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Ion Cell by 25% and increases its shock duration by 3 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Defensive Measures</string>
+			<integer>2</integer>
+			<string>defensive_measures.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Harpoon has a 50% chance to immobilize the target for 3 seconds. In addition, your Stealth Scan has a 50% chance to immobilize the targets it reveals for 3 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Harpoon has a 100% chance to immobilize the target for 3 seconds. In addition, your Stealth Scan has a 100% chance to immobilize the targets it reveals for 3 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Static Surge</string>
+			<integer>2</integer>
+			<string>static_surge.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike bonus damage of Stockstrike and Explosive Surge by 15%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike bonus damage of Stockstrike and Explosive Surge by 30%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Storm</string>
+			<integer>1</integer>
+			<string>storm.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Range: 30m</string>
+					<string>Storm up to a distant target, dealing 764 kinetic damage, interrupting the target&apos;s current action and immobilizing the target for 3 seconds. Cannot be used against targets in cover.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Charge!</string>
+			<integer>2</integer>
+			<string>charge.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Storm has a 50% chance to increase movement speed by 30% for 4 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Storm has a 100% chance to increase movement speed by 30% for 4 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Counterattack</string>
+			<integer>5</integer>
+			<string>counterattack.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the shield chance by 2%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the shield chance by 4%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the shield chance by 6%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the shield chance by 8%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the shield chance by 10%.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array/>
+		<array>
+			<string>Energy Blast</string>
+			<integer>1</integer>
+			<string>energy_blast.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Range: 10m, Cooldown: 15 seconds</string>
+					<string>Fires a shot that deals 702 - 813 elemental damage and generates 1 energy cell.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+	</array>
+	<key>Tactics (Damage)</key>
+	<array>
+		<array>
+			<string>Focused Impact</string>
+			<integer>3</integer>
+			<string>focused_impact.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>High Impact Bolt penetrates 20% of the target&apos;s armor.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>High Impact Bolt penetrates 40% of the target&apos;s armor.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>High Impact Bolt penetrates 60% of the target&apos;s armor.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Containment Tactics</string>
+			<integer>2</integer>
+			<string>containment_tactics.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Cyro Grenade by 5 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Cyro Grenade by 10 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Demolition</string>
+			<integer>2</integer>
+			<string>demolition.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical hit chance of elemental attacks by 3%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical hit chance of elemental attacks by 6%.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Tactical_Tools</string>
+			<integer>2</integer>
+			<string>tactical_tools.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Pulse Cannon by 1.5 seconds and Harpoon by 5 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Pulse Cannon by 3 seconds and Harpoon by 10 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Power Armor</string>
+			<integer>2</integer>
+			<string>power_armor.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces all damage taken by 1%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces all damage taken by 2%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Frontline Offense</string>
+			<integer>2</integer>
+			<string>frontline_offense.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Ion Pulse and Gut by 3%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Ion Pulse and Gut by 6%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Blaster Augs</string>
+			<integer>1</integer>
+			<string>blaster_augs.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the effect of your cells while they are active:\nPlasma Cell: Increases the tech critical hit chance by 3%.\nHigh Energy Cell: Further increases all internal and elemental damage dealt by 3%.\nIon Cell: Increases the damage dealt by Ion Cell by 8%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Cell Generator</string>
+			<integer>2</integer>
+			<string>cell_generator.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>While High Energy Cell is active, you have a 50% chance to generate 1 energy cell every 6 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>While High Energy Cell is active, you have a 100% chance to generate 1 energy cell every 6 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Gut</string>
+			<integer>1</integer>
+			<string>gut.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Range: 4m</string>
+					<string>Guts the target with a knuckle-plate vibroblade, dealing (current weapon) kinetic damage and causing the target to bleed for (current weapon) internal damage over 15 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Battlefield Training</string>
+			<integer>2</integer>
+			<string>battlefield_training.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases movement speed by 7.5% while High Energy Cell is active.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases movement speed by 15% while High Energy Cell is active.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Frontline Defense</string>
+			<integer>2</integer>
+			<string>frontline_defense.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Riot Strike by 1 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Riot Strike by 2 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Serrated Blades</string>
+			<integer>3</integer>
+			<string>serrated_blades.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Gut&apos;s bleed effect by 5%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Gut&apos;s bleed effect by 10%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Gut&apos;s bleed effect by 15%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Battering Ram</string>
+			<integer>2</integer>
+			<string>battering_ram.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Ion Pulse has a 15% chance and Fire Pulse has a 50% chance to make your next Stockstrike free. This effect lasts 15 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Ion Pulse has a 30% chance and Fire Pulse has a 100% chance to make your next Stockstrike free. This effect lasts 15 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Kolto Recharge</string>
+			<integer>1</integer>
+			<string>kolto_recharge.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Recharge Cells regenerates 7% of your maximum health over 10 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Combat Tactics</string>
+			<integer>1</integer>
+			<string>combat_tactics.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Stockstrike and Gut have a 25% chance to make your next High Impact Bold critically hit automatically.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Hold the Line</string>
+			<integer>1</integer>
+			<string>hold_the_line.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Cooldown: 30 seconds</string>
+					<string>Grants 8 seconds of immunity from all movement-impairing effects, knockdowns and physics and increases movement speed by 30%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Pulse Generator</string>
+			<integer>2</integer>
+			<string>pulse_generator.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Ion Pulse and Explosive Surge have a 50% chance to grant Pulse Generator, increasing the damage deal by your next Pulse Cannon by 10%.\nStacks up to 5 times.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Ion Pulse and Explosive Surge have a 100% chance to grant Pulse Generator, increasing the damage deal by your next Pulse Cannon by 10%.\nStacks up to 5 times.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Havoc Training</string>
+			<integer>3</integer>
+			<string>havoc_training.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage bonus of Stockstrike, Ion Pulse and Fire Pulse by 10%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage bonus of Stockstrike, Ion Pulse and Fire Pulse by 20%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage bonus of Stockstrike, Ion Pulse and Fire Pulse by 30%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Shock Absorbers</string>
+			<integer>2</integer>
+			<string>shock_absorbers.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>While stunned, you take 10% less damage.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>While stunned, you take 20% less damage.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Fire Pulse</string>
+			<integer>1</integer>
+			<string>fire_pulse.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Ammo: 1, Cooldown: 15 seconds, Range: 10m</string>
+					<string>Emits a fiery pulse wave, dealing (current weapon) elemental damage to the target.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+	</array>
+	<key>Assault Specialist (Damage)</key>
+	<array>
+		<array>
+			<string>Soldiers Endurance</string>
+			<integer>3</integer>
+			<string>soldiers_endurance.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increase Endurance by 1%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increase Endurance by 2%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increase Endurance by 3%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Heavy Stock</string>
+			<integer>2</integer>
+			<string>heavy_stock.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increase the damage dealt by Stockstrike by 4%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increase the damage dealt by Stockstrike by 8%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Ionized Ignition</string>
+			<integer>3</integer>
+			<string>ionized_ignition.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Ion Pulse has a 33.34% chance to trigger your Plasma Cell if active.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Ion Pulse has a 66.68% chance to trigger your Plasma Cell if active.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Ion Pulse has a 100% chance to trigger your Plasma Cell if active.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Parallactic Combat Stims</string>
+			<integer>2</integer>
+			<string>parallactic_combat_stims.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>You have a 50% chance to recharge 1 energy cell when stunned, immobilized, knocked down or otherwise incapacitated.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>You have a 100% chance to recharge 1 energy cell when stunned, immobilized, knocked down or otherwise incapacitated.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Sweltering Heat</string>
+			<integer>2</integer>
+			<string>sweltering_heat.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Plasma Cell has a 50% chance when it applies its effects to reduce the movement speed of the target by 50% for 2 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Plasma Cell has a 100% chance when it applies its effects to reduce the movement speed of the target by 100% for 2 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Superheated Plasma</string>
+			<integer>3</integer>
+			<string>superheated_plasma.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by the Plasma Cell by 10% and increases its chance to be triggered by 2%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by the Plasma Cell by 20% and increases its chance to be triggered by 4%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by the Plasma Cell by 30% and increases its chance to be triggered by 6%.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Nightvision Scope</string>
+			<integer>2</integer>
+			<string>nightvision_scope.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases stealth detection by 1, melee and raged defense by 1% and reduces the cooldown of Stealth Scan by 2.5 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases stealth detection by 2, melee and raged defense by 2% and reduces the cooldown of Stealth Scan by 5 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Incendiary Round</string>
+			<integer>1</integer>
+			<string>incendiary_round.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Ammo: 3, Range: 30m</string>
+					<string>Launches an incendiary projectile, setting the target ablaze for (current weapon) elemental damage and an additional (current weapon) elemental damage over 18 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>High Friction Bolts</string>
+			<integer>2</integer>
+			<string>high_friction_bolts.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>High Impact Bolt ignores 15% of the target&apos;s armor. In addition, if High Impact Bolt hits a burning target, it has a 50% chance to generate 1 energy cell and refresh the duraction of you Plasma Cell&apos;s burn effect if present.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>High Impact Bolt ignores 30% of the target&apos;s armor. In addition, if High Impact Bolt hits a burning target, it has a 10% chance to generate 1 energy cell and refresh the duraction of you Plasma Cell&apos;s burn effect if present.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Degauss</string>
+			<integer>2</integer>
+			<string>degauss.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reactive Shield has a 50% chance to remove all movement-impairing effects when activated.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reactive Shield has a 100% chance to remove all movement-impairing effects when activated.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Ionic Accelerator</string>
+			<integer>3</integer>
+			<string>ionic_accelerator.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Charged Bolts has a 10% chance and Full Auto has a 20% chance to finish the cooldown on High Impact Bolt and make the next High Impact Bolt free.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Charged Bolts has a 20% chance and Full Auto has a 40% chance to finish the cooldown on High Impact Bolt and make the next High Impact Bolt free.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Charged Bolts has a 30% chance and Full Auto has a 60% chance to finish the cooldown on High Impact Bolt and make the next High Impact Bolt free.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Rapid Recharge</string>
+			<integer>2</integer>
+			<string>rapid_recharge.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Recharge Cells by 15 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Recharge Cells by 30 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Assult Trooper</string>
+			<integer>2</integer>
+			<string>assault_trooper.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical bonus damage of Plasma Cell, High Impact Bolt, Incendiary Round and Assault Plastique by 15%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical bonus damage of Plasma Cell, High Impact Bolt, Incendiary Round and Assault Plastique by 30%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Rain of Fire</string>
+			<integer>3</integer>
+			<string>rain_of_fire.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Hammer Shot, Charged Bolts, High Impact Bolt, Full Auto and hail of Bolts deal 3% additional damage to burning targets.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Hammer Shot, Charged Bolts, High Impact Bolt, Full Auto and hail of Bolts deal 6% additional damage to burning targets.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Hammer Shot, Charged Bolts, High Impact Bolt, Full Auto and hail of Bolts deal 9% additional damage to burning targets.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Reflexive Shield</string>
+			<integer>2</integer>
+			<string>reflexive_shield.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When you take damage, you have 50% chance to reduce the active cooldown of Reactive Shield by 1.5. This effect cannot occur more than once every 1.5 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When you take damage, you have 100% chance to reduce the active cooldown of Reactive Shield by 3. This effect cannot occur more than once every 1.5 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Burnout</string>
+			<integer>3</integer>
+			<string>burnout.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases tech critical chance by 1% and increases the damage dealt by periodic elemental effects by 10% on targets below 30% max health.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases tech critical chance by 2% and increases the damage dealt by periodic elemental effects by 20% on targets below 30% max health.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases tech critical chance by 3% and increases the damage dealt by periodic elemental effects by 30% on targets below 30% max health.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Adrenaline Fueled</string>
+			<integer>2</integer>
+			<string>adrenaline_fueled.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Critical hits have a 50% chance to reduce the active cooldown on Adrenaline Rush and Reserve Powercell by 3. This effect cannot occur more than once every 1.5 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Critical hits have a 100% chance to reduce the active cooldown on Adrenaline Rush and Reserve Powercell by 6. This effect cannot occur more than once every 1.5 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Assault Plastique</string>
+			<integer>1</integer>
+			<string>assault_plastique.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Ammo: 2, Cooldown: 15 seconds, Range: 30m</string>
+					<string>Throws a moldable plastic explosive that sticks to the target and detonates after several seconds. Standard and weak enemies enter a state of panic while the explosive is active. The explosion deals (current weapon) kinectic damage when it detonates. Standard and weak targets are knocked back from teh blast. Shares a 15 second cooldown with Sticky Grenade.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+	</array>
+</dict>
+</plist>

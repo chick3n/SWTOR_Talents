@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Defense (Defense)</key>
+	<array>
+		<array>
+			<string>Victory Rush</string>
+			<integer>2</integer>
+			<string>victoryrush.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Sundering Strike has a 50% chance to build 1 additional focus.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Sundering Strike has a 100% chance to build 1 additional focus.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Dust Storm</string>
+			<integer>2</integer>
+			<string>duststorm.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Sweep has a 50% chance to lower the accuracy of affected targets by 5% for 18 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Sweep has a 100% chance to lower the accuracy of affected targets by 5% for 18 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Momentum</string>
+			<integer>3</integer>
+			<string>momentum.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Leap and Zealous Leap have a 33% chance to make the next Blade Storm activate without a focus cost.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Leap and Zealous Leap have a 66% chance to make the next Blade Storm activate without a focus cost.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Leap and Zealous Leap have a 99% chance to make the next Blade Storm activate without a focus cost.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Guard Stance</string>
+			<integer>3</integer>
+			<string>guardstance.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your melee and ranged defenses by 2% while in Soresu Form.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your melee and ranged defenses by 4% while in Soresu Form.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your melee and ranged defenses by 6% while in Soresu Form.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Lunge</string>
+			<integer>2</integer>
+			<string>lunge.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the focus cost of Riposte by 1 while Soresu Form is active.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the focus cost of Riposte by 2 while Soresu Form is active.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Solidified Force</string>
+			<integer>2</integer>
+			<string>solidifiedforce.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the focus cost of Hilt Strike and Freezing Force by 1.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the focus cost of Hilt Strike and Freezing Force by 2.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Blade Barricade</string>
+			<integer>3</integer>
+			<string>bladebarricade.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Riposte now increases melee and ranged defenses by 2% for 6.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Riposte now increases melee and ranged defenses by 4% for 12.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Riposte now increases melee and ranged defenses by 6% for 18.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Warding Call</string>
+			<integer>1</integer>
+			<string>wardingcall.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Cooldown: 180 seconds</string>
+					<string>Reduces all damage taken by 40% for 10.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Profound Resolution</string>
+			<integer>2</integer>
+			<string>profoundresolution.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Resolute by 15.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Resolute by 30.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Pacification</string>
+			<integer>3</integer>
+			<string>pacification.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Hilt Strike, Force Sweep and Cyclone Slash by 5%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Hilt Strike, Force Sweep and Cyclone Slash by 10%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Hilt Strike, Force Sweep and Cyclone Slash by 15%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Shield Specialization</string>
+			<integer>2</integer>
+			<string>shieldspecialization.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases shield chance by 2%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases shield chance by 4%.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Courage</string>
+			<integer>2</integer>
+			<string>courage.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>While in Soresu Form, parrying, deflecting, shielding or resisting an attack has a 25% chance to grant courage, reducing the focus cost of your next Blade Storm or Force Sweep by 1. Lasts 10 seconds and stacks up to 3 times.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>While in Soresu Form, parrying, deflecting, shielding or resisting an attack has a 50% chance to grant courage, reducing the focus cost of your next Blade Storm or Force Sweep by 1. Lasts 10 seconds and stacks up to 3 times.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Command</string>
+			<integer>2</integer>
+			<string>command.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Challenging Call and Force Push by 7.5 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Challenging Call and Force Push by 15 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Stasis Mastery</string>
+			<integer>1</integer>
+			<string>stasismastery.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Stasis no longer needs to be channeled, applying its full effect over 3 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Hilt Strike</string>
+			<integer>1</integer>
+			<string>hiltstrike.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Focus: 3, Cooldown: 60 seconds, Range: 4m</string>
+					<string>Bashes the target for (current weapon) kinetic damage, stunning it for 4. This ability generates a high amount of threat.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Force Clap</string>
+			<integer>1</integer>
+			<string>forceclap.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Leap now stuns the target for 2.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Blade Barrier</string>
+			<integer>2</integer>
+			<string>bladebarrier.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Blade Storm has a 50% chance to grant Blade Barrier, which absorbs a moderate amount of damage. Lasts 10 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Blade Storm has a 100% chance to grant Blade Barrier, which absorbs a moderate amount of damage. Lasts 20 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Inner Peace</string>
+			<integer>2</integer>
+			<string>innerpeace.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the duration of Enure by 2 seconds. Increases elemental and internal damage reduction by 2.5%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the duration of Enure by 4 seconds. Increases elemental and internal damage reduction by 5%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Cyclonic Sweeps</string>
+			<integer>3</integer>
+			<string>cyclonicsweeps.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the frequency at which Soresu Form can generate focus by 33.34. In addition, Cyclone Slash and Slash have a 1% chance to reduce the active cooldown of Combat Focus by ?.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the frequency at which Soresu Form can generate focus by 66.68. In addition, Cyclone Slash and Slash have a 2% chance to reduce the active cooldown of Combat Focus by ?.</string>
+					<string></string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the frequency at which Soresu Form can generate focus by 100.02. In addition, Cyclone Slash and Slash have a 3% chance to reduce the active cooldown of Combat Focus by ?.</string>
+					<string></string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Guardian Slash</string>
+			<integer>1</integer>
+			<string>guardianslash.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Focus: 4, Cooldown: 15 seconds, Range: 4m</string>
+					<string>Strikes the target with a powerful blow, dealing (current weapon) weapon damage and applying 3 stacks of armor reduction for (current weapon) seconds. Targets affected by 5 stacks of your armor reduction suffer 15 weapon damage instead.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+	</array>
+	<key>Vigilance (Damage)</key>
+	<array>
+		<array>
+			<string>Improved Sundering Strike</string>
+			<integer>2</integer>
+			<string>improvedsunderingstrike.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Sundering Strike has a 50% chance to apply one additional stack of sunder armor.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Sundering Strike has a 100% chance to apply one additional stack of sunder armor.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Swelling Winds</string>
+			<integer>3</integer>
+			<string>swellingwinds.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Force Sweep by 10% and lowers its cooldown by 1.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Force Sweep by 20% and lowers its cooldown by 2.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Force Sweep by 30% and lowers its cooldown by 3.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Single Saber Mastery</string>
+			<integer>3</integer>
+			<string>singlesabermastery.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases melee damage by 2% while in Shien and Shii-Cho forms.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases melee damage by 4% while in Shien and Shii-Cho forms.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases melee damage by 6% while in Shien and Shii-Cho forms.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Defiance</string>
+			<integer>2</integer>
+			<string>defiance.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Generates 2 Focus when stunned, slept or knocked down.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Generates 4 Focus when stunned, slept or knocked down.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Perseverance</string>
+			<integer>2</integer>
+			<string>perseverance.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases total Strength by 3%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases total Strength by 6%.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Accuracy</string>
+			<integer>3</integer>
+			<string>accuracy.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the accuracy of melee and Force attacks by 1%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the accuracy of melee and Force attacks by 2%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the accuracy of melee and Force attacks by 3%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Gather Strength</string>
+			<integer>2</integer>
+			<string>gatherstrength.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Whenever your movement is impaired, you gain a 5% bonus to your next melee ability that costs focus. This effect can stack up to 5 times and lasts 10 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Whenever your movement is impaired, you gain a 10% bonus to your next melee ability that costs focus. This effect can stack up to 5 times and lasts 10 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Unremitting</string>
+			<integer>2</integer>
+			<string>unremitting.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Leap has a 50% chance to grant Unremitting, reducing all damage taken by 20% and granting immunity to interrupts and all controlling effects for 4 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Leap has a 100% chance to grant Unremitting, reducing all damage taken by 20% and granting immunity to interrupts and all controlling effects for 4 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Shien Form</string>
+			<integer>1</integer>
+			<string>shienform.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string></string>
+					<string>Enters an offensive lightsaber form, increasing all damage dealt by 6%. All attacks that cost focus will refund 1 focus when used. In addition, taking damage generates 1 focus, but this effect cannot occur more than once every 6 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Burning Blade</string>
+			<integer>2</integer>
+			<string>burningblade.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Blade Storm has a 50% chance to cause the target to burn for (current weapon) damage over 6 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Blade Storm has a 100% chance to cause the target to burn for (current weapon) damage over 12 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Effluence</string>
+			<integer>1</integer>
+			<string>effluence.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Sweep no longer costs focus.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Vigilance</string>
+			<integer>3</integer>
+			<string>vigilance.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Overhead Slash by 2 and Blade Storm by 1.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Overhead Slash by 4 and Blade Storm by 2.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Overhead Slash by 6 and Blade Storm by 3.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Narrowed Focus</string>
+			<integer>1</integer>
+			<string>narrowedfocus.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Generates 1 additional focus when taking area effect damage while Shien Form is active.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Protector</string>
+			<integer>2</integer>
+			<string>protector.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases total Endurance by 50%. In addition, Guardian Leap has a 2% chance of applying its effect to you as well.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases total Endurance by 100%. In addition, Guardian Leap has a 4% chance of applying its effect to you as well.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Burning Purpose</string>
+			<integer>2</integer>
+			<string>burningpurpose.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Overhead Slash has a 50% chance to set the target ablaze for (current weapon) elemental damage over 6 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Overhead Slash has a 100% chance to set the target ablaze for (current weapon) elemental damage over 6 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Overhead Slash</string>
+			<integer>1</integer>
+			<string>overheadslash.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Focus: 4, Cooldown: 15 seconds, Range: 4m</string>
+					<string>Executes an acrobatic attack that deals (current weapon) weapon damage.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Force Rush</string>
+			<integer>2</integer>
+			<string>forcerush.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Overhead Slash and Plasma Brand have a 50% chance to increase the critical hit chance of Blade Storm and Dispatch by 60% for 9 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Overhead Slash and Plasma Brand have a 100% chance to increase the critical hit chance of Blade Storm and Dispatch by 60% for 9 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Commanding Awe</string>
+			<integer>2</integer>
+			<string>commandingawe.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces all damage taken by 2%. Additionally reduces the cooldown of Awe by 7.5.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces all damage taken by 4%. Additionally reduces the cooldown of Awe by 15.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Zen Strike</string>
+			<integer>3</integer>
+			<string>zenstrike.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Overhead Slash and Plasma Brand have a 10% chance to finish the cooldown on Master Strike. This effect cannot occur more than once every 15 seconds. Each rank beyond the first reduces this rate limit by 3 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Overhead Slash and Plasma Brand have a 20% chance to finish the cooldown on Master Strike. This effect cannot occur more than once every 15 seconds. Each rank beyond the first reduces this rate limit by 3 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Overhead Slash and Plasma Brand have a 30% chance to finish the cooldown on Master Strike. This effect cannot occur more than once every 15 seconds. Each rank beyond the first reduces this rate limit by 3 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array/>
+		<array>
+			<string>Plasma Brand</string>
+			<integer>1</integer>
+			<string>plasmabrand.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Focus: 5, Cooldown: 9 seconds, Range: 4m</string>
+					<string>Engulfs your lightsaber in fiery plasma, striking a target affected by Sundering Strike for (current weapon) elemental damage, and deals a further (current weapon) elemental damage over 12 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+	</array>
+	<key>Focus (Damage)</key>
+	<array>
+		<array/>
+		<array>
+			<string>Stagger</string>
+			<integer>2</integer>
+			<string>stagger.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the duration of Force Leap&apos;s immobilize effect by 0.5.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the duration of Force Leap&apos;s immobilize effect by 1.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Insight</string>
+			<integer>3</integer>
+			<string>insight.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike chance of your Force attacks by 2%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike chance of your Force attacks by 4%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike chance of your Force attacks by 6%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Master Focus</string>
+			<integer>2</integer>
+			<string>masterfocus.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Master Strike by 5 and Force Stasis by 1.5.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Master Strike by 10 and Force Stasis by 3.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Swift Slash</string>
+			<integer>2</integer>
+			<string>swiftslash.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike chance of Slash by 7.5%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike chance of Slash by 15%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Visionary</string>
+			<integer>1</integer>
+			<string>visionary.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>You now generate 1 focus when attacked in Shii-Cho Form. This effect cannot occur more than once every 6 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Zephyr</string>
+			<integer>2</integer>
+			<string>zephyr.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of all Force abilities while in Shii-Cho Form by 1.5.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of all Force abilities while in Shii-Cho Form by 3.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Second Wind</string>
+			<integer>2</integer>
+			<string>secondwind.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Resolute has a 50% chance to heal you for 10% of your maximum health.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Resolute has a 100% chance to heal you for 10% of your maximum health.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Pulse</string>
+			<integer>2</integer>
+			<string>pulse.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the pushback suffered while channeling Force Stasis by 50%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the pushback suffered while channeling Force Stasis by 100%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Zealous Leap</string>
+			<integer>1</integer>
+			<string>zealousleap.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Focus: 3, Cooldown: 15 seconds, Range: 10m</string>
+					<string>Leaps to a target, stabbing it for (current weapon) weapon damage. Strikes with both weapons if dual wielding.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Saber Strength</string>
+			<integer>2</integer>
+			<string>saberstrength.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Slash and Zealous Leap by 3%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Slash and Zealous Leap by 6%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Unwavering Focus</string>
+			<integer>1</integer>
+			<string>unwaveringfocus.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Master Strike is now uninterruptible.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Singularity</string>
+			<integer>2</integer>
+			<string>singularity.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Each tick of Force Stasis and Force Exhaustion grants you Singularity, increasing the damage your next Force Sweep deals by 12.5%. Stacks up to 4 times.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Each tick of Force Stasis and Force Exhaustion grants you Singularity, increasing the damage your next Force Sweep deals by 25%. Stacks up to 4 times.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Felling Blow</string>
+			<integer>2</integer>
+			<string>fellingblow.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Leap and Zealous Leap have a 50% chance to make your next Sweep used within 15 seconds an automatic critical hit.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Leap and Zealous Leap have a 100% chance to make your next Sweep used within 15 seconds an automatic critical hit.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Inner Focus</string>
+			<integer>2</integer>
+			<string>innerfocus.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Combat Focus immediately grants 1 additional focus.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Combat Focus immediately grants 2 additional focus.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Shii-Cho Mastery</string>
+			<integer>2</integer>
+			<string>shiichomastery.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>While in Shii-Cho Form, your attacks ignore 10% of your targets&apos; armor.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>While in Shii-Cho Form, your attacks ignore 20% of your targets&apos; armor.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Agility Training</string>
+			<integer>2</integer>
+			<string>agilitytraining.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases movement speed by 20% for 5 seconds after using Zealous Leap.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases movement speed by 40% for 10 seconds after using Zealous Leap.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Gravity</string>
+			<integer>1</integer>
+			<string>gravity.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the focus cost of all movement-slowing effects by 1.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Sundering Throw</string>
+			<integer>2</integer>
+			<string>sunderingthrow.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Lowers the cooldown of Saber Throw by 2.5 seconds and causes Saber Throw to apply 1 of sunder armor to the target.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Lowers the cooldown of Saber Throw by 5 seconds and causes Saber Throw to apply 2 of sunder armor to the target.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Focused Resonance</string>
+			<integer>3</integer>
+			<string>focusedresonance.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage of all Force attacks by 10%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage of all Force attacks by 20%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage of all Force attacks by 30%.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array/>
+		<array>
+			<string>Force Exhaustion</string>
+			<integer>1</integer>
+			<string>forceexhaustion.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Focus: 4, Cooldown: 21 seconds, Range: 10m</string>
+					<string>Progressively slows the target from 60% to 10% movement speed over 5 and deals (current weapon) kinetic damage each second. At the end of the duration, the target is crushed and takes an additional (current weapon) kinetic damage.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+	</array>
+</dict>
+</plist>

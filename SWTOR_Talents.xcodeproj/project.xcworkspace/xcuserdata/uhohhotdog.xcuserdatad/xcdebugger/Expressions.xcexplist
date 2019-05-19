@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[TalentDescriptionView setDetails:For:Of:]:TalentDescriptionView.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SectionViewController verifyRuleLegal]:SectionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[structure objectAtIndex:1]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ItemView setupIcon]:ItemView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[[data objectAtIndex:3] objectAtIndex:0] objectAtIndex:0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TalentViewController loadSavedProfileData]:TalentViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SectionViewController dimChoices]:SectionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "structure.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SaveTalentsViewController doneClicked:]:SaveTalentsViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

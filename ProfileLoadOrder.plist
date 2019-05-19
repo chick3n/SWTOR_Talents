@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>shadow.plist</key>
+	<array>
+		<string>Kinetic Combat (Defense)</string>
+		<string>Infiltration (Damage)</string>
+		<string>Balance (Damage)</string>
+	</array>
+	<key>sage.plist</key>
+	<array>
+		<string>Seer (Healing)</string>
+		<string>Telekinetics (Damage)</string>
+		<string>Balance (Damage)</string>
+	</array>
+	<key>gaurdian.plist</key>
+	<array>
+		<string>Defense (Defense)</string>
+		<string>Vigilance (Damage)</string>
+		<string>Focus (Damage)</string>
+	</array>
+	<key>sentinel.plist</key>
+	<array>
+		<string>Watchman (Damage)</string>
+		<string>Combat (Damage)</string>
+		<string>Focus (Damage)</string>
+	</array>
+	<key>gunslinger.plist</key>
+	<array>
+		<string>Sharpshooter (Damage)</string>
+		<string>Saboteur (Damage)</string>
+		<string>Dirty Fighting (Damage)</string>
+	</array>
+	<key>scoundrel.plist</key>
+	<array>
+		<string>Sawbones (Healing)</string>
+		<string>Scrapper (Damage)</string>
+		<string>Dirty Fighting (Damage)</string>
+	</array>
+	<key>commando.plist</key>
+	<array>
+		<string>Combat Medic (Healing)</string>
+		<string>Gunnery (Damage)</string>
+		<string>Assault Specialist (Damage)</string>
+	</array>
+	<key>vanguard.plist</key>
+	<array>
+		<string>Shield Specialist (Defense)</string>
+		<string>Tactics (Damage)</string>
+		<string>Assault Specialist (Damage)</string>
+	</array>
+	<key>juggernaut.plist</key>
+	<array>
+		<string>Immortal (Defense)</string>
+		<string>Vengeance (Damage)</string>
+		<string>Rage (Damage)</string>
+	</array>
+	<key>marauder.plist</key>
+	<array>
+		<string>Annihilation (Damage)</string>
+		<string>Carnage (Damage)</string>
+		<string>Rage (Damage)</string>
+	</array>
+	<key>sorcerer.plist</key>
+	<array>
+		<string>Corruption (Healing)</string>
+		<string>Lightning (Damage)</string>
+		<string>Madness (Damage)</string>
+	</array>
+	<key>assassin.plist</key>
+	<array>
+		<string>Darkness (Defense)</string>
+		<string>Deception (Damage)</string>
+		<string>Madness (Damage)</string>
+	</array>
+	<key>powertech.plist</key>
+	<array>
+		<string>Shield Tech (Defense)</string>
+		<string>Advanced Prototype (Damage)</string>
+		<string>Pyrotech (Damage)</string>
+	</array>
+	<key>mercenary.plist</key>
+	<array>
+		<string>Bodyguard (Healing)</string>
+		<string>Arsenal (Damage)</string>
+		<string>Pyrotech (Damage)</string>
+	</array>
+	<key>operative.plist</key>
+	<array>
+		<string>Medicine (Healing)</string>
+		<string>Concealment (Damage)</string>
+		<string>Lethality (Damage)</string>
+	</array>
+	<key>sniper.plist</key>
+	<array>
+		<string>Marksmanship (Damage)</string>
+		<string>Engineering (Damage)</string>
+		<string>Lethality (Damage)</string>
+	</array>
+</dict>
+</plist>

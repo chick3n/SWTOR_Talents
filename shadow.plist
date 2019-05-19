@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kinetic Combat (Defense)</key>
+	<array>
+		<array>
+			<string>Technique Mastery
+</string>
+			<integer>3</integer>
+			<string>techniquemastery.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Improves the effect of your techniques while they&apos;re active:
+Force Technique: Increases the critical hit chance by 1% and the duration of Force Technique&apos;s Force Breach by 3.
+Combat Technique: Increases internal and elemental resistance by ?%.
+Shadow Technique: Increases your armor penetration by ?%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Improves the effect of your techniques while they&apos;re active:
+Force Technique: Increases the critical hit chance by 2% and the duration of Force Technique&apos;s Force Breach by 6.
+Combat Technique: Increases internal and elemental resistance by ?%.
+Shadow Technique: Increases your armor penetration by ?%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Improves the effect of your techniques while they&apos;re active:
+Force Technique: Increases the critical hit chance by 3% and the duration of Force Technique&apos;s Force Breach by 9.
+Combat Technique: Increases internal and elemental resistance by ?%.
+Shadow Technique: Increases your armor penetration by ?%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Double-bladed Saber Defense
+</string>
+			<integer>2</integer>
+			<string>doublebladedsaberdefense.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When you successfully shield, parry or deflect an attack, you recover 1% of your total Force. This effect cannot occur more than once a second. In addition, your melee and ranged defenses are increased by 2%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When you successfully shield, parry or deflect an attack, you recover 2% of your total Force. This effect cannot occur more than once a second. In addition, your melee and ranged defenses are increased by 4%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Applied Force
+</string>
+			<integer>2</integer>
+			<string>appliedforce.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Double Strike, Whirling Blow and Clairvoyant Strike by 3%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Double Strike, Whirling Blow and Clairvoyant Strike by 6%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Expertise</string>
+			<integer>3</integer>
+			<string>expertise.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by your techniques by 3%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by your techniques by 6%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by your techniques by 9%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Rapid Recovery
+</string>
+			<integer>2</integer>
+			<string>rapidrecovery.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the chance your Combat Technique applies its effects by 7.5%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the chance your Combat Technique applies its effects by 15%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Elusiveness</string>
+			<integer>2</integer>
+			<string>elusiveness.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Force Speed by 5 seconds and Resilience by 7.5 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Force Speed by 10 seconds and Resilience by 15 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Mental Fortitude
+</string>
+			<integer>3</integer>
+			<string>mentalfortitude.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases total Endurance by 1%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases total Endurance by 2%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases total Endurance by 3%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Shadowsight</string>
+			<integer>2</integer>
+			<string>shadowsight.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your stealth detection level by 1 and defense by 1%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your stealth detection level by 2 and defense by 2%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Kinetic Ward
+</string>
+			<integer>1</integer>
+			<string>kineticward.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Force: 10, Cooldown: 12 seconds
+</string>
+					<string>Erects a kinetic ward with 8 charges that increases your shield chance by 15% for 20 seconds. Each time you successfully shield, Kinetic Ward loses 1 charge. Does not break Stealth.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Particle Acceleration
+</string>
+			<integer>1</integer>
+			<string>particleacceleration.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>While Combat Technique is active, Double Strike and Whirling Blow have a 50% chance to finish the cooldown on Project and make your next Project a critical hit. Accelerated Projects that consume a charge of Force Potency deal an additional 50% critical damage.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Mind Over Matter
+</string>
+			<integer>1</integer>
+			<string>mindovermatter.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Activating Force Speed now removes all movement-impairing effects, and your Resilience now lasts 2 seconds longer.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>One with the Force
+</string>
+			<integer>3</integer>
+			<string>onewiththeforce.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the rate at which your Force regenerates by 10%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the rate at which your Force regenerates by 20%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the rate at which your Force regenerates by 30%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Impact Control
+</string>
+			<integer>2</integer>
+			<string>impactcontrol.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your shield absorption by 2%. In addition, when you activate Battle Readiness while Combat Technique is active, you instantly heal for 5% of your total health.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your shield absorption by 4%. In addition, when you activate Battle Readiness while Combat Technique is active, you instantly heal for 10% of your total health.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Nerve Wracking
+</string>
+			<integer>3</integer>
+			<string>nervewracking.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Targets controlled by your Spinning Kick or Force Stun take 3% more damage from all sources.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Targets controlled by your Spinning Kick or Force Stun take 6% more damage from all sources.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Targets controlled by your Spinning Kick or Force Stun take 9% more damage from all sources.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Force Pull
+</string>
+			<integer>1</integer>
+			<string>forcepull.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Cooldown: 45 seconds, Range: 10m-30m
+</string>
+					<string>Uses the Force to draw the target in, instantly pulling it to your location and generating a high amount of threat. Does not work against targets in cover.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Stasis</string>
+			<integer>1</integer>
+			<string>stasis.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases armor by 20% and allows Spinning Kick to be used while out of stealth mode.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Bombardment</string>
+			<integer>1</integer>
+			<string>bombardment.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the threat and damage dealt by Project by 15%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Force Break
+</string>
+			<integer>3</integer>
+			<string>forcebreak.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Combat Technique&apos;s Force Breach by 5% and Slow Time by 10%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Combat Technique&apos;s Force Breach by 10% and Slow Time by 20%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Combat Technique&apos;s Force Breach by 15% and Slow Time by 30%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Harnessed Shadows
+</string>
+			<integer>2</integer>
+			<string>harnessedshadows.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Project has a 50% chance to grant Harnessed Shadows, which makes the next Telekinetic Throw used uninterruptible and immune to pushback. In addition, each stack increases the damage dealt by your next Telekinetic Throw by 25%. Stacks up to 3 times. At 3 stacks, each tick of Telekinetic Throw heals you for 3% of your maximum health.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Project has a 100% chance to grant Harnessed Shadows, which makes the next Telekinetic Throw used uninterruptible and immune to pushback. In addition, each stack increases the damage dealt by your next Telekinetic Throw by 25%. Stacks up to 3 times. At 3 stacks, each tick of Telekinetic Throw heals you for 3% of your maximum health.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Slow Time
+</string>
+			<integer>1</integer>
+			<string>slowtime.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Force: 30, Cooldown: 7.5 seconds, Range: 10m
+</string>
+					<string>Slows the passage of time for up to 5 targets, dealing (current weapon) kinetic damage and decreasing the damage all targets deal by 5%. This ability generates a high amount of threat. Lasts 15 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+	</array>
+	<key>Infiltration (Damage)</key>
+	<array>
+		<array/>
+		<array>
+			<string>Shadow&apos;s Respite
+</string>
+			<integer>2</integer>
+			<string>shadowsrespite.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>While in stealth mode and for 6 seconds after leaving stealth mode, Force regeneration is increased by 25%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>While in stealth mode and for 6 seconds after leaving stealth mode, Force regeneration is increased by 50%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Infiltration Tactics
+</string>
+			<integer>3</integer>
+			<string>infiltrationtactics.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Direct damage attacks have a 10% chance to grant Find Weakness, causing your next Shadow Strike to ignore 50% of the target&apos;s armor and cost 50% less Force. Cannot occur more than once every 10 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Direct damage attacks have a 20% chance to grant Find Weakness, causing your next Shadow Strike to ignore 50% of the target&apos;s armor and cost 50% less Force. Cannot occur more than once every 10 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Direct damage attacks have a 30% chance to grant Find Weakness, causing your next Shadow Strike to ignore 50% of the target&apos;s armor and cost 50% less Force. Cannot occur more than once every 10 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Shadowy Veil
+</string>
+			<integer>2</integer>
+			<string>shadowyveil.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your armor rating by 15% while Shadow Technique or Force Technique is active.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your armor rating by 30% while Shadow Technique or Force Technique is active.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Celerity</string>
+			<integer>2</integer>
+			<string>celerity.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Lowers the cooldown of Mind Snap by 1 and Force of Will by 15 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Lowers the cooldown of Mind Snap by 2 and Force of Will by 30 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Security Breach
+</string>
+			<integer>2</integer>
+			<string>securitybreach.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Force Breach by 1.5 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Force Breach by 3 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Misdirection</string>
+			<integer>3</integer>
+			<string>misdirection.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your effective stealth level by 1 and movement speed by 5%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your effective stealth level by 2 and movement speed by 10%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your effective stealth level by 3 and movement speed by 15%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Vigor</string>
+			<integer>1</integer>
+			<string>vigor.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your total Force by 10.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Masked Assault
+</string>
+			<integer>1</integer>
+			<string>maskedassault.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Blackout can now be used out of stealth mode, granting 6 seconds of Shadow&apos;s Respite and restoring 10 Force. In addition, Force Cloak no longer reduces healing done and received.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Shadow Technique
+</string>
+			<integer>1</integer>
+			<string>shadowtechnique.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Force: 50
+</string>
+					<string>Assumes a shadow technique, giving your attacks a 25% chance to deal (current weapon) internal damage. This effect cannot occur more than once every 1.5 seconds. Requires a double-bladed lightsaber. Does not break Stealth.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Circling Shadows
+</string>
+			<integer>2</integer>
+			<string>circlingshadows.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage dealt by Shadow Strike by 50%. In addition, Double Strike and Clairvoyant Strike have a 15% chance to grant Circling Shadows, reducing the Force cost of your next Project by 25%. Stacks up to 2 times.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage dealt by Shadow Strike by 100%. In addition, Double Strike and Clairvoyant Strike have a 30% chance to grant Circling Shadows, reducing the Force cost of your next Project by 25%. Stacks up to 2 times.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Subduing Techniques
+</string>
+			<integer>2</integer>
+			<string>subduingtechniques.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the duration of Force Slow and reduces the cooldown of Force Slow by 3 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the duration of Force Slow and reduces the cooldown of Force Slow by 6 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Fade</string>
+			<integer>2</integer>
+			<string>fade.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Lowers the cooldown of Blackout by 7.5 and Force Cloak by 30.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Lowers the cooldown of Blackout by 15 and Force Cloak by 60.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Profundity</string>
+			<integer>3</integer>
+			<string>profundity.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When your Shadow Technique deals damage, you have a 33.34% chance to recover 10 Force. This effect cannot occur more than once every 10 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When your Shadow Technique deals damage, you have a 66.68% chance to recover 10 Force. This effect cannot occur more than once every 10 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When your Shadow Technique deals damage, you have a 100.02% chance to recover 10 Force. This effect cannot occur more than once every 10 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Kinetic Field
+</string>
+			<integer>2</integer>
+			<string>kineticfield.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces damage taken from area effects by 15%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces damage taken from area effects by 30%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Low Slash
+</string>
+			<integer>1</integer>
+			<string>lowslash.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Force: 30, Cooldown: 15 seconds, Range: 4m
+</string>
+					<string>Slashes the target low, dealing (current weapon) weapon damage and incapacitating the target for 4 seconds. Damage causes this effect to end prematurely. Requires a double-bladed lightsaber.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Exit Strategy
+</string>
+			<integer>2</integer>
+			<string>exitstrategy.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When your Shadow Technique deals damage, you have a 50% chance to formulate an exit strategy, increasing the damage dealt by your next Shadow Technique&apos;s Force Breach by 6%. Stacks up to 5 times.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When your Shadow Technique deals damage, you have a 100% chance to formulate an exit strategy, increasing the damage dealt by your next Shadow Technique&apos;s Force Breach by 6%. Stacks up to 5 times.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Situational Awareness
+</string>
+			<integer>2</integer>
+			<string>situationalawareness.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the Force cost of Whirling Blow by 5, and reduces the cooldown of Battle Readiness by 15 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the Force cost of Whirling Blow by 10, and reduces the cooldown of Battle Readiness by 30 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Deep Impact
+</string>
+			<integer>5</integer>
+			<string>deepimpact.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage dealt by your Force Breach effects and Project by 10%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage dealt by your Force Breach effects and Project by 20%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage dealt by your Force Breach effects and Project by 30%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage dealt by your Force Breach effects and Project by 40%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage dealt by your Force Breach effects and Project by 50%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Clairvoyant Strike
+</string>
+			<integer>1</integer>
+			<string>clairvoyantstrike.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Force: 25, Range: 4m
+</string>
+					<string>Strikes the target twice, dealing (current weapon) weapon damage for each hit. Each use of this ability increases the damage dealt by your next Project by 15%. Stacks up to 2 times.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+	</array>
+	<key>Balance (Damage)</key>
+	<array>
+		<array>
+			<string>Force Focus
+</string>
+			<integer>2</integer>
+			<string>forcefocus.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Force Technique&apos;s Force Breach effect by 8%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Force Technique&apos;s Force Breach effect by 16%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Jedi Resistance
+</string>
+			<integer>2</integer>
+			<string>jediresistance.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces all damage taken by 1%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces all damage taken by 2%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Force Synergy
+</string>
+			<integer>3</integer>
+			<string>forcesynergy.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force critical hits increase your melee critical chance by 3% for 10 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force critical hits increase your melee critical chance by 6% for 20 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force critical hits increase your melee critical chance by 9% for 30 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Psychokinesis</string>
+			<integer>2</integer>
+			<string>psychokinesis.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the Force cost of Double Strike by 1 and Project by 3.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the Force cost of Double Strike by 2 and Project by 6.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Focused Insight
+</string>
+			<integer>2</integer>
+			<string>focusedinsight.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Causes your periodic damaging abilities that critically hit to restore 0.5% of your total health.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Causes your periodic damaging abilities that critically hit to restore 1% of your total health.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Upheaval</string>
+			<integer>3</integer>
+			<string>upheaval.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When you activate Project, you have a 15% chance to project an additional chunk of debris at the target, dealing 50% of normal damage.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When you activate Project, you have a 30% chance to project an additional chunk of debris at the target, dealing 50% of normal damage.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When you activate Project, you have a 45% chance to project an additional chunk of debris at the target, dealing 50% of normal damage.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Pinning Resolve
+</string>
+			<integer>2</integer>
+			<string>pinningresolve.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Force Stun by 5 seconds. In addition, your Force Lift affects up to 1 within 8 meters of the target.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Force Stun by 10 seconds. In addition, your Force Lift affects up to 2 within 8 meters of the target.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Adjudication</string>
+			<integer>2</integer>
+			<string>adjudication.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage dealt by Double Strike by 25%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage dealt by Double Strike by 50%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Mental Potency
+</string>
+			<integer>2</integer>
+			<string>mentalpotency.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the Force cost of Force in Balance by 25%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the Force cost of Force in Balance by 50%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Force in Balance
+</string>
+			<integer>1</integer>
+			<string>forceinbalance.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Force: 50, Cooldown: 15 seconds, Range: 30m
+</string>
+					<string>Deals (current weapon) internal damage to up to 3 targets within 8 meters of the targeted area and heals you for ? per affected target.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Force Strike
+</string>
+			<integer>1</integer>
+			<string>forcestrike.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Melee critical hits have a 33% chance to finish the cooldown of Mind Crush and make your next Mind Crush activate instantly and cost 100% less Force.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Mind Ward
+</string>
+			<integer>2</integer>
+			<string>mindward.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the damage taken by all periodic effects by 7.5%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the damage taken by all periodic effects by 15%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Containment
+</string>
+			<integer>2</integer>
+			<string>containment.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Lowers the activation time of Force Lift by 50%. In addition, when your Force Lift breaks early from damage, the target is stunned for 1.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Lowers the activation time of Force Lift by 100%. In addition, when your Force Lift breaks early from damage, the target is stunned for 2.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Twin Disciplines
+</string>
+			<integer>2</integer>
+			<string>twindisciplines.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Project has a 50% chance to increase your melee bonus damage by 10% for 20 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Project has a 100% chance to increase your melee bonus damage by 10% for 40 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Sharpened Mind
+</string>
+			<integer>2</integer>
+			<string>sharpenedmind.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Consuming a Force Suppression charge restores 1 Force.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Consuming a Force Suppression charge restores 2 Force.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Force Suppression
+</string>
+			<integer>1</integer>
+			<string>forcesuppression.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force in Balance now suppresses resistance to the Force, increasing the amount of damage the targets suffer from your next 10 periodic damaging abilities by 20%. Lasts 30 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Psychic Absorption
+</string>
+			<integer>2</integer>
+			<string>psychicabsorption.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the amount of healing generated by Force in Balance and Focused Insight by 10%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the amount of healing generated by Force in Balance and Focused Insight by 20%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Mental Scarring
+</string>
+			<integer>3</integer>
+			<string>mentalscarring.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical damage bonus of Force in Balance and your periodic damage abilities by 10%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical damage bonus of Force in Balance and your periodic damage abilities by 20%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical damage bonus of Force in Balance and your periodic damage abilities by 30%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array/>
+		<array>
+			<string>Sever Force
+</string>
+			<integer>1</integer>
+			<string>severforce.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Force: 20, Cooldown: 9 seconds, Range: 30m
+</string>
+					<string>Weakens the target, freezing it in place for (current weapon) seconds and dealing 2 internal damage over 18 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+	</array>
+</dict>
+</plist>

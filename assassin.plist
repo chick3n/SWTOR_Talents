@@ -1,0 +1,1189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Darkness (Defense)</key>
+	<array>
+		<array>
+			<string>Charge Mastery
+</string>
+			<integer>3</integer>
+			<string>chargemastery.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Improves the effect of your lightsaber charges while they&apos;re active: 
+Lightning Charge: Increases the critical hit chance by 1% and the duration of Lightning Charge&apos;s Discharge by ?.
+Dark Charge: Increases the internal and elemental resistance by 3%.
+Surging Charge: Your attacks ignore ?% of your target&apos;s armor.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Improves the effect of your lightsaber charges while they&apos;re active: 
+Lightning Charge: Increases the critical hit chance by 2% and the duration of Lightning Charge&apos;s Discharge by ?.
+Dark Charge: Increases the internal and elemental resistance by 6%.
+Surging Charge: Your attacks ignore ?% of your target&apos;s armor.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Improves the effect of your lightsaber charges while they&apos;re active: 
+Lightning Charge: Increases the critical hit chance by 3% and the duration of Lightning Charge&apos;s Discharge by ?.
+Dark Charge: Increases the internal and elemental resistance by 9%.
+Surging Charge: Your attacks ignore ?% of your target&apos;s armor.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Lightning Reflexes
+</string>
+			<integer>2</integer>
+			<string>lightningreflexes.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Whenever you successfully shield, parry or deflect an attack, you recover 1% of your total Force. This effect cannot occur more than once a second. In addition, your melee and ranged defense is increased by 2%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Whenever you successfully shield, parry or deflect an attack, you recover 2% of your total Force. This effect cannot occur more than once a second. In addition, your melee and ranged defense is increased by 4%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Thrashing Blades
+</string>
+			<integer>2</integer>
+			<string>thrashingblades.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Thrash, Lacerate and Voltaic Slash by 3%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Thrash, Lacerate and Voltaic Slash by 6%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Electric Execution
+</string>
+			<integer>3</integer>
+			<string>electricexecution.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by your lightsaber charges by 3%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by your lightsaber charges by 6%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by your lightsaber charges by 9%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Swelling Shadows
+</string>
+			<integer>2</integer>
+			<string>swellingshadows.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the chance your Dark Charge applies its effects by 7.5%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the chance your Dark Charge applies its effects by 15%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Lightning Recovery
+</string>
+			<integer>2</integer>
+			<string>lightningrecovery.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Force Speed by 5 seconds and Force Shroud by 7.5 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Force Speed by 10 seconds and Force Shroud by 15 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Shroud of Darkness</string>
+			<integer>3</integer>
+			<string>shroudofdarkness.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases total Endurance by 1%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases total Endurance by 2%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases total Endurance by 3%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Premonition
+</string>
+			<integer>2</integer>
+			<string>premonition.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your stealth detection level by 1 and defense by 1%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your stealth detection level by 2 and defense by 2%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Dark Ward
+</string>
+			<integer>1</integer>
+			<string>darkward.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Force: 10, Cooldown: 12 seconds
+</string>
+					<string>Surrounds you in a dark ward with 8 charges that increases your shield chance by 15% for 20 seconds. Each time you successfully shield, Dark Ward loses 1 charge. Does not break Stealth.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Energize</string>
+			<integer>1</integer>
+			<string>energize.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>While Dark Charge is active, Thrash and Lacerate have a 50% chance to finish the cooldown on Shock and make your next Shock a critical hit. Energized Shocks that consume a charge of Recklessness deal an additional 50% critical damage.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Disjunction</string>
+			<integer>1</integer>
+			<string>disjunction.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Activating Force Speed now removes all movement-impairing effects, and your Force Shroud now lasts 2 seconds longer.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Blood of Sith
+</string>
+			<integer>3</integer>
+			<string>bloodofsith.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the rate at which your Force regenerates by 10%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the rate at which your Force regenerates by 20%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the rate at which your Force regenerates by 30%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Hollow</string>
+			<integer>2</integer>
+			<string>hollow.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your shield absorption by 2%. In addition, when you activate Overcharge Saber while Dark Charge is active, you instantly heal for 5% of your total health.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your shield absorption by 4%. In addition, when you activate Overcharge Saber while Dark Charge is active, you instantly heal for 10% of your total health.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Nerve Wracking
+</string>
+			<integer>3</integer>
+			<string>nervewracking.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Targets controlled by your Spike or Electrocute take 3% more damage from all sources.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Targets controlled by your Spike or Electrocute take 6% more damage from all sources.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Targets controlled by your Spike or Electrocute take 9% more damage from all sources.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Force Pull
+</string>
+			<integer>1</integer>
+			<string>forcepull.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Cooldown: 45 seconds, Range: 10m-30m
+</string>
+					<string>Uses the Force to draw the target in, instantly pulling it to your location and generating a high amount of threat. Does not work against targets in cover.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Eye of the Storm
+</string>
+			<integer>1</integer>
+			<string>eyeofthestorm.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases armor by 20% and allows Spike to be used while out of stealth mode.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Electrify
+</string>
+			<integer>1</integer>
+			<string>electrify.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the threat and damage dealt by Shock by 15%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Mounting Darkness
+</string>
+			<integer>3</integer>
+			<string>mountingdarkness.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Dark Charge&apos;s Discharge by 5% and Wither by 10%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Dark Charge&apos;s Discharge by 10% and Wither by 20%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Dark Charge&apos;s Discharge by 15% and Wither by 30%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Harnessed Darkness
+</string>
+			<integer>2</integer>
+			<string>harnesseddarkness.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Shock has a 50% chance to grant Harnessed Darkness, which makes the next Force Lightning used uninterruptible and immune to pushback. In addition, each stack increases the damage dealt by your next Force Lightning by 25%. Stacks up to 3 times. At 3 stacks, each tick of Force Lightning heals you for 3% of your maximum health.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Shock has a 100% chance to grant Harnessed Darkness, which makes the next Force Lightning used uninterruptible and immune to pushback. In addition, each stack increases the damage dealt by your next Force Lightning by 25%. Stacks up to 3 times. At 3 stacks, each tick of Force Lightning heals you for 3% of your maximum health.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Wither</string>
+			<integer>1</integer>
+			<string>wither.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Force: 30, Cooldown: 7.5 seconds, Range: 10m
+</string>
+					<string>Causes up to 5 targets to wither under the weight of the Force, dealing (current weapon) kinetic damage and decreasing the damage all targets deal by 5%. This ability generates a high amount of threat. Lasts 15 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+	</array>
+	<key>Deception (Damage)</key>
+	<array>
+		<array/>
+		<array>
+			<string>Dark Embrace
+</string>
+			<integer>2</integer>
+			<string>darkembrace.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>While in stealth mode and for 6 seconds after leaving stealth mode, Force regeneration is increased by 25%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>While in stealth mode and for 6 seconds after leaving stealth mode, Force regeneration is increased by 50%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Duplicity</string>
+			<integer>3</integer>
+			<string>duplicity.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Direct damage attacks have a 10% chance to grant Exploit Weakness, causing your next Maul to ignore 50% of the target&apos;s armor and cost 50% less Force. Cannot occur more than once every 10 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Direct damage attacks have a 20% chance to grant Exploit Weakness, causing your next Maul to ignore 50% of the target&apos;s armor and cost 50% less Force. Cannot occur more than once every 10 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Direct damage attacks have a 30% chance to grant Exploit Weakness, causing your next Maul to ignore 50% of the target&apos;s armor and cost 50% less Force. Cannot occur more than once every 10 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Insulation</string>
+			<integer>2</integer>
+			<string>insulation.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your armor rating by 15% while Surging Charge or Lightning Charge is active.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your armor rating by 30% while Surging Charge or Lightning Charge is active.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Avoidance</string>
+			<integer>2</integer>
+			<string>avoidance.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Lowers the cooldown of Jolt by 1 and Unbreakable Will by 15 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Lowers the cooldown of Jolt by 2 and Unbreakable Will by 30 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Recirculation</string>
+			<integer>2</integer>
+			<string>recirculation.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Discharge by 1.5 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Discharge by 3 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Obfuscation</string>
+			<integer>3</integer>
+			<string>obfuscation.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your effective stealth level by 1 and movement speed by 5%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your effective stealth level by 2 and movement speed by 10%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your effective stealth level by 3 and movement speed by 15%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Deceptive Power
+</string>
+			<integer>1</integer>
+			<string>deceptivepower.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your total Force by 10.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Darkswell</string>
+			<integer>1</integer>
+			<string>darkswell.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Blackout can now be used out of stealth mode, granting 6 seconds of Dark Embrace and restoring 10 Force. In addition, Force Cloak no longer reduces healing done and received.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Surging Charge
+</string>
+			<integer>1</integer>
+			<string>surgingcharge.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Force: 50
+</string>
+					<string>Charges your lightsaber with raw surging Force, giving your attacks a 25% chance to deal (current weapon) internal damage. This effect cannot occur more than once every 1.5 seconds. Requires a double-bladed lightsaber. Does not break Stealth.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Induction</string>
+			<integer>2</integer>
+			<string>induction.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage dealt by Maul by 50%. In addition, Thrash and Voltaic Slash have a 15% chance to grant Induction, reducing the Force cost of your next Shock by 25%. Stacks up to 2 times.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage dealt by Maul by 100%. In addition, Thrash and Voltaic Slash have a 30% chance to grant Induction, reducing the Force cost of your next Shock by 25%. Stacks up to 2 times.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Static Cling
+</string>
+			<integer>2</integer>
+			<string>staticcling.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the duration of Force Slow and reduces the cooldown of Force Slow by 3 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the duration of Force Slow and reduces the cooldown of Force Slow by 6 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Fade</string>
+			<integer>2</integer>
+			<string>fade.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Lowers the cooldown of Blackout by 7.5 and Force Cloak by 30.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Lowers the cooldown of Blackout by 15 and Force Cloak by 60.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Saber Conduit
+</string>
+			<integer>3</integer>
+			<string>saberconduit.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Your Surging Charge has a 33.34% chance to restore 10 Force when it deals damage to an enemy. This effect cannot occur more than once every 10 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Your Surging Charge has a 66.68% chance to restore 10 Force when it deals damage to an enemy. This effect cannot occur more than once every 10 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Your Surging Charge has a 100.02% chance to restore 10 Force when it deals damage to an enemy. This effect cannot occur more than once every 10 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Entropic Field
+</string>
+			<integer>2</integer>
+			<string>entropicfield.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces damage taken from area effects by 15%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces damage taken from area effects by 30%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Low Slash
+</string>
+			<integer>1</integer>
+			<string>lowslash.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Force: 30, Cooldown: 15 seconds, Range: 4m
+</string>
+					<string>Slashes the target low, dealing (current weapon) weapon damage and incapacitating the target for 4 seconds. Damage causes this effect to end prematurely. Requires a double-bladed lightsaber.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Static Charges
+</string>
+			<integer>2</integer>
+			<string>staticcharges.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When your Surging Charge deals damage, you have a 50% chance to build a Static Charge, increasing the damage dealt by your next Surging Charge by 6%. Stacks up to 5 times.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When your Surging Charge deals damage, you have a 100% chance to build a Static Charge, increasing the damage dealt by your next Surging Charge by 6%. Stacks up to 5 times.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Resourcefulness
+</string>
+			<integer>2</integer>
+			<string>resourcefulness.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the Force cost of Lacerate by 5, and reduces the cooldown of Overcharge Saber by 15 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the Force cost of Lacerate by 10, and reduces the cooldown of Overcharge Saber by 30 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Crackling Blasts
+</string>
+			<integer>5</integer>
+			<string>cracklingblasts.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage dealt by your Discharge effects and Shock by 10%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage dealt by your Discharge effects and Shock by 20%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage dealt by your Discharge effects and Shock by 30%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage dealt by your Discharge effects and Shock by 40%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage dealt by your Discharge effects and Shock by 50%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Voltaic Slash
+</string>
+			<integer>1</integer>
+			<string>voltaicslash.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Force: 25, Range: 4m
+</string>
+					<string>Strikes the target twice, dealing (current weapon) weapon damage with each hit. Each use of this ability increases the damage dealt by your next Shock by 15%. Stacks up to 2 times.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+	</array>
+	<key>Madness (Damage)</key>
+	<array>
+		<array>
+			<string>Crackling Charge
+</string>
+			<integer>2</integer>
+			<string>cracklingcharge.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Lightning Charge&apos;s Discharge effect by 8%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Lightning Charge&apos;s Discharge effect by 16%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Sith Defiance
+</string>
+			<integer>2</integer>
+			<string>sithdefiance.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces all damage taken by 1%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces all damage taken by 2%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Exploitive Strikes
+</string>
+			<integer>3</integer>
+			<string>exploitivestrikes.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Critical hits with Force attacks increase your melee critical chance by 3% for 10 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Critical hits with Force attacks increase your melee critical chance by 6% for 20 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Critical hits with Force attacks increase your melee critical chance by 9% for 30 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Torment
+</string>
+			<integer>2</integer>
+			<string>torment.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the Force cost of Thrash by 1 and Shock by 3.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the Force cost of Thrash by 2 and Shock by 6.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Parasitism</string>
+			<integer>2</integer>
+			<string>parasitism.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Causes critical hits from periodic damage abilities to restore 0.5% of your total health.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Causes critical hits from periodic damage abilities to restore 1% of your total health.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Chain Shock
+</string>
+			<integer>3</integer>
+			<string>chainshock.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When you activate Shock, you have a 15% chance to activate a second Shock, dealing 50% of normal damage.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When you activate Shock, you have a 30% chance to activate a second Shock, dealing 50% of normal damage.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When you activate Shock, you have a 45% chance to activate a second Shock, dealing 50% of normal damage.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Oppressing Force
+</string>
+			<integer>2</integer>
+			<string>oppressingforce.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Lowers the cooldown of Electrocute by 5 seconds. In addition, your Whirlwind affects up to 1 within 8 meters of the target.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Lowers the cooldown of Electrocute by 10 seconds. In addition, your Whirlwind affects up to 2 within 8 meters of the target.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Claws of Decay
+</string>
+			<integer>2</integer>
+			<string>clawsofdecay.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage dealt by Thrash by 25%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage dealt by Thrash by 50%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Fanaticism</string>
+			<integer>2</integer>
+			<string>fanaticism.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the Force cost of Death Field by 25%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the Force cost of Death Field by 50%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Death Field
+</string>
+			<integer>1</integer>
+			<string>deathfield.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Force: 50, Cooldown: 15 seconds, Range: 30m
+</string>
+					<string>Creates a death field at the target location, dealing (current weapon) internal damage and stealing ? health from up to 3 targets within an 8-meter radius.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Raze</string>
+			<integer>1</integer>
+			<string>raze.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Melee critical hits have a 33% chance to finish the cooldown on Crushing Darkness and make your next Crushing Darkness activate instantly and cost 100% less Force.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Corrupted Flesh
+</string>
+			<integer>2</integer>
+			<string>corruptedflesh.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the damage taken by all periodic effects by 7.5%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the damage taken by all periodic effects by 15%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Haunted Dreams
+</string>
+			<integer>2</integer>
+			<string>haunteddreams.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Lowers the activation time of Whirlwind by 50%. In addition, when your Whirlwind breaks early from damage, the target is stunned for 1.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Lowers the activation time of Whirlwind by 100%. In addition, when your Whirlwind breaks early from damage, the target is stunned for 2.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Unearthed Knowledge
+</string>
+			<integer>2</integer>
+			<string>unearthedknowledge.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Shock has a 50% chance to increase your melee bonus damage by 10% for 20 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Shock has a 100% chance to increase your melee bonus damage by 10% for 40 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Calculating Mind
+</string>
+			<integer>2</integer>
+			<string>calculatingmind.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Consuming a Deathmark charge restores 1 Force.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Consuming a Deathmark charge restores 2 Force.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Deathmark</string>
+			<integer>1</integer>
+			<string>deathmark.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Death Field places a deathmark on affected targets, increasing the amount of damage the targets suffer from your next 10 periodic damaging abilities by 20%. Lasts 30 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Devour</string>
+			<integer>2</integer>
+			<string>devour.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the amount of healing generated by Death Field and Parasitism by 10%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the amount of healing generated by Death Field and Parasitism by 20%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Creeping Death
+</string>
+			<integer>3</integer>
+			<string>creepingdeath.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical damage bonus of Death Field and your periodic damage abilities by 10%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical damage bonus of Death Field and your periodic damage abilities by 20%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical damage bonus of Death Field and your periodic damage abilities by 30%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array/>
+		<array>
+			<string>Creeping Terror
+</string>
+			<integer>1</integer>
+			<string>creepingterror.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Force: 20, Cooldown: 9 seconds, Range: 30m
+</string>
+					<string>Paralyzes the target in fear, immobilizing it for 2 seconds and dealing (current weapon) internal damage over 18 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+	</array>
+</dict>
+</plist>

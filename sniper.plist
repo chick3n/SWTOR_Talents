@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Marksmanship (Damage)</key>
+	<array>
+		<array/>
+		<array>
+			<string>Marksmanship</string>
+			<integer>3</integer>
+			<string>marksmanship.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases ranged and tech accuracy by 1%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases ranged and tech accuracy by 2%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases ranged and tech accuracy by 3%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Steady Shots
+</string>
+			<integer>2</integer>
+			<string>steadyshots.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Snipe, Series of Shots and Cull by 3%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Snipe, Series of Shots and Cull by 6%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Cover Screen
+</string>
+			<integer>2</integer>
+			<string>coverscreen.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When exiting cover, you have a 50% chance to gain Cover Screen, increasing ranged defense by 20% for 6 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When exiting cover, you have a 100% chance to gain Cover Screen, increasing ranged defense by 20% for 6 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Imperial Demarcation
+</string>
+			<integer>2</integer>
+			<string>imperialdemarcation.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Leg Shot by 1.5 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Leg Shot by 3 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Precision Ambush
+</string>
+			<integer>2</integer>
+			<string>precisionambush.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Ambush ignores 10% of the target&apos;s armor.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Ambush ignores 20% of the target&apos;s armor.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Ballistic Dampers
+</string>
+			<integer>2</integer>
+			<string>ballisticdampers.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Entering cover grants 3 charges of Ballistic Dampers. Each charge absorbs 15% of the damage dealt by an incoming attack. This effect cannot occur more than once every 1.5 seconds. Ballistic Dampers can only be gained once every 6 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Entering cover grants 3 charges of Ballistic Dampers. Each charge absorbs 30% of the damage dealt by an incoming attack. This effect cannot occur more than once every 1.5 seconds. Ballistic Dampers can only be gained once every 6 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Heavy Shot
+</string>
+			<integer>1</integer>
+			<string>heavyshot.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When Ambush strikes a target within 10 meters, the target is knocked back several meters.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Reactive Shot
+</string>
+			<integer>2</integer>
+			<string>reactiveshot.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Snipe and Series of Shots critical hits have a 50% chance to reduce the activation time of the next Ambush by 1 second.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Snipe and Series of Shots critical hits have a 100% chance to reduce the activation time of the next Ambush by 1 second.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Diversion</string>
+			<integer>1</integer>
+			<string>diversion.png</string>
+			<array>
+				<array>
+					<string>Instant
+</string>
+					<string>Cooldown: 60 seconds, Range: 35m
+</string>
+					<string>Throws a smoking canister at the target, reducing its accuracy by 45% for 9 seconds and exposing the target from cover for 6 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Snap Shot
+</string>
+			<integer>2</integer>
+			<string>snapshot.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Entering cover has a 50% chance to make the next Snipe activate instantly.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Entering cover has a 100% chance to make the next Snipe activate instantly.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Sniper&apos;s Nest
+</string>
+			<integer>1</integer>
+			<string>snipersnest.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the energy regeneration rate by 1 per second while in cover.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Sniper Volley
+</string>
+			<integer>3</integer>
+			<string>snipervolley.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Ambush has a 33.34% chance to grant Sniper Volley, increasing alacrity by 3% for 6 seconds. While Sniper Volley is active, each subsequent Snipe has a ?% chance to build an additional stack of Sniper Volley. Stacks up to 3 times. The initial Sniper Volley effect cannot be gained more than once every 30 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Ambush has a 66.68% chance to grant Sniper Volley, increasing alacrity by 3% for 12 seconds. While Sniper Volley is active, each subsequent Snipe has a ?% chance to build an additional stack of Sniper Volley. Stacks up to 3 times. The initial Sniper Volley effect cannot be gained more than once every 30 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Ambush has a 100.02% chance to grant Sniper Volley, increasing alacrity by 3% for 18 seconds. While Sniper Volley is active, each subsequent Snipe has a ?% chance to build an additional stack of Sniper Volley. Stacks up to 3 times. The initial Sniper Volley effect cannot be gained more than once every 30 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Sector Ranger
+</string>
+			<integer>1</integer>
+			<string>sectorranger.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Cover Pulse knocks targets back an additional 2. Additionally reduces the activation time of Orbital Strike by 1 second.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Between the Eyes
+</string>
+			<integer>2</integer>
+			<string>betweentheeyes.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical hit chance of Snipe, Series of Shots and Followthrough by 2%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical hit chance of Snipe, Series of Shots and Followthrough by 4%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Pillbox Sniper
+</string>
+			<integer>2</integer>
+			<string>pillboxsniper.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Entrench and Orbital Strike by 7.5 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Entrench and Orbital Strike by 15 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Followthrough
+</string>
+			<integer>1</integer>
+			<string>followthrough.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Energy: 10, Cooldown: 9 seconds, Range: 30m
+</string>
+					<string>Fires a well-controlled follow-up shot at the target that deals (current weapon) weapon damage. Only usable within the 4.5 seconds immediately following a Snipe or Ambush.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Recoil Control
+</string>
+			<integer>2</integer>
+			<string>recoilcontrol.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the energy cost of Followthrough by 2 and reduces its cooldown by 1.5 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the energy cost of Followthrough by 4 and reduces its cooldown by 3 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Imperial Assassin
+</string>
+			<integer>5</integer>
+			<string>imperialassassin.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical damage dealt by Series of Shots, Takedown and Followthrough by 6%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical damage dealt by Series of Shots, Takedown and Followthrough by 12%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical damage dealt by Series of Shots, Takedown and Followthrough by 18%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical damage dealt by Series of Shots, Takedown and Followthrough by 24%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical damage dealt by Series of Shots, Takedown and Followthrough by 30%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array/>
+		<array>
+			<string>Rapid Fire
+</string>
+			<integer>1</integer>
+			<string>rapidfire.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Cooldown: 90 seconds
+</string>
+					<string>Immediately finishes the cooldown on Series of Shots and triggers the next Series of Shots without a cooldown.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+	</array>
+	<key>Engineering (Damage)</key>
+	<array>
+		<array>
+			<string>Gearhead</string>
+			<integer>3</integer>
+			<string>gearhead.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases total Cunning by 3%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases total Cunning by 6%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases total Cunning by 9%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Energy Tanks
+</string>
+			<integer>2</integer>
+			<string>energytanks.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases maximum energy by 5.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases maximum energy by 10.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Engineer&apos;s Tool Belt
+</string>
+			<integer>2</integer>
+			<string>engineerstoolbelt.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Flash Bang by 7.5 seconds and Fragmentation Grenade by 1.5 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Flash Bang by 15 seconds and Fragmentation Grenade by 3 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Vitality Serum
+</string>
+			<integer>2</integer>
+			<string>vitalityserum.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases total Endurance by 2%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases total Endurance by 4%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Calculated Pursuit
+</string>
+			<integer>2</integer>
+			<string>calculatedpursuit.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>You have a 50% chance to gain Calculated Pursuit upon exiting cover, allowing your next Snipe to be used in any situation.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>You have a 100% chance to gain Calculated Pursuit upon exiting cover, allowing your next Snipe to be used in any situation.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Vital Regulators
+</string>
+			<integer>2</integer>
+			<string>vitalregulators.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Adrenaline Probe now heals you for 3% of your total health over 3 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Adrenaline Probe now heals you for 6% of your total health over 3 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Explosive Engineering
+</string>
+			<integer>3</integer>
+			<string>explosiveengineering.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Explosive Probe and all area effects by 5%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Explosive Probe and all area effects by 10%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Explosive Probe and all area effects by 15%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Inventive Interrogation Techniques
+</string>
+			<integer>2</integer>
+			<string>inventiveinterrogationtechniques.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Interrogation Probe reduces the target&apos;s movement speed by 15% for the duration.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Interrogation Probe reduces the target&apos;s movement speed by 30% for the duration.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Interrogation Probe
+</string>
+			<integer>1</integer>
+			<string>interrogationprobe.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Energy: 20, Cooldown: 18 seconds, Range: 30m
+</string>
+					<string>Summons an interrogation probe that clings to the target and deals (current weapon) energy damage over 18 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Efficient Engineering
+</string>
+			<integer>2</integer>
+			<string>efficientengineering.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the energy cost of Explosive Probe, Interrogation Probe and Plasma Probe by 2.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the energy cost of Explosive Probe, Interrogation Probe and Plasma Probe by 4.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Cluster Bombs
+</string>
+			<integer>2</integer>
+			<string>clusterbombs.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>After Explosive Probe detonates, it drops 1 on the target. A cluster bomb explodes when damaged by blaster fire, dealing (current weapon) kinetic damage to the target. Cluster bombs cannot be detonated more than once every 1.5 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>After Explosive Probe detonates, it drops 2 on the target. A cluster bomb explodes when damaged by blaster fire, dealing (current weapon) kinetic damage to the target. Cluster bombs cannot be detonated more than once every 1.5 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Experimental Explosives
+</string>
+			<integer>2</integer>
+			<string>experimentalexplosives.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical damage dealt by all area effects by 15%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical damage dealt by all area effects by 30%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Stroke of Genius
+</string>
+			<integer>2</integer>
+			<string>strokeofgenius.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Activating Cover Pulse has a 50% chance of making the next Snipe activate instantly.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Activating Cover Pulse has a 100% chance of making the next Snipe activate instantly.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Imperial Methodology
+</string>
+			<integer>1</integer>
+			<string>imperialmethodology.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the number of cluster bombs dropped by Explosive Probe by 1. In addition, when the cluster bombs detonate, you recover 5 energy.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Augmented Shields
+</string>
+			<integer>2</integer>
+			<string>augmentedshields.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the amount of damage absorbed by Shield Probe by 15%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the amount of damage absorbed by Shield Probe by 30%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>EMP Discharge
+</string>
+			<integer>1</integer>
+			<string>empdischarge.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Cooldown: 60 seconds, Range: 30m
+</string>
+					<string>Discharges an electromagnetic pulse from an active Interrogation Probe on the target, immediately dealing (current weapon) energy damage to the affected target. Also immediately finishes the cooldown on Adrenaline Probe and Shield Probe.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Energy Overrides
+</string>
+			<integer>2</integer>
+			<string>energyoverrides.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>After activating EMP Discharge, the next Explosive Probe or Plasma Probe used costs 50% less energy.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>After activating EMP Discharge, the next Explosive Probe or Plasma Probe used costs 100% less energy.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Electrified Railgun
+</string>
+			<integer>3</integer>
+			<string>electrifiedrailgun.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Series of Shots has a 33.34% chance when dealing damage to electrify the target, dealing (current weapon) elemental damage over 4 seconds. Stacks up to 4 times.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Series of Shots has a 66.68% chance when dealing damage to electrify the target, dealing (current weapon) elemental damage over 8 seconds. Stacks up to 4 times.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Series of Shots has a 100.02% chance when dealing damage to electrify the target, dealing (current weapon) elemental damage over 12 seconds. Stacks up to 4 times.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Deployed Shields
+</string>
+			<integer>2</integer>
+			<string>deployedshields.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces all damage taken while in cover by 3% and reduces the cooldown of Ballistic Shield by 15 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces all damage taken while in cover by 6% and reduces the cooldown of Ballistic Shield by 30 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Plasma Probe
+</string>
+			<integer>1</integer>
+			<string>plasmaprobe.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Energy: 20, Cooldown: 18 seconds, Range: 30m
+</string>
+					<string>Deploys a plasma drone over the target area that deals (current weapon) elemental damage over 18 seconds to up to 3 enemies within 5 meters.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+	</array>
+	<key>Lethality (Damage)</key>
+	<array>
+		<array>
+			<string>Razor Edge
+</string>
+			<integer>2</integer>
+			<string>razoredge.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Shiv by 5%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Shiv by 10%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Lethality</string>
+			<integer>3</integer>
+			<string>lethality.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases ranged and tech critical chance by 2%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases ranged and tech critical chance by 4%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases ranged and tech critical chance by 6%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Deadly Directive
+</string>
+			<integer>2</integer>
+			<string>deadlydirective.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases alacrity by 2%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases alacrity by 4%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Lethal Injectors
+</string>
+			<integer>1</integer>
+			<string>lethalinjectors.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the duration of Corrosive Dart by 3 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Corrosive Microbes
+</string>
+			<integer>2</integer>
+			<string>corrosivemicrobes.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Corrosive Dart has a 12.5% chance to tick twice when it inflicts damage.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Corrosive Dart has a 25% chance to tick twice when it inflicts damage.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Flash Powder
+</string>
+			<integer>2</integer>
+			<string>flashpowder.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces all targets&apos; accuracy by 10% for 8 seconds after Flash Bang ends.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces all targets&apos; accuracy by 20% for 8 seconds after Flash Bang ends.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Slip Away
+</string>
+			<integer>2</integer>
+			<string>slipaway.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Debilitate by 7.5 seconds, and increases movement speed by 15% for 4 seconds after activating Debilitate.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Debilitate by 15 seconds, and increases movement speed by 30% for 8 seconds after activating Debilitate.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Cut Down
+</string>
+			<integer>2</integer>
+			<string>cutdown.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Overload Shot, Series of Shots and Cull by 3%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Overload Shot, Series of Shots and Cull by 6%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Targeted Demolition
+</string>
+			<integer>2</integer>
+			<string>targeteddemolition.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Fragmentation Grenade and Corrosive Grenade by 4%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Fragmentation Grenade and Corrosive Grenade by 8%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Corrosive Grenade
+</string>
+			<integer>1</integer>
+			<string>corrosivegrenade.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Energy: 20, Cooldown: 12 seconds, Range: 30m
+</string>
+					<string>Hurls a corrosive grenade that spews acid in a 5-meter radius on impact, dealing (current weapon) internal damage over 21 seconds to up to 3 targets.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Lethal Dose
+</string>
+			<integer>3</integer>
+			<string>lethaldose.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical hit chance of all periodic effects by 4%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical hit chance of all periodic effects by 8%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical hit chance of all periodic effects by 12%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Vanish</string>
+			<integer>2</integer>
+			<string>vanish.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Evasion by 7.5 seconds and Escape by 15 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Evasion by 15 seconds and Escape by 30 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Adhesive Corrosives
+</string>
+			<integer>2</integer>
+			<string>adhesivecorrosives.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Corrosive Grenade has a 50% chance to reduce the movement speed of all targets by 30% for 6 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Corrosive Grenade has a 100% chance to reduce the movement speed of all targets by 30% for 6 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Lethal Purpose
+</string>
+			<integer>2</integer>
+			<string>lethalpurpose.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Adrenaline Probe by 15 seconds. In addition, critical hits with poison effects restore 1 energy.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Adrenaline Probe by 30 seconds. In addition, critical hits with poison effects restore 2 energy.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Counterstrike</string>
+			<integer>2</integer>
+			<string>counterstrike.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Countermeasures has a 50% chance to remove all movement-impairing effects when activated.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Countermeasures has a 100% chance to remove all movement-impairing effects when activated.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Razor Rounds
+</string>
+			<integer>2</integer>
+			<string>razorrounds.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical chance of Cull and Series of Shots by 2%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical chance of Cull and Series of Shots by 4%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Cull</string>
+			<integer>1</integer>
+			<string>cull.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Energy: 30, Cooldown: 9 seconds, Range: 10m
+</string>
+					<string>Fires a volley of bolts at the target, dealing (current weapon) weapon damage each second. For each of your poison effects present on the target, the target is culled for an additional (current weapon) internal damage each second.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Hold Your Ground
+</string>
+			<integer>2</integer>
+			<string>holdyourground.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Shield Probe by 7.5 seconds and Cover Pulse by 5 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Shield Probe by 15 seconds and Cover Pulse by 10 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Devouring Microbes
+</string>
+			<integer>3</integer>
+			<string>devouringmicrobes.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by poison effects by 5% on targets below 30% of max health.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by poison effects by 10% on targets below 30% of max health.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by poison effects by 15% on targets below 30% of max health.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array/>
+		<array>
+			<string>Weakening Blast
+</string>
+			<integer>1</integer>
+			<string>weakeningblast.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Energy: 10, Cooldown: 15 seconds, Range: 10m
+</string>
+					<string>Deals (current weapon) weapon damage and causes the target to take 30% additional damage from the Agent&apos;s next 10 poison effects. Lasts 15 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+	</array>
+</dict>
+</plist>

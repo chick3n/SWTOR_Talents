@@ -1,0 +1,1879 @@
+TSWTOR_Talents
+v7
+r0
+t347833155.463085
+cCheck dependencies
+cProcessInfoPlistFile "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/Info.plist" SWTOR_Talents-Info.plist
+cCompileXIB "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/MainWindow.xib"
+cCompileXIB "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/RootViewController.xib"
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/profiles.jpg profiles.jpg
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/republic_link.jpg republic_link.jpg
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/sith_link.jpg sith_link.jpg
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/swtor_header.jpg swtor_header.jpg
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/jedi_icon_large.jpg jedi_icon_large.jpg
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/smuggler_icon_large.jpg smuggler_icon_large.jpg
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/trooper_icon_large.jpg trooper_icon_large.jpg
+cCompileXIB "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/TalentViewController.xib"
+cCompileXIB "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SectionViewController.xib"
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/agen_icon_large.jpg agen_icon_large.jpg
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/hunter_icon_large.jpg hunter_icon_large.jpg
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/inquisitor_icon_large.jpg inquisitor_icon_large.jpg
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/warrior_icon_large.jpg warrior_icon_large.jpg
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/consular_icon_large.jpg consular_icon_large.jpg
+cCopyPlistFile "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/commando2.plist" commando2.plist
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/adrenaline_fueled.png adrenaline_fueled.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/advanced_tech.png advanced_tech.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/armor_screen.png armor_screen.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/assault_plastique.png assault_plastique.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/assault_trooper.png assault_trooper.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/bacta_infusion.png bacta_infusion.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/burnout.png burnout.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/cell_capacitor.png cell_capacitor.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/cell_charger.png cell_charger.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/charged_barrel.png charged_barrel.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/charged_barrier.png charged_barrier.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/combat_shield.png combat_shield.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/concussive_force.png concussive_force.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/cover_fire.png cover_fire.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/curtain_of_fire.png curtain_of_fire.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/deadly_cannon.png deadly_cannon.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/degauss.png degauss.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/demolition_round.png demolition_round.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/efficient_conversions.png efficient_conversions.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/field_medicine.png field_medicine.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/field_training.png field_training.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/field_triage.png field_triage.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/first_responder.png first_responder.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/grav_round.png grav_round.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/gravity_surge.png gravity_surge.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/havoc_rounds.png havoc_rounds.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/heavy_trooper.png heavy_trooper.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/high_friction_bolts.png high_friction_bolts.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/incendiary_round.png incendiary_round.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/ionic_accelerator.png ionic_accelerator.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/ironsights.png ironsights.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/kolto_bomb.png kolto_bomb.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/kolto_recharge.png kolto_recharge.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/kolto_residue.png kolto_residue.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/med_zone.png med_zone.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/muzzle_fluting.png muzzle_fluting.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/nightvision_scope.png nightvision_scope.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/parallactic_combat_stims.png parallactic_combat_stims.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/potent_medicine.png potent_medicine.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/preventative_medicine.png preventative_medicine.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/psych_aid.png psych_aid.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/quick_thinking.png quick_thinking.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/rain_of_fire.png rain_of_fire.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/rapid_recharge.png rapid_recharge.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/reflexive_shield.png reflexive_shield.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/reserve_round.png reserve_round.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/rotary_cannon.png rotary_cannon.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/soldiers_endurance.png soldiers_endurance.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/special_munitions.png special_munitions.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/steadied_aim.png steadied_aim.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/steady_hands.png steady_hands.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/supercharge_cells.png supercharge_cells.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/superheated_plasma.png superheated_plasma.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/sweltering_heat.png sweltering_heat.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/target_lock.png target_lock.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/tenacious_defense.png tenacious_defense.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/trauma_probe.png trauma_probe.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/treated_wound_dressings.png treated_wound_dressings.png
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/weapon_calibrations.png weapon_calibrations.png
+cCopyPlistFile "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/commando.plist" commando.plist
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/treeborder.jpg treeborder.jpg
+cCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/skillcount.jpg skillcount.jpg
+cProcessPCH /var/folders/Ya/Ya4OuvihG3mL5Y5-34PHpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWTOR_Talents_Prefix-diszxetkylcthegglxqamiyrindu/SWTOR_Talents_Prefix.pch.gch SWTOR_Talents_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/main.o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/SWTOR_TalentsAppDelegate.o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTOR_TalentsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/RootViewController.o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/TalentViewController.o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/TalentViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/SectionViewController.o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SectionViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/ItemView.o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/ItemView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/SWTOR_Talents" normal i386
+cGenerateDSYMFile "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app.dSYM" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/SWTOR_Talents"
+cTouch "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/ItemView.h
+c000000004F0B4ACD0000000000000282
+t1326140109
+s642
+i<UIKit/UIKit.h>
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/ItemView.m
+c000000004F0B4BA70000000000000D64
+t1326140327
+s3428
+i"ItemView.h"
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/RepulicClasses.xib
+c000000004F091B5D0000000000001643
+t1325996893
+s5699
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/RootViewController.h
+c000000004F09F49A0000000000000371
+t1326052506
+s881
+i<UIKit/UIKit.h>
+i"TalentViewController.h"
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/RootViewController.m
+c000000004F09F4CC0000000000001223
+t1326052556
+s4643
+i"RootViewController.h"
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTORClassesViewController.h
+c000000004F09164200000000000002AE
+t1325995586
+s686
+i<UIKit/UIKit.h>
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTORClassesViewController.m
+c000000004F0918F90000000000000B12
+t1325996281
+s2834
+i"SWTORClassesViewController.h"
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTORClassesViewController.xib
+c000000004F091A5F0000000000009FF5
+t1325996639
+s40949
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTOR_TalentsAppDelegate.h
+c000000004F08E14800000000000001E8
+t1325982024
+s488
+i<UIKit/UIKit.h>
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTOR_TalentsAppDelegate.m
+c000000004F08E1480000000000000AC2
+t1325982024
+s2754
+i"SWTOR_TalentsAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SectionViewController.h
+c000000004F0B3E830000000000000295
+t1326136963
+s661
+i<UIKit/UIKit.h>
+i"ItemView.h"
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SectionViewController.m
+c000000004F0B4E2E0000000000000BFB
+t1326140974
+s3067
+i"SectionViewController.h"
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SectionViewController.xib
+c000000004F0B45380000000000005E9E
+t1326138680
+s24222
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/TalentViewController.h
+c000000004F09FDF200000000000002DF
+t1326054898
+s735
+i<UIKit/UIKit.h>
+i"SectionViewController.h"
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/TalentViewController.m
+c000000004F0A16B700000000000019A9
+t1326061239
+s6569
+i"TalentViewController.h"
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/TalentViewController.xib
+c000000004F0A15580000000000005172
+t1326060888
+s20850
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/MainWindow.xib
+c000000004F0909FC00000000000067FD
+t1325992444
+s26621
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/RootViewController.xib
+c000000004F0923F9000000000000BEBB
+t1325999097
+s48827
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/SWTOR_Talents_Prefix.pch
+c000000004F08E148000000000000014C
+t1325982024
+s332
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/adrenaline_fueled.png
+c000000004F09F2700000000000000E42
+t1326051952
+s3650
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/advanced_tech.png
+c000000004F09F24B0000000000000F32
+t1326051915
+s3890
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/agen_icon_large.jpg
+c000000004F09077900000000000023AA
+t1325991801
+s9130
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/armor_screen.png
+c000000004F09F0650000000000000DDF
+t1326051429
+s3551
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/assault_plastique.png
+c000000004F09F26400000000000011AA
+t1326051940
+s4522
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/assault_trooper.png
+c000000004F09F2A2000000000000108C
+t1326052002
+s4236
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/bacta_infusion.png
+c000000004F09EFB70000000000000EB2
+t1326051255
+s3762
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app
+t1326140355
+s2856
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app.dSYM
+t1326140355
+s102
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/Info.plist
+t1326053557
+s615
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/MainWindow.nib
+t1326053558
+s1715
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/PkgInfo
+t1326053557
+s8
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/RepulicClasses.nib
+t1325997648
+s663
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/RootViewController.nib
+t1326053558
+s4216
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/SWTORClassesViewController.nib
+t1325996688
+s3386
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/SWTOR_Talents
+t1326140355
+s51764
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/SectionViewController.nib
+t1326138682
+s2018
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/TalentViewController.nib
+t1326061121
+s1083
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/adrenaline_fueled.png
+t1326053558
+s3650
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/advanced_tech.png
+t1326053558
+s3890
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/agen_icon_large.jpg
+t1326053558
+s9130
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/armor_screen.png
+t1326053558
+s3551
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/assault_plastique.png
+t1326053558
+s4522
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/assault_trooper.png
+t1326053558
+s4236
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/bacta_infusion.png
+t1326053558
+s3762
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/burnout.png
+t1326053558
+s4275
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/cell_capacitor.png
+t1326053558
+s4256
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/cell_charger.png
+t1326053558
+s3942
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/charged_barrel.png
+t1326053558
+s4605
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/charged_barrier.png
+t1326053558
+s3453
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/combat_shield.png
+t1326053558
+s3614
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/commando.plist
+t1326058296
+s18209
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/commando2.plist
+t1326054485
+s18235
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/concussive_force.png
+t1326053558
+s4344
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/consular_icon_large.jpg
+t1326053558
+s9297
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/cover_fire.png
+t1326053558
+s3871
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/curtain_of_fire.png
+t1326053558
+s3870
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/deadly_cannon.png
+t1326053558
+s4386
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/degauss.png
+t1326053558
+s3865
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/demolition_round.png
+t1326053558
+s4087
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/efficient_conversions.png
+t1326053558
+s4268
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/field_medicine.png
+t1326053558
+s4188
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/field_training.png
+t1326053558
+s4342
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/field_triage.png
+t1326053558
+s4377
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/first_responder.png
+t1326053558
+s4103
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/grav_round.png
+t1326053558
+s4108
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/gravity_surge.png
+t1326053558
+s4285
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/havoc_rounds.png
+t1326053558
+s3947
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/heavy_trooper.png
+t1326053558
+s4120
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/high_friction_bolts.png
+t1326053558
+s3961
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/hunter_icon_large.jpg
+t1326053558
+s9622
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/incendiary_round.png
+t1326053558
+s4135
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/inquisitor_icon_large.jpg
+t1326053558
+s10478
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/ionic_accelerator.png
+t1326053558
+s4285
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/ironsights.png
+t1326053558
+s4145
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/jedi_icon_large.jpg
+t1326053557
+s8447
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/kolto_bomb.png
+t1326053558
+s3922
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/kolto_recharge.png
+t1326053558
+s4065
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/kolto_residue.png
+t1326053558
+s3809
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/med_zone.png
+t1326053558
+s4293
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/muzzle_fluting.png
+t1326053558
+s3635
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/nightvision_scope.png
+t1326053558
+s4000
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/parallactic_combat_stims.png
+t1326053558
+s4144
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/potent_medicine.png
+t1326053558
+s3542
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/preventative_medicine.png
+t1326053558
+s4225
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/profiles.jpg
+t1326053557
+s8903
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/psych_aid.png
+t1326053558
+s3753
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/quick_thinking.png
+t1326053558
+s3578
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/rain_of_fire.png
+t1326053558
+s3645
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/rapid_recharge.png
+t1326053558
+s3967
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/reflexive_shield.png
+t1326053558
+s3741
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/republic_link.jpg
+t1326053557
+s14162
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/reserve_round.png
+t1326053558
+s3996
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/rotary_cannon.png
+t1326053558
+s4202
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/sith_link.jpg
+t1326053557
+s14890
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/skillcount.jpg
+t1326137943
+s625
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/smuggler_icon_large.jpg
+t1326053557
+s10812
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/soldiers_endurance.png
+t1326053558
+s3683
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/special_munitions.png
+t1326053558
+s3738
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/steadied_aim.png
+t1326053558
+s3704
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/steady_hands.png
+t1326053558
+s4185
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/supercharge_cells.png
+t1326053558
+s3302
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/superheated_plasma.png
+t1326053558
+s3837
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/sweltering_heat.png
+t1326053558
+s4022
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/swtor_header.jpg
+t1326053557
+s37600
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/target_lock.png
+t1326053558
+s3660
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/tenacious_defense.png
+t1326053558
+s4205
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/trauma_probe.png
+t1326053558
+s3894
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/treated_wound_dressings.png
+t1326053558
+s3903
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/treeborder.jpg
+t1326058448
+s6505
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/trooper_icon_large.jpg
+t1326053557
+s9929
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/warrior_icon_large.jpg
+t1326053558
+s9459
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/weapon_calibrations.png
+t1326053558
+s4234
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/ItemView.o
+t1326140328
+s49052
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/RootViewController.o
+t1326140249
+s63780
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/SWTORClassesViewController.o
+t1325996690
+s59368
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/SWTOR_Talents.LinkFileList
+c000000004F0A007200000000000003CB
+t1326055538
+s971
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/SWTOR_TalentsAppDelegate.o
+t1326140249
+s52964
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/SectionViewController.o
+t1326140355
+s48672
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/TalentViewController.o
+t1326140249
+s62892
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/main.o
+t1326053559
+s6336
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/burnout.png
+c000000004F09F27F00000000000010B3
+t1326051967
+s4275
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/cell_capacitor.png
+c000000004F09F13B00000000000010A0
+t1326051643
+s4256
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/cell_charger.png
+c000000004F09F1D30000000000000F66
+t1326051795
+s3942
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/charged_barrel.png
+c000000004F09F1A000000000000011FD
+t1326051744
+s4605
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/charged_barrier.png
+c000000004F09F1DD0000000000000D7D
+t1326051805
+s3453
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/combat_shield.png
+c000000004F09F0FC0000000000000E1E
+t1326051580
+s3614
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/commando.plist
+c000000004F0A0B0D0000000000007F79
+t1326058253
+s32633
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/commando2.plist
+c000000004F09FAA700000000000083C5
+t1326054055
+s33733
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/concussive_force.png
+c000000004F09F1E700000000000010F8
+t1326051815
+s4344
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/consular_icon_large.jpg
+c000000004F0904CE0000000000002451
+t1325991118
+s9297
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/cover_fire.png
+c000000004F09F1880000000000000F1F
+t1326051720
+s3871
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/curtain_of_fire.png
+c000000004F09F16E0000000000000F1E
+t1326051694
+s3870
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/deadly_cannon.png
+c000000004F09F1FE0000000000001122
+t1326051838
+s4386
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/degauss.png
+c000000004F09F2C90000000000000F19
+t1326052041
+s3865
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/demolition_round.png
+c000000004F09F1610000000000000FF7
+t1326051681
+s4087
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/efficient_conversions.png
+c000000004F09F0D100000000000010AC
+t1326051537
+s4268
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/field_medicine.png
+c000000004F09F10A000000000000105C
+t1326051594
+s4188
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/field_training.png
+c000000004F09F15400000000000010F6
+t1326051668
+s4342
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/field_triage.png
+c000000004F09F0B40000000000001119
+t1326051508
+s4377
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/first_responder.png
+c000000004F09F12D0000000000001007
+t1326051629
+s4103
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/grav_round.png
+c000000004F09F1F3000000000000100C
+t1326051827
+s4108
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/gravity_surge.png
+c000000004F09F1C800000000000010BD
+t1326051784
+s4285
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/havoc_rounds.png
+c000000004F09F2420000000000000F6B
+t1326051906
+s3947
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/heavy_trooper.png
+c000000004F09F22E0000000000001018
+t1326051886
+s4120
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/high_friction_bolts.png
+c000000004F09F2D20000000000000F79
+t1326052050
+s3961
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/hunter_icon_large.jpg
+c000000004F0906C10000000000002596
+t1325991617
+s9622
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/incendiary_round.png
+c000000004F09F2E00000000000001027
+t1326052064
+s4135
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/inquisitor_icon_large.jpg
+c000000004F09065400000000000028EE
+t1325991508
+s10478
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/ionic_accelerator.png
+c000000004F09F2BB00000000000010BD
+t1326052027
+s4285
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/ironsights.png
+c000000004F09F2570000000000001031
+t1326051927
+s4145
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/jedi_icon_large.jpg
+c000000004F08EA1000000000000020FF
+t1325984272
+s8447
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/kolto_bomb.png
+c000000004F09F0EE0000000000000F52
+t1326051566
+s3922
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/kolto_recharge.png
+c000000004F09F1AB0000000000000FE1
+t1326051755
+s4065
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/kolto_residue.png
+c000000004F09F0E20000000000000EE1
+t1326051554
+s3809
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/main.m
+c000000004F08E1480000000000000172
+t1325982024
+s370
+i<UIKit/UIKit.h>
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/med_zone.png
+c000000004F09F0C700000000000010C5
+t1326051527
+s4293
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/muzzle_fluting.png
+c000000004F09F2140000000000000E33
+t1326051860
+s3635
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/nightvision_scope.png
+c000000004F09F2F10000000000000FA0
+t1326052081
+s4000
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/parallactic_combat_stims.png
+c000000004F09F3170000000000001030
+t1326052119
+s4144
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/potent_medicine.png
+c000000004F09F0530000000000000DD6
+t1326051411
+s3542
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/preventative_medicine.png
+c000000004F09F0760000000000001081
+t1326051446
+s4225
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/profiles.jpg
+c000000004F08DE4500000000000022C7
+t1325981253
+s8903
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/psych_aid.png
+c000000004F09F0950000000000000EA9
+t1326051477
+s3753
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/quick_thinking.png
+c000000004F09F1480000000000000DFA
+t1326051656
+s3578
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/rain_of_fire.png
+c000000004F09F2980000000000000E3D
+t1326051992
+s3645
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/rapid_recharge.png
+c000000004F09F2AE0000000000000F7F
+t1326052014
+s3967
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/reflexive_shield.png
+c000000004F09F2880000000000000E9D
+t1326051976
+s3741
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/republic_link.jpg
+c000000004F08D9C30000000000003752
+t1325980099
+s14162
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/reserve_round.png
+c000000004F09F1790000000000000F9C
+t1326051705
+s3996
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/rotary_cannon.png
+c000000004F09F192000000000000106A
+t1326051730
+s4202
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/sith_link.jpg
+c000000004F08DBD60000000000003A2A
+t1325980630
+s14890
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/skillcount.jpg
+c000000004F0B3F0C0000000000000271
+t1326137100
+s625
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/smuggler_icon_large.jpg
+c000000004F08EC140000000000002A3C
+t1325984788
+s10812
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/soldiers_endurance.png
+c000000004F09F33C0000000000000E63
+t1326052156
+s3683
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/special_munitions.png
+c000000004F09F2210000000000000E9A
+t1326051873
+s3738
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/steadied_aim.png
+c000000004F09F2080000000000000E78
+t1326051848
+s3704
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/steady_hands.png
+c000000004F09F1150000000000001059
+t1326051605
+s4185
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/supercharge_cells.png
+c000000004F09F11F0000000000000CE6
+t1326051615
+s3302
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/superheated_plasma.png
+c000000004F09F2FD0000000000000EFD
+t1326052093
+s3837
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/sweltering_heat.png
+c000000004F09F3080000000000000FB6
+t1326052104
+s4022
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/swtor_header.jpg
+c000000004F08DC0700000000000092E0
+t1325980679
+s37600
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/target_lock.png
+c000000004F09F3250000000000000E4C
+t1326052133
+s3660
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/tenacious_defense.png
+c000000004F09F1B7000000000000106D
+t1326051767
+s4205
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/trauma_probe.png
+c000000004F09F0860000000000000F36
+t1326051462
+s3894
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/treated_wound_dressings.png
+c000000004F09F0A20000000000000F3F
+t1326051490
+s3903
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/treeborder.jpg
+c000000004F0A0B880000000000001969
+t1326058376
+s6505
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/trooper_icon_large.jpg
+c000000004F08EC6B00000000000026C9
+t1325984875
+s9929
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/warrior_icon_large.jpg
+c000000004F0905BA00000000000024F3
+t1325991354
+s9459
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/weapon_calibrations.png
+c000000004F09F32F000000000000108A
+t1326052143
+s4234
+
+N/var/folders/Ya/Ya4OuvihG3mL5Y5-34PHpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWTOR_Talents_Prefix-diszxetkylcthegglxqamiyrindu/SWTOR_Talents_Prefix.pch.gch
+t1326053559
+s15453392
+
+NSWTOR_Talents-Info.plist
+c000000004F091014000000000000038D
+t1325994004
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies347833155#347833155#0(0"0(0#1#0"8627298816#0"0#
+
+CCompileC build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/ItemView.o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/ItemView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s347833128.026257
+e347833128.158088
+r1
+xCompileC
+xbuild/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/ItemView.o
+x/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/ItemView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/ItemView.m347833128#347833128#0(0"0(0#0#73"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/ItemView.m8627156480#2248"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-generated-files.hmap" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-own-target-headers.hmap" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-all-target-headers.hmap" -iquote "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-project-headers.hmap" "-F/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/include" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/DerivedSources/i386" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/DerivedSources" -include /var/folders/Ya/Ya4OuvihG3mL5Y5-34PHpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWTOR_Talents_Prefix-diszxetkylcthegglxqamiyrindu/SWTOR_Talents_Prefix.pch -c "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/ItemView.m" -o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/ItemView.o"0#
+
+CCompileC build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/RootViewController.o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s347833049.797030
+e347833049.972932
+r1
+xCompileC
+xbuild/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/RootViewController.o
+x/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/RootViewController.m347833049#347833049#0(0"0(0#0#83"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/RootViewController.m8625518976#2268"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-generated-files.hmap" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-own-target-headers.hmap" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-all-target-headers.hmap" -iquote "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-project-headers.hmap" "-F/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/include" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/DerivedSources/i386" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/DerivedSources" -include /var/folders/Ya/Ya4OuvihG3mL5Y5-34PHpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWTOR_Talents_Prefix-diszxetkylcthegglxqamiyrindu/SWTOR_Talents_Prefix.pch -c "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/RootViewController.m" -o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/SWTORClassesViewController.o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTORClassesViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s347689489.925135
+e347689490.048173
+r1
+xCompileC
+xbuild/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/SWTORClassesViewController.o
+x/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTORClassesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTORClassesViewController.m347689489#347689490#0(0"0(0#0#91"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTORClassesViewController.m8617690304#2284"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-generated-files.hmap" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-own-target-headers.hmap" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-all-target-headers.hmap" -iquote "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-project-headers.hmap" "-F/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/include" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/DerivedSources/i386" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/DerivedSources" -include /var/folders/Ya/Ya4OuvihG3mL5Y5-34PHpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWTOR_Talents_Prefix-diszxetkylcthegglxqamiyrindu/SWTOR_Talents_Prefix.pch -c "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTORClassesViewController.m" -o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/SWTORClassesViewController.o"0#
+
+CCompileC build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/SWTOR_TalentsAppDelegate.o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTOR_TalentsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s347833049.795945
+e347833049.909492
+r1
+xCompileC
+xbuild/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/SWTOR_TalentsAppDelegate.o
+x/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTOR_TalentsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTOR_TalentsAppDelegate.m347833049#347833049#0(0"0(0#0#89"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTOR_TalentsAppDelegate.m8628249824#2280"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-generated-files.hmap" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-own-target-headers.hmap" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-all-target-headers.hmap" -iquote "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-project-headers.hmap" "-F/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/include" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/DerivedSources/i386" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/DerivedSources" -include /var/folders/Ya/Ya4OuvihG3mL5Y5-34PHpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWTOR_Talents_Prefix-diszxetkylcthegglxqamiyrindu/SWTOR_Talents_Prefix.pch -c "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTOR_TalentsAppDelegate.m" -o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/SWTOR_TalentsAppDelegate.o"0#
+
+CCompileC build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/SectionViewController.o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SectionViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s347833155.281021
+e347833155.410793
+r1
+xCompileC
+xbuild/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/SectionViewController.o
+x/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SectionViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SectionViewController.m347833155#347833155#0(0"0(0#0#86"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SectionViewController.m8612903680#2274"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-generated-files.hmap" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-own-target-headers.hmap" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-all-target-headers.hmap" -iquote "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-project-headers.hmap" "-F/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/include" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/DerivedSources/i386" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/DerivedSources" -include /var/folders/Ya/Ya4OuvihG3mL5Y5-34PHpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWTOR_Talents_Prefix-diszxetkylcthegglxqamiyrindu/SWTOR_Talents_Prefix.pch -c "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SectionViewController.m" -o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/SectionViewController.o"0#
+
+CCompileC build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/TalentViewController.o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/TalentViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s347833049.797951
+e347833049.973194
+r1
+xCompileC
+xbuild/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/TalentViewController.o
+x/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/TalentViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/TalentViewController.m347833049#347833049#0(0"0(0#0#85"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/TalentViewController.m8625446688#2272"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-generated-files.hmap" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-own-target-headers.hmap" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-all-target-headers.hmap" -iquote "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-project-headers.hmap" "-F/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/include" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/DerivedSources/i386" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/DerivedSources" -include /var/folders/Ya/Ya4OuvihG3mL5Y5-34PHpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWTOR_Talents_Prefix-diszxetkylcthegglxqamiyrindu/SWTOR_Talents_Prefix.pch -c "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/TalentViewController.m" -o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/TalentViewController.o"0#
+
+CCompileC build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/main.o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s347746359.750453
+e347746359.838338
+r1
+xCompileC
+xbuild/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/main.o
+x/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/main.m347746359#347746359#0(0"0(0#0#61"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/main.m8613343104#2232"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-generated-files.hmap" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-own-target-headers.hmap" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-all-target-headers.hmap" -iquote "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-project-headers.hmap" "-F/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/include" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/DerivedSources/i386" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/DerivedSources" -include /var/folders/Ya/Ya4OuvihG3mL5Y5-34PHpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWTOR_Talents_Prefix-diszxetkylcthegglxqamiyrindu/SWTOR_Talents_Prefix.pch -c "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/main.m" -o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/RepulicClasses.xib"
+s347690448.630483
+e347690448.989709
+r1
+xCompileXIB
+x/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/RepulicClasses.xib
+lSLF07#2@37"CompileXIB Classes/RepulicClasses.xib347690448#347690448#0(0"0(0#0#81"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/RepulicClasses.xib8608042336#646"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/RepulicClasses.nib" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/RepulicClasses.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTORClassesViewController.xib"
+s347689487.904444
+e347689488.728805
+r1
+xCompileXIB
+x/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTORClassesViewController.xib
+lSLF07#2@49"CompileXIB Classes/SWTORClassesViewController.xib347689487#347689488#0(0"0(0#0#93"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTORClassesViewController.xib8622173504#670"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/SWTORClassesViewController.nib" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTORClassesViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SectionViewController.xib"
+s347831481.950409
+e347831482.348769
+r1
+xCompileXIB
+x/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SectionViewController.xib
+lSLF07#2@44"CompileXIB Classes/SectionViewController.xib347831481#347831482#0(0"0(0#0#88"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SectionViewController.xib8627405152#660"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/SectionViewController.nib" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SectionViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/TalentViewController.xib"
+s347753921.124366
+e347753921.519400
+r1
+xCompileXIB
+x/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/TalentViewController.xib
+lSLF07#2@43"CompileXIB Classes/TalentViewController.xib347753921#347753921#0(0"0(0#0#87"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/TalentViewController.xib8624010912#658"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/TalentViewController.nib" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/TalentViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/MainWindow.xib"
+s347746357.370944
+e347746358.087183
+r1
+xCompileXIB
+x/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib347746357#347746358#0(0"0(0#0#69"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/MainWindow.xib8622784768#630"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/MainWindow.nib" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/RootViewController.xib"
+s347746357.372196
+e347746358.259578
+r1
+xCompileXIB
+x/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib347746357#347746358#0(0"0(0#0#77"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/RootViewController.xib8622554752#646"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/RootViewController.nib" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/RootViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCopyPlistFile "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/commando.plist" commando.plist
+s347751096.309211
+e347751096.469482
+r1
+xCopyPlistFile
+x/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/commando.plist
+xcommando.plist
+lSLF07#2@19"Copy commando.plist347751096#347751096#0(0"0(0#0#69"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/commando.plist8622963680#431"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 commando.plist --outdir "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCopyPlistFile "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/commando2.plist" commando2.plist
+s347747285.344749
+e347747285.655406
+r1
+xCopyPlistFile
+x/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/commando2.plist
+xcommando2.plist
+lSLF07#2@20"Copy commando2.plist347747285#347747285#0(0"0(0#0#70"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/commando2.plist8609480928#432"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 commando2.plist --outdir "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/adrenaline_fueled.png adrenaline_fueled.png
+s347746358.107762
+e347746358.117296
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/adrenaline_fueled.png
+xadrenaline_fueled.png
+lSLF07#2@26"Copy adrenaline_fueled.png347746358#347746358#0(0"0(0#0#76"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/adrenaline_fueled.png8623647392#539"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/adrenaline_fueled.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/advanced_tech.png advanced_tech.png
+s347746358.108551
+e347746358.116145
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/advanced_tech.png
+xadvanced_tech.png
+lSLF07#2@22"Copy advanced_tech.png347746358#347746358#0(0"0(0#0#72"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/advanced_tech.png8623572896#535"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/advanced_tech.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/agen_icon_large.jpg agen_icon_large.jpg
+s347746358.070944
+e347746358.082345
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/agen_icon_large.jpg
+xagen_icon_large.jpg
+lSLF07#2@24"Copy agen_icon_large.jpg347746358#347746358#0(0"0(0#0#74"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/agen_icon_large.jpg8624678784#537"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/agen_icon_large.jpg" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/armor_screen.png armor_screen.png
+s347746358.109415
+e347746358.117464
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/armor_screen.png
+xarmor_screen.png
+lSLF07#2@21"Copy armor_screen.png347746358#347746358#0(0"0(0#0#71"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/armor_screen.png8623543008#534"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/armor_screen.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/assault_plastique.png assault_plastique.png
+s347746358.110332
+e347746358.120884
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/assault_plastique.png
+xassault_plastique.png
+lSLF07#2@26"Copy assault_plastique.png347746358#347746358#0(0"0(0#0#76"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/assault_plastique.png8623447648#539"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/assault_plastique.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/assault_trooper.png assault_trooper.png
+s347746358.113263
+e347746358.126638
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/assault_trooper.png
+xassault_trooper.png
+lSLF07#2@24"Copy assault_trooper.png347746358#347746358#0(0"0(0#0#74"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/assault_trooper.png8623352320#537"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/assault_trooper.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/bacta_infusion.png bacta_infusion.png
+s347746358.114287
+e347746358.126805
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/bacta_infusion.png
+xbacta_infusion.png
+lSLF07#2@23"Copy bacta_infusion.png347746358#347746358#0(0"0(0#0#73"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/bacta_infusion.png8623220416#536"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/bacta_infusion.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/burnout.png burnout.png
+s347746358.115152
+e347746358.124452
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/burnout.png
+xburnout.png
+lSLF07#2@16"Copy burnout.png347746358#347746358#0(0"0(0#0#66"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/burnout.png8623189536#529"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/burnout.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/cell_capacitor.png cell_capacitor.png
+s347746358.116257
+e347746358.124265
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/cell_capacitor.png
+xcell_capacitor.png
+lSLF07#2@23"Copy cell_capacitor.png347746358#347746358#0(0"0(0#0#73"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/cell_capacitor.png8623112160#536"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/cell_capacitor.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/cell_charger.png cell_charger.png
+s347746358.117574
+e347746358.134222
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/cell_charger.png
+xcell_charger.png
+lSLF07#2@21"Copy cell_charger.png347746358#347746358#0(0"0(0#0#71"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/cell_charger.png8623062816#534"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/cell_charger.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/charged_barrel.png charged_barrel.png
+s347746358.118535
+e347746358.131812
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/charged_barrel.png
+xcharged_barrel.png
+lSLF07#2@23"Copy charged_barrel.png347746358#347746358#0(0"0(0#0#73"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/charged_barrel.png8623013248#536"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/charged_barrel.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/charged_barrier.png charged_barrier.png
+s347746358.121019
+e347746358.131999
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/charged_barrier.png
+xcharged_barrier.png
+lSLF07#2@24"Copy charged_barrier.png347746358#347746358#0(0"0(0#0#74"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/charged_barrier.png8622930624#537"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/charged_barrier.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/combat_shield.png combat_shield.png
+s347746358.124568
+e347746358.137528
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/combat_shield.png
+xcombat_shield.png
+lSLF07#2@22"Copy combat_shield.png347746358#347746358#0(0"0(0#0#72"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/combat_shield.png8622874464#535"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/combat_shield.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/concussive_force.png concussive_force.png
+s347746358.125592
+e347746358.134391
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/concussive_force.png
+xconcussive_force.png
+lSLF07#2@25"Copy concussive_force.png347746358#347746358#0(0"0(0#0#75"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/concussive_force.png8622789280#538"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/concussive_force.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/consular_icon_large.jpg consular_icon_large.jpg
+s347746358.074716
+e347746358.107687
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/consular_icon_large.jpg
+xconsular_icon_large.jpg
+lSLF07#2@28"Copy consular_icon_large.jpg347746358#347746358#0(0"0(0#0#78"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/consular_icon_large.jpg8623918464#541"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/consular_icon_large.jpg" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/cover_fire.png cover_fire.png
+s347746358.126911
+e347746358.136422
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/cover_fire.png
+xcover_fire.png
+lSLF07#2@19"Copy cover_fire.png347746358#347746358#0(0"0(0#0#69"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/cover_fire.png8622699392#532"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/cover_fire.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/curtain_of_fire.png curtain_of_fire.png
+s347746358.127851
+e347746358.143407
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/curtain_of_fire.png
+xcurtain_of_fire.png
+lSLF07#2@24"Copy curtain_of_fire.png347746358#347746358#0(0"0(0#0#74"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/curtain_of_fire.png8622549184#537"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/curtain_of_fire.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/deadly_cannon.png deadly_cannon.png
+s347746358.132116
+e347746358.147938
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/deadly_cannon.png
+xdeadly_cannon.png
+lSLF07#2@22"Copy deadly_cannon.png347746358#347746358#0(0"0(0#0#72"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/deadly_cannon.png8622393856#535"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/deadly_cannon.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/degauss.png degauss.png
+s347746358.133147
+e347746358.148107
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/degauss.png
+xdegauss.png
+lSLF07#2@16"Copy degauss.png347746358#347746358#0(0"0(0#0#66"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/degauss.png8622234528#529"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/degauss.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/demolition_round.png demolition_round.png
+s347746358.134500
+e347746358.143211
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/demolition_round.png
+xdemolition_round.png
+lSLF07#2@25"Copy demolition_round.png347746358#347746358#0(0"0(0#0#75"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/demolition_round.png8622112896#538"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/demolition_round.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/efficient_conversions.png efficient_conversions.png
+s347746358.135427
+e347746358.148379
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/efficient_conversions.png
+xefficient_conversions.png
+lSLF07#2@30"Copy efficient_conversions.png347746358#347746358#0(0"0(0#0#80"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/efficient_conversions.png8622042176#543"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/efficient_conversions.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/field_medicine.png field_medicine.png
+s347746358.136534
+e347746358.148246
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/field_medicine.png
+xfield_medicine.png
+lSLF07#2@23"Copy field_medicine.png347746358#347746358#0(0"0(0#0#73"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/field_medicine.png8621974752#536"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/field_medicine.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/field_training.png field_training.png
+s347746358.137642
+e347746358.154206
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/field_training.png
+xfield_training.png
+lSLF07#2@23"Copy field_training.png347746358#347746358#0(0"0(0#0#73"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/field_training.png8620319424#536"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/field_training.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/field_triage.png field_triage.png
+s347746358.143547
+e347746358.161869
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/field_triage.png
+xfield_triage.png
+lSLF07#2@21"Copy field_triage.png347746358#347746358#0(0"0(0#0#71"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/field_triage.png8617309248#534"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/field_triage.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/first_responder.png first_responder.png
+s347746358.146731
+e347746358.157936
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/first_responder.png
+xfirst_responder.png
+lSLF07#2@24"Copy first_responder.png347746358#347746358#0(0"0(0#0#74"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/first_responder.png8615457824#537"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/first_responder.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/grav_round.png grav_round.png
+s347746358.148477
+e347746358.162184
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/grav_round.png
+xgrav_round.png
+lSLF07#2@19"Copy grav_round.png347746358#347746358#0(0"0(0#0#69"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/grav_round.png8613310784#532"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/grav_round.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/gravity_surge.png gravity_surge.png
+s347746358.151261
+e347746358.162333
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/gravity_surge.png
+xgravity_surge.png
+lSLF07#2@22"Copy gravity_surge.png347746358#347746358#0(0"0(0#0#72"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/gravity_surge.png8605658976#535"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/gravity_surge.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/havoc_rounds.png havoc_rounds.png
+s347746358.152293
+e347746358.169112
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/havoc_rounds.png
+xhavoc_rounds.png
+lSLF07#2@21"Copy havoc_rounds.png347746358#347746358#0(0"0(0#0#71"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/havoc_rounds.png8605333600#534"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/havoc_rounds.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/heavy_trooper.png heavy_trooper.png
+s347746358.153160
+e347746358.169283
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/heavy_trooper.png
+xheavy_trooper.png
+lSLF07#2@22"Copy heavy_trooper.png347746358#347746358#0(0"0(0#0#72"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/heavy_trooper.png8599573792#535"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/heavy_trooper.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/high_friction_bolts.png high_friction_bolts.png
+s347746358.154315
+e347746358.162042
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/high_friction_bolts.png
+xhigh_friction_bolts.png
+lSLF07#2@28"Copy high_friction_bolts.png347746358#347746358#0(0"0(0#0#78"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/high_friction_bolts.png8596159392#541"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/high_friction_bolts.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/hunter_icon_large.jpg hunter_icon_large.jpg
+s347746358.072001
+e347746358.082549
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/hunter_icon_large.jpg
+xhunter_icon_large.jpg
+lSLF07#2@26"Copy hunter_icon_large.jpg347746358#347746358#0(0"0(0#0#76"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/hunter_icon_large.jpg8624413472#539"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/hunter_icon_large.jpg" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/incendiary_round.png incendiary_round.png
+s347746358.158080
+e347746358.171374
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/incendiary_round.png
+xincendiary_round.png
+lSLF07#2@25"Copy incendiary_round.png347746358#347746358#0(0"0(0#0#75"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/incendiary_round.png8615955072#538"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/incendiary_round.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/inquisitor_icon_large.jpg inquisitor_icon_large.jpg
+s347746358.072865
+e347746358.107524
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/inquisitor_icon_large.jpg
+xinquisitor_icon_large.jpg
+lSLF07#2@30"Copy inquisitor_icon_large.jpg347746358#347746358#0(0"0(0#0#80"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/inquisitor_icon_large.jpg8624231680#543"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/inquisitor_icon_large.jpg" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/ionic_accelerator.png ionic_accelerator.png
+s347746358.162580
+e347746358.183661
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/ionic_accelerator.png
+xionic_accelerator.png
+lSLF07#2@26"Copy ionic_accelerator.png347746358#347746358#0(0"0(0#0#76"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/ionic_accelerator.png8608287328#539"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/ionic_accelerator.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/ironsights.png ironsights.png
+s347746358.164913
+e347746358.183951
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/ironsights.png
+xironsights.png
+lSLF07#2@19"Copy ironsights.png347746358#347746358#0(0"0(0#0#69"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/ironsights.png8623772960#532"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/ironsights.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/jedi_icon_large.jpg jedi_icon_large.jpg
+s347746357.393071
+e347746357.404292
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/jedi_icon_large.jpg
+xjedi_icon_large.jpg
+lSLF07#2@24"Copy jedi_icon_large.jpg347746357#347746357#0(0"0(0#0#74"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/jedi_icon_large.jpg8619804160#537"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/jedi_icon_large.jpg" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/kolto_bomb.png kolto_bomb.png
+s347746358.167085
+e347746358.188746
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/kolto_bomb.png
+xkolto_bomb.png
+lSLF07#2@19"Copy kolto_bomb.png347746358#347746358#0(0"0(0#0#69"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/kolto_bomb.png8622906176#532"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/kolto_bomb.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/kolto_recharge.png kolto_recharge.png
+s347746358.168097
+e347746358.188919
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/kolto_recharge.png
+xkolto_recharge.png
+lSLF07#2@23"Copy kolto_recharge.png347746358#347746358#0(0"0(0#0#73"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/kolto_recharge.png8617286368#536"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/kolto_recharge.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/kolto_residue.png kolto_residue.png
+s347746358.169394
+e347746358.189076
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/kolto_residue.png
+xkolto_residue.png
+lSLF07#2@22"Copy kolto_residue.png347746358#347746358#0(0"0(0#0#72"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/kolto_residue.png8613509504#535"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/kolto_residue.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/med_zone.png med_zone.png
+s347746358.170351
+e347746358.203007
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/med_zone.png
+xmed_zone.png
+lSLF07#2@17"Copy med_zone.png347746358#347746358#0(0"0(0#0#67"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/med_zone.png8599304736#530"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/med_zone.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/muzzle_fluting.png muzzle_fluting.png
+s347746358.171492
+e347746358.202685
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/muzzle_fluting.png
+xmuzzle_fluting.png
+lSLF07#2@23"Copy muzzle_fluting.png347746358#347746358#0(0"0(0#0#73"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/muzzle_fluting.png8622083936#536"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/muzzle_fluting.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/nightvision_scope.png nightvision_scope.png
+s347746358.184074
+e347746358.202188
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/nightvision_scope.png
+xnightvision_scope.png
+lSLF07#2@26"Copy nightvision_scope.png347746358#347746358#0(0"0(0#0#76"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/nightvision_scope.png8615258112#539"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/nightvision_scope.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/parallactic_combat_stims.png parallactic_combat_stims.png
+s347746358.186378
+e347746358.202366
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/parallactic_combat_stims.png
+xparallactic_combat_stims.png
+lSLF07#2@33"Copy parallactic_combat_stims.png347746358#347746358#0(0"0(0#0#83"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/parallactic_combat_stims.png8610880896#546"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/parallactic_combat_stims.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/potent_medicine.png potent_medicine.png
+s347746358.189188
+e347746358.202527
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/potent_medicine.png
+xpotent_medicine.png
+lSLF07#2@24"Copy potent_medicine.png347746358#347746358#0(0"0(0#0#74"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/potent_medicine.png8622775744#537"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/potent_medicine.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/preventative_medicine.png preventative_medicine.png
+s347746358.199951
+e347746358.222496
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/preventative_medicine.png
+xpreventative_medicine.png
+lSLF07#2@30"Copy preventative_medicine.png347746358#347746358#0(0"0(0#0#80"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/preventative_medicine.png8613149312#543"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/preventative_medicine.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/profiles.jpg profiles.jpg
+s347746357.373174
+e347746357.400968
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/profiles.jpg
+xprofiles.jpg
+lSLF07#2@17"Copy profiles.jpg347746357#347746357#0(0"0(0#0#67"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/profiles.jpg8622329088#530"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/profiles.jpg" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/psych_aid.png psych_aid.png
+s347746358.201057
+e347746358.224261
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/psych_aid.png
+xpsych_aid.png
+lSLF07#2@18"Copy psych_aid.png347746358#347746358#0(0"0(0#0#68"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/psych_aid.png8622578496#531"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/psych_aid.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/quick_thinking.png quick_thinking.png
+s347746358.203287
+e347746358.223795
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/quick_thinking.png
+xquick_thinking.png
+lSLF07#2@23"Copy quick_thinking.png347746358#347746358#0(0"0(0#0#73"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/quick_thinking.png8620011008#536"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/quick_thinking.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/rain_of_fire.png rain_of_fire.png
+s347746358.204264
+e347746358.223956
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/rain_of_fire.png
+xrain_of_fire.png
+lSLF07#2@21"Copy rain_of_fire.png347746358#347746358#0(0"0(0#0#71"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/rain_of_fire.png8599687808#534"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/rain_of_fire.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/rapid_recharge.png rapid_recharge.png
+s347746358.205135
+e347746358.224117
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/rapid_recharge.png
+xrapid_recharge.png
+lSLF07#2@23"Copy rapid_recharge.png347746358#347746358#0(0"0(0#0#73"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/rapid_recharge.png8622264864#536"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/rapid_recharge.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/reflexive_shield.png reflexive_shield.png
+s347746358.205959
+e347746358.224409
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/reflexive_shield.png
+xreflexive_shield.png
+lSLF07#2@25"Copy reflexive_shield.png347746358#347746358#0(0"0(0#0#75"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/reflexive_shield.png8612520096#538"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/reflexive_shield.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/republic_link.jpg republic_link.jpg
+s347746357.374167
+e347746357.401132
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/republic_link.jpg
+xrepublic_link.jpg
+lSLF07#2@22"Copy republic_link.jpg347746357#347746357#0(0"0(0#0#72"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/republic_link.jpg8622114912#535"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/republic_link.jpg" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/reserve_round.png reserve_round.png
+s347746358.206797
+e347746358.224551
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/reserve_round.png
+xreserve_round.png
+lSLF07#2@22"Copy reserve_round.png347746358#347746358#0(0"0(0#0#72"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/reserve_round.png8616819936#535"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/reserve_round.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/rotary_cannon.png rotary_cannon.png
+s347746358.207623
+e347746358.231773
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/rotary_cannon.png
+xrotary_cannon.png
+lSLF07#2@22"Copy rotary_cannon.png347746358#347746358#0(0"0(0#0#72"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/rotary_cannon.png8622420480#535"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/rotary_cannon.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/sith_link.jpg sith_link.jpg
+s347746357.375158
+e347746357.401297
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/sith_link.jpg
+xsith_link.jpg
+lSLF07#2@18"Copy sith_link.jpg347746357#347746357#0(0"0(0#0#68"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/sith_link.jpg8622041216#531"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/sith_link.jpg" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/skillcount.jpg skillcount.jpg
+s347830743.215347
+e347830743.226973
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/skillcount.jpg
+xskillcount.jpg
+lSLF07#2@19"Copy skillcount.jpg347830743#347830743#0(0"0(0#0#69"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/skillcount.jpg8624899264#532"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/skillcount.jpg" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/smuggler_icon_large.jpg smuggler_icon_large.jpg
+s347746357.394222
+e347746357.423172
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/smuggler_icon_large.jpg
+xsmuggler_icon_large.jpg
+lSLF07#2@28"Copy smuggler_icon_large.jpg347746357#347746357#0(0"0(0#0#78"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/smuggler_icon_large.jpg8617983136#541"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/smuggler_icon_large.jpg" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/soldiers_endurance.png soldiers_endurance.png
+s347746358.208461
+e347746358.224707
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/soldiers_endurance.png
+xsoldiers_endurance.png
+lSLF07#2@27"Copy soldiers_endurance.png347746358#347746358#0(0"0(0#0#77"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/soldiers_endurance.png8622735552#540"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/soldiers_endurance.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/special_munitions.png special_munitions.png
+s347746358.222662
+e347746358.231589
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/special_munitions.png
+xspecial_munitions.png
+lSLF07#2@26"Copy special_munitions.png347746358#347746358#0(0"0(0#0#76"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/special_munitions.png8622285344#539"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/special_munitions.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/steadied_aim.png steadied_aim.png
+s347746358.224828
+e347746358.250785
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/steadied_aim.png
+xsteadied_aim.png
+lSLF07#2@21"Copy steadied_aim.png347746358#347746358#0(0"0(0#0#71"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/steadied_aim.png8623915712#534"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/steadied_aim.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/steady_hands.png steady_hands.png
+s347746358.225856
+e347746358.250968
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/steady_hands.png
+xsteady_hands.png
+lSLF07#2@21"Copy steady_hands.png347746358#347746358#0(0"0(0#0#71"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/steady_hands.png8624865536#534"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/steady_hands.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/supercharge_cells.png supercharge_cells.png
+s347746358.226783
+e347746358.251127
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/supercharge_cells.png
+xsupercharge_cells.png
+lSLF07#2@26"Copy supercharge_cells.png347746358#347746358#0(0"0(0#0#76"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/supercharge_cells.png8625508000#539"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/supercharge_cells.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/superheated_plasma.png superheated_plasma.png
+s347746358.227715
+e347746358.251286
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/superheated_plasma.png
+xsuperheated_plasma.png
+lSLF07#2@27"Copy superheated_plasma.png347746358#347746358#0(0"0(0#0#77"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/superheated_plasma.png8622994560#540"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/superheated_plasma.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/sweltering_heat.png sweltering_heat.png
+s347746358.228701
+e347746358.251434
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/sweltering_heat.png
+xsweltering_heat.png
+lSLF07#2@24"Copy sweltering_heat.png347746358#347746358#0(0"0(0#0#74"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/sweltering_heat.png8625142848#537"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/sweltering_heat.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/swtor_header.jpg swtor_header.jpg
+s347746357.376206
+e347746357.401477
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/swtor_header.jpg
+xswtor_header.jpg
+lSLF07#2@21"Copy swtor_header.jpg347746357#347746357#0(0"0(0#0#71"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/swtor_header.jpg8621949024#534"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/swtor_header.jpg" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/target_lock.png target_lock.png
+s347746358.229626
+e347746358.251592
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/target_lock.png
+xtarget_lock.png
+lSLF07#2@20"Copy target_lock.png347746358#347746358#0(0"0(0#0#70"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/target_lock.png8623734208#533"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/target_lock.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/tenacious_defense.png tenacious_defense.png
+s347746358.230551
+e347746358.251750
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/tenacious_defense.png
+xtenacious_defense.png
+lSLF07#2@26"Copy tenacious_defense.png347746358#347746358#0(0"0(0#0#76"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/tenacious_defense.png8624344480#539"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/tenacious_defense.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/trauma_probe.png trauma_probe.png
+s347746358.231881
+e347746358.253056
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/trauma_probe.png
+xtrauma_probe.png
+lSLF07#2@21"Copy trauma_probe.png347746358#347746358#0(0"0(0#0#71"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/trauma_probe.png8624579744#534"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/trauma_probe.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/treated_wound_dressings.png treated_wound_dressings.png
+s347746358.249443
+e347746358.259762
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/treated_wound_dressings.png
+xtreated_wound_dressings.png
+lSLF07#2@32"Copy treated_wound_dressings.png347746358#347746358#0(0"0(0#0#82"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/treated_wound_dressings.png8623901632#545"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/treated_wound_dressings.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/treeborder.jpg treeborder.jpg
+s347751248.073030
+e347751248.100747
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/treeborder.jpg
+xtreeborder.jpg
+lSLF07#2@19"Copy treeborder.jpg347751248#347751248#0(0"0(0#0#69"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/treeborder.jpg8608562688#532"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/treeborder.jpg" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/trooper_icon_large.jpg trooper_icon_large.jpg
+s347746357.395174
+e347746357.408729
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/trooper_icon_large.jpg
+xtrooper_icon_large.jpg
+lSLF07#2@27"Copy trooper_icon_large.jpg347746357#347746357#0(0"0(0#0#77"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/trooper_icon_large.jpg8616996672#540"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/trooper_icon_large.jpg" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/warrior_icon_large.jpg warrior_icon_large.jpg
+s347746358.073814
+e347746358.085312
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/warrior_icon_large.jpg
+xwarrior_icon_large.jpg
+lSLF07#2@27"Copy warrior_icon_large.jpg347746358#347746358#0(0"0(0#0#77"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/warrior_icon_large.jpg8624002272#540"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/warrior_icon_large.jpg" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CCpResource build/Debug-iphonesimulator/SWTOR_Talents.app/weapon_calibrations.png weapon_calibrations.png
+s347746358.251857
+e347746358.260855
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SWTOR_Talents.app/weapon_calibrations.png
+xweapon_calibrations.png
+lSLF07#2@28"Copy weapon_calibrations.png347746358#347746358#0(0"0(0#0#78"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/weapon_calibrations.png8624054496#541"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/weapon_calibrations.png" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+
+CGenerateDSYMFile "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app.dSYM" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/SWTOR_Talents"
+s347833155.439570
+e347833155.460469
+r1
+xGenerateDSYMFile
+x/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app.dSYM
+x/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/SWTOR_Talents
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/SWTOR_Talents.app.dSYM build/Debug-iphonesimulator/SWTOR_Talents.app/SWTOR_Talents347833155#347833155#0(0"0(0#0#114"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/SWTOR_Talents8624799968#455"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/SWTOR_Talents" -o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app.dSYM"0#
+
+CLd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/SWTOR_Talents" normal i386
+s347833155.410916
+e347833155.439448
+r1
+xLd
+x/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/SWTOR_Talents
+xnormal
+xi386
+lSLF07#2@119"Link /Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/SWTOR_Talents347833155#347833155#0(0"0(0#0#0"8625955936#1020"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator" "-F/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator" -filelist "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/Objects-normal/i386/SWTOR_Talents.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/SWTOR_Talents"0#
+
+CProcessInfoPlistFile "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/Info.plist" SWTOR_Talents-Info.plist
+s347746357.367099
+e347746357.370793
+r1
+xProcessInfoPlistFile
+x/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/Info.plist
+xSWTOR_Talents-Info.plist
+lSLF07#2@32"Process SWTOR_Talents-Info.plist347746357#347746357#0(0"0(0#0#79"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/SWTOR_Talents-Info.plist8623115840#551"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SWTOR_Talents-Info.plist -genpkginfo "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app/Info.plist"0#
+
+CProcessPCH /var/folders/Ya/Ya4OuvihG3mL5Y5-34PHpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWTOR_Talents_Prefix-diszxetkylcthegglxqamiyrindu/SWTOR_Talents_Prefix.pch.gch SWTOR_Talents_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s347746358.260991
+e347746359.750168
+r1
+xProcessPCH
+x/var/folders/Ya/Ya4OuvihG3mL5Y5-34PHpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWTOR_Talents_Prefix-diszxetkylcthegglxqamiyrindu/SWTOR_Talents_Prefix.pch.gch
+xSWTOR_Talents_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile SWTOR_Talents_Prefix.pch347746358#347746359#0(0"0(0#0#79"/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/SWTOR_Talents_Prefix.pch8623813280#2100"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-generated-files.hmap" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-own-target-headers.hmap" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-all-target-headers.hmap" -iquote "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/SWTOR_Talents-project-headers.hmap" "-F/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/include" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/DerivedSources/i386" "-I/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphonesimulator/SWTOR_Talents.build/DerivedSources" -c "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/SWTOR_Talents_Prefix.pch" -o /var/folders/Ya/Ya4OuvihG3mL5Y5-34PHpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWTOR_Talents_Prefix-diszxetkylcthegglxqamiyrindu/SWTOR_Talents_Prefix.pch.gch0#
+
+CTouch "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"
+s347833155.460559
+e347833155.463026
+r1
+xTouch
+x/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app
+lSLF07#2@106"Touch /Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app347833155#347833155#0(0"0(0#0#0"8624596448#320"    cd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphonesimulator/SWTOR_Talents.app"0#
+

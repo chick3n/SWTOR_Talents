@@ -1,0 +1,496 @@
+TSWTOR_Talents
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/Availability.h
+c000000004CB3FBB80000000000001ADD
+t1286863800
+s6877
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/RootViewController.h
+c000000004F08E5AF0000000000000146
+t1325983151
+s326
+i<UIKit/UIKit.h>
+i"SWTORClassesViewController.h"
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/RootViewController.m
+c000000004F08E81E0000000000000814
+t1325983774
+s2068
+i"RootViewController.h"
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTORClassesViewController.h
+c000000004F08FF410000000000000279
+t1325989697
+s633
+i<UIKit/UIKit.h>
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTORClassesViewController.m
+c000000004F08FFCF000000000000066D
+t1325989839
+s1645
+i"SWTORClassesViewController.h"
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTORClassesViewController.xib
+c000000004F090B9F00000000000124D4
+t1325992863
+s74964
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTOR_TalentsAppDelegate.h
+c000000004F08E14800000000000001E8
+t1325982024
+s488
+i<UIKit/UIKit.h>
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTOR_TalentsAppDelegate.m
+c000000004F08E1480000000000000AC2
+t1325982024
+s2754
+i"SWTOR_TalentsAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SectionViewController.h
+c000000004F08FE890000000000000127
+t1325989513
+s295
+i<UIKit/UIKit.h>
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SectionViewController.m
+c000000004F08FE9100000000000004C3
+t1325989521
+s1219
+i"SectionViewController.h"
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SectionViewController.xib
+c000000004F08F9FC000000000000187A
+t1325988348
+s6266
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/TalentViewController.h
+c000000004F08FB150000000000000296
+t1325988629
+s662
+i<UIKit/UIKit.h>
+i"SectionViewController.h"
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/TalentViewController.m
+c000000004F08FE800000000000000E96
+t1325989504
+s3734
+i"TalentViewController.h"
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/TalentViewController.xib
+c000000004F08F42600000000000056EC
+t1325986854
+s22252
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/MainWindow.xib
+c000000004F0909FC00000000000067FD
+t1325992444
+s26621
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/RootViewController.xib
+c000000004F08E34D00000000000061C1
+t1325982541
+s25025
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/SWTOR_Talents_Prefix.pch
+c000000004F08E148000000000000014C
+t1325982024
+s332
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/agen_icon_large.jpg
+c000000004F09077900000000000023AA
+t1325991801
+s9130
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app.dSYM
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app/Info.plist
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app/MainWindow.nib
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app/PkgInfo
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app/ResourceRules.plist
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app/RootViewController.nib
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app/SWTORClassesViewController.nib
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app/SWTOR_Talents
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app/SectionViewController.nib
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app/TalentViewController.nib
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app/agen_icon_large.jpg
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app/consular_icon_large.jpg
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app/hunter_icon_large.jpg
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app/inquisitor_icon_large.jpg
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app/jedi_icon_large.jpg
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app/profiles.jpg
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app/republic_link.jpg
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app/sith_link.jpg
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app/smuggler_icon_large.jpg
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app/swtor_header.jpg
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app/trooper_icon_large.jpg
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app/warrior_icon_large.jpg
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv6/RootViewController.o
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv6/SWTORClassesViewController.o
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv6/SWTOR_Talents
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv6/SWTOR_Talents.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv6/SWTOR_TalentsAppDelegate.o
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv6/SectionViewController.o
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv6/TalentViewController.o
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv7/RootViewController.o
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv7/SWTORClassesViewController.o
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv7/SWTOR_Talents
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv7/SWTOR_Talents.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv7/SWTOR_TalentsAppDelegate.o
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv7/SectionViewController.o
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv7/TalentViewController.o
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/consular_icon_large.jpg
+c000000004F0904CE0000000000002451
+t1325991118
+s9297
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/hunter_icon_large.jpg
+c000000004F0906C10000000000002596
+t1325991617
+s9622
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/inquisitor_icon_large.jpg
+c000000004F09065400000000000028EE
+t1325991508
+s10478
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/jedi_icon_large.jpg
+c000000004F08EA1000000000000020FF
+t1325984272
+s8447
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/main.m
+c000000004F08E1480000000000000172
+t1325982024
+s370
+i<UIKit/UIKit.h>
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/profiles.jpg
+c000000004F08DE4500000000000022C7
+t1325981253
+s8903
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/republic_link.jpg
+c000000004F08D9C30000000000003752
+t1325980099
+s14162
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/sith_link.jpg
+c000000004F08DBD60000000000003A2A
+t1325980630
+s14890
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/smuggler_icon_large.jpg
+c000000004F08EC140000000000002A3C
+t1325984788
+s10812
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/swtor_header.jpg
+c000000004F08DC0700000000000092E0
+t1325980679
+s37600
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/trooper_icon_large.jpg
+c000000004F08EC6B00000000000026C9
+t1325984875
+s9929
+
+N/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/warrior_icon_large.jpg
+c000000004F0905BA00000000000024F3
+t1325991354
+s9459
+
+N/var/folders/Ya/Ya4OuvihG3mL5Y5-34PHpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWTOR_Talents_Prefix-dniziarudeugyxcstnljtddhykhi/SWTOR_Talents_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Ya/Ya4OuvihG3mL5Y5-34PHpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWTOR_Talents_Prefix-fvgyskltfhlvcqaflwmidlgzxcqw/SWTOR_Talents_Prefix.pch.gch
+t2
+s0
+
+NSWTOR_Talents-Info.plist
+c000000004F08E148000000000000038D
+t1325982024
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies347686206#347686206#0(133"[BEROR]Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain1(4@125"Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain347686206#18446744073709551615#0#0(1@0"0(0#1#0"8616607296#0"0#
+
+CCompileC build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv6/RootViewController.o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/RootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv6/SWTORClassesViewController.o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTORClassesViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv6/SWTOR_TalentsAppDelegate.o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTOR_TalentsAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv6/SectionViewController.o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SectionViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv6/TalentViewController.o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/TalentViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv6/main.o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv7/RootViewController.o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/RootViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv7/SWTORClassesViewController.o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTORClassesViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv7/SWTOR_TalentsAppDelegate.o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTOR_TalentsAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv7/SectionViewController.o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SectionViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv7/TalentViewController.o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/TalentViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv7/main.o "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SWTORClassesViewController.xib"
+r0
+
+CCompileXIB "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/SectionViewController.xib"
+r0
+
+CCompileXIB "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/Classes/TalentViewController.xib"
+r0
+
+CCompileXIB "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/RootViewController.xib"
+r0
+
+CCpResource build/Debug-iphoneos/SWTOR_Talents.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/SWTOR_Talents.app/agen_icon_large.jpg agen_icon_large.jpg
+r0
+
+CCpResource build/Debug-iphoneos/SWTOR_Talents.app/consular_icon_large.jpg consular_icon_large.jpg
+r0
+
+CCpResource build/Debug-iphoneos/SWTOR_Talents.app/hunter_icon_large.jpg hunter_icon_large.jpg
+r0
+
+CCpResource build/Debug-iphoneos/SWTOR_Talents.app/inquisitor_icon_large.jpg inquisitor_icon_large.jpg
+r0
+
+CCpResource build/Debug-iphoneos/SWTOR_Talents.app/jedi_icon_large.jpg jedi_icon_large.jpg
+r0
+
+CCpResource build/Debug-iphoneos/SWTOR_Talents.app/profiles.jpg profiles.jpg
+r0
+
+CCpResource build/Debug-iphoneos/SWTOR_Talents.app/republic_link.jpg republic_link.jpg
+r0
+
+CCpResource build/Debug-iphoneos/SWTOR_Talents.app/sith_link.jpg sith_link.jpg
+r0
+
+CCpResource build/Debug-iphoneos/SWTOR_Talents.app/smuggler_icon_large.jpg smuggler_icon_large.jpg
+r0
+
+CCpResource build/Debug-iphoneos/SWTOR_Talents.app/swtor_header.jpg swtor_header.jpg
+r0
+
+CCpResource build/Debug-iphoneos/SWTOR_Talents.app/trooper_icon_large.jpg trooper_icon_large.jpg
+r0
+
+CCpResource build/Debug-iphoneos/SWTOR_Talents.app/warrior_icon_large.jpg warrior_icon_large.jpg
+r0
+
+CCreateUniversalBinary "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app/SWTOR_Talents" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app.dSYM" "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app/SWTOR_Talents"
+r0
+
+CLd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv6/SWTOR_Talents" normal armv6
+r0
+
+CLd "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/SWTOR_Talents.build/Debug-iphoneos/SWTOR_Talents.build/Objects-normal/armv7/SWTOR_Talents" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app/Info.plist" SWTOR_Talents-Info.plist
+r0
+
+CProcessPCH /var/folders/Ya/Ya4OuvihG3mL5Y5-34PHpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWTOR_Talents_Prefix-dniziarudeugyxcstnljtddhykhi/SWTOR_Talents_Prefix.pch.gch SWTOR_Talents_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Ya/Ya4OuvihG3mL5Y5-34PHpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWTOR_Talents_Prefix-fvgyskltfhlvcqaflwmidlgzxcqw/SWTOR_Talents_Prefix.pch.gch SWTOR_Talents_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/uhohhotdog/Documents/Vice Studios/SWTOR_Talents/build/Debug-iphoneos/SWTOR_Talents.app"
+r0
+

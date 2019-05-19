@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Annihilation (Damage)</key>
+	<array>
+		<array>
+			<string>Enraged Slash
+</string>
+			<integer>3</integer>
+			<string>enragedslash.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Vicious Slash, Vicious Throw, Massacre and Annihilate have a 33.334% chance to refund 1 rage when used.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Vicious Slash, Vicious Throw, Massacre and Annihilate have a 66.668% chance to refund 1 rage when used.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Vicious Slash, Vicious Throw, Massacre and Annihilate have a 100.002% chance to refund 1 rage when used.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Quick Recovery
+</string>
+			<integer>2</integer>
+			<string>quickrecovery.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the rage cost of Smash and Sweeping Slash by 1 and reduces the cooldown of Smash by 1.5.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the rage cost of Smash and Sweeping Slash by 2 and reduces the cooldown of Smash by 3.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Cloak of Annihilation
+</string>
+			<integer>2</integer>
+			<string>cloakofannihilation.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Each use of Retaliation reduces the active cooldown of Cloak of Pain by 3.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Each use of Retaliation reduces the active cooldown of Cloak of Pain by 6.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Hungering
+</string>
+			<integer>2</integer>
+			<string>hungering.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Critical hits with bleed effects heal you for 1% of your maximum health.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Critical hits with bleed effects heal you for 2% of your maximum health.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Seeping Wound
+</string>
+			<integer>2</integer>
+			<string>seepingwound.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Rupture has a 50% chance to also reduce the target&apos;s movement speed by 30% for the duration.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Rupture has a 100% chance to also reduce the target&apos;s movement speed by 30% for the duration.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Juyo Mastery
+</string>
+			<integer>3</integer>
+			<string>juyomastery.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Your bleed effects are 1% more likely to critically hit per stack of Juyo Form.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Your bleed effects are 2% more likely to critically hit per stack of Juyo Form.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Your bleed effects are 3% more likely to critically hit per stack of Juyo Form.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Blurred Speed
+</string>
+			<integer>2</integer>
+			<string>blurredspeed.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Lowers the cooldown of Force Charge by 1.5.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Lowers the cooldown of Force Charge by 3.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Deadly Saber
+</string>
+			<integer>1</integer>
+			<string>deadlysaber.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Rage: 3, Cooldown: 12 seconds
+</string>
+					<string>Charges your lightsabers with deadly energy for 15 seconds, causing your next 3 successful melee attacks to make the target bleed for (current weapon) internal damage over 6 seconds. Stacks up to 3 times. This effect cannot occur more than once every 1.5 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Bleedout</string>
+			<integer>2</integer>
+			<string>bleedout.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage of your bleed effects by 15%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage of your bleed effects by 30%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Close Quarters
+</string>
+			<integer>2</integer>
+			<string>closequarters.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the minimum range of Force Charge by 5 meters.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the minimum range of Force Charge by 10 meters.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Deep Wound
+</string>
+			<integer>1</integer>
+			<string>deepwound.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the direct damage dealt by Rupture by 30%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Subjugation</string>
+			<integer>2</integer>
+			<string>subjugation.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Obfuscate by 7.5 and Disruption by 1.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Obfuscate by 15 and Disruption by 2.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Short Fuse
+</string>
+			<integer>2</integer>
+			<string>shortfuse.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the amount of Fury built by 1 when activating abilities that spend rage, and reduces the cooldown of Frenzy by 15 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the amount of Fury built by 2 when activating abilities that spend rage, and reduces the cooldown of Frenzy by 30 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Phantom</string>
+			<integer>2</integer>
+			<string>phantom.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces all damage taken by 50% while Force Camouflage is active.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces all damage taken by 100% while Force Camouflage is active.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Pulverize</string>
+			<integer>3</integer>
+			<string>pulverize.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Vicious Slash has a 11% chance and Annihilate has a 22% chance to finish the cooldown of Rupture. This effect cannot occur more than once every 6 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Vicious Slash has a 22% chance and Annihilate has a 44% chance to finish the cooldown of Rupture. This effect cannot occur more than once every 6 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Vicious Slash has a 33% chance and Annihilate has a 66% chance to finish the cooldown of Rupture. This effect cannot occur more than once every 6 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Ferocity</string>
+			<integer>2</integer>
+			<string>ferocity.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Further increases your movement speed by 15% while Predation is active.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Further increases your movement speed by 30% while Predation is active.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Hemorrhage</string>
+			<integer>3</integer>
+			<string>hemorrhage.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by your bleed effects by 2%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by your bleed effects by 4%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by your bleed effects by 6%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Empowerment</string>
+			<integer>2</integer>
+			<string>empowerment.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Your bleed effects have a 15% chance when dealing damage to generate 1 rage. This effect cannot occur more than once every 1.5 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Your bleed effects have a 30% chance when dealing damage to generate 1 rage. This effect cannot occur more than once every 1.5 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Annihilate</string>
+			<integer>1</integer>
+			<string>annihilate.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Rage: 5, Cooldown: 12 seconds, Range: 4m
+</string>
+					<string>Strikes the target with both lightsabers for (current weapon) weapon damage. Each use of this ability grants Annihilator for 15 seconds, lowering the cooldown of your next Annihilate by 1.5 seconds. Stacks up to 3 times. Requires two lightsabers.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+	</array>
+	<key>Carnage (Damage)</key>
+	<array>
+		<array/>
+		<array>
+			<string>Defensive Forms
+</string>
+			<integer>2</integer>
+			<string>defensiveforms.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Builds 7.5 Fury when attacked. This effect cannot occur more than once every 1.5 seconds. Additionally improves the effect of your lightsaber forms while they are active: 
+Shii-Cho Form: Further increases damage reduction by 1%. 
+Juyo Form: Reduces internal and elemental damage taken by 2%.
+Ataru Form: Increases your movement speed by 1%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Builds 15 Fury when attacked. This effect cannot occur more than once every 1.5 seconds. Additionally improves the effect of your lightsaber forms while they are active: 
+Shii-Cho Form: Further increases damage reduction by 2%. 
+Juyo Form: Reduces internal and elemental damage taken by 4%.
+Ataru Form: Increases your movement speed by 2%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Dual Wield Mastery
+</string>
+			<integer>3</integer>
+			<string>dualwieldmastery.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt with offhand lightsaber attacks by 12%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt with offhand lightsaber attacks by 24%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt with offhand lightsaber attacks by 36%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Cloak of Carnage
+</string>
+			<integer>2</integer>
+			<string>cloakofcarnage.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Cloak of Pain has a 50% chance to generate 1 rage when it reciprocates damage to an attacker. This effect cannot occur more than once every 3 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Cloak of Pain has a 100% chance to generate 1 rage when it reciprocates damage to an attacker. This effect cannot occur more than once every 3 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Erupting Fury
+</string>
+			<integer>2</integer>
+			<string>eruptingfury.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the Fury built by defeating opponents by 1.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the Fury built by defeating opponents by 2.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Enraged Charge
+</string>
+			<integer>2</integer>
+			<string>enragedcharge.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Charge has a 50% chance to generate 1 additional rage.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Charge has a 100% chance to generate 1 additional rage.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Defensive Roll
+</string>
+			<integer>2</integer>
+			<string>defensiveroll.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces damage taken from area effects by 15%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces damage taken from area effects by 30%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Narrowed Hatred
+</string>
+			<integer>3</integer>
+			<string>narrowedhatred.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases melee and Force accuracy by 1%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases melee and Force accuracy by 2%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases melee and Force accuracy by 3%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Ataru Mastery
+</string>
+			<integer>2</integer>
+			<string>atarumastery.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by your triggered Ataru Form attacks by 15%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by your triggered Ataru Form attacks by 30%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Ataru Form
+</string>
+			<integer>1</integer>
+			<string>ataruform.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string></string>
+					<string>Enters an acrobatic lightsaber form, increasing accuracy by 3%. In addition, your successful melee attacks have a 20% chance to trigger a second strike that deals (current weapon) energy damage. This effect cannot occur more than once every 1.5 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Execute</string>
+			<integer>2</integer>
+			<string>execute.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Your Ataru Form hits have a 15% chance to make your next rage spender deal 10% more damage.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Your Ataru Form hits have a 30% chance to make your next rage spender deal 10% more damage.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Displacement</string>
+			<integer>2</integer>
+			<string>displacement.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Deadly Throw has a 50% chance to immobilize the target for 3 seconds. Additionally increases the range of Obfuscate by 3 meters.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Deadly Throw has a 100% chance to immobilize the target for 6 seconds. Additionally increases the range of Obfuscate by 6 meters.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Enraged Assault
+</string>
+			<integer>2</integer>
+			<string>enragedassault.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Battering Assault by 1.5 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Battering Assault by 3 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Towering Rage
+</string>
+			<integer>2</integer>
+			<string>toweringrage.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike chance of Force Scream by 50% while Blood Frenzy is active.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike chance of Force Scream by 100% while Blood Frenzy is active.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Blood Frenzy
+</string>
+			<integer>1</integer>
+			<string>bloodfrenzy.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Hits from Ataru Form grants Blood Frenzy for 6 seconds. When Blood Frenzy ends, you generate 1 rage. This can only occur once every 6 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Rattling Voice
+</string>
+			<integer>2</integer>
+			<string>rattlingvoice.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces Force Scream&apos;s cooldown by 1.5 seconds and rage cost by 1.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces Force Scream&apos;s cooldown by 3 seconds and rage cost by 2.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Gore</string>
+			<integer>1</integer>
+			<string>gore.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Rage: 3, Cooldown: 15 seconds, Range: 4m
+</string>
+					<string>Gores the target for (current weapon) weapon damage and grants Gore for 6 seconds, which increases armor penetration by 100%. Requires two lightsabers.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Unbound</string>
+			<integer>2</integer>
+			<string>unbound.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Camouflage has a 50% chance to break all movement-impairing effects.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Camouflage has a 100% chance to break all movement-impairing effects.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Sever</string>
+			<integer>3</integer>
+			<string>sever.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage bonus of Force Scream, Ataru Form and Massacre by 10%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage bonus of Force Scream, Ataru Form and Massacre by 20%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage bonus of Force Scream, Ataru Form and Massacre by 30%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Overwhelm</string>
+			<integer>2</integer>
+			<string>overwhelm.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Ravage has a 50% chance to immobilize the target for the duration of the ability.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Ravage has a 100% chance to immobilize the target for the duration of the ability.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array/>
+		<array>
+			<string>Massacre</string>
+			<integer>1</integer>
+			<string>massacre.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Rage: 3, Range: 4m
+</string>
+					<string>Strikes the target with both weapons for (current weapon) weapon damage and automatically triggers an Ataru Form strike. For 6 seconds after using Massacre, your Ataru Form has an extra 30% chance to be triggered. Requires two lightsabers.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+	</array>
+	<key>Rage (Damage)</key>
+	<array>
+		<array/>
+		<array>
+			<string>Stagger</string>
+			<integer>2</integer>
+			<string>stagger.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the duration of Force Charge&apos;s Immobilize effect by 0.5.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the duration of Force Charge&apos;s Immobilize effect by 1.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Malice</string>
+			<integer>3</integer>
+			<string>malice.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike chance of your Force attacks by 2%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike chance of your Force attacks by 4%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike chance of your Force attacks by 6%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Ravager</string>
+			<integer>2</integer>
+			<string>ravager.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Ravage by 5 and Force Choke by 1.5.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Ravage by 10 and Force Choke by 3.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Brutality</string>
+			<integer>2</integer>
+			<string>brutality.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike chance of Vicious Slash by 7.5%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike chance of Vicious Slash by 15%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Enraged Scream
+</string>
+			<integer>1</integer>
+			<string>enragedscream.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the rage cost of Force Scream by 1 while in Shii-Cho Form.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Force Alacrity
+</string>
+			<integer>2</integer>
+			<string>forcealacrity.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of all Force abilities while in Shii-Cho Form by 1.5.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of all Force abilities while in Shii-Cho Form by 3.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Payback</string>
+			<integer>2</integer>
+			<string>payback.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Unleash has a 50% chance to heal you for 10% of your maximum health.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Unleash has a 100% chance to heal you for 10% of your maximum health.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Strangulate</string>
+			<integer>2</integer>
+			<string>strangulate.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the pushback suffered while channeling Force Choke by 50%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the pushback suffered while channeling Force Choke by 100%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Obliterate</string>
+			<integer>1</integer>
+			<string>obliterate.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Rage: 3, Cooldown: 15 seconds, Range: 10m
+</string>
+					<string>Jumps to a target, impaling it for (current weapon) weapon damage. Strikes with both weapons if dual wielding.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Saber Strength
+</string>
+			<integer>2</integer>
+			<string>saberstrength.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Vicious Slash and Obliterate by 3%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Vicious Slash and Obliterate by 6%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Unbreakable Rage
+</string>
+			<integer>1</integer>
+			<string>unbreakablerage.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Ravage is now uninterruptible.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Shockwave</string>
+			<integer>2</integer>
+			<string>shockwave.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Each tick of Force Choke and Force Crush grants you Shockwave, increasing the damage your next Smash deals by 12.5%. Stacks up to 4 times.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Each tick of Force Choke and Force Crush grants you Shockwave, increasing the damage your next Smash deals by 25%. Stacks up to 4 times.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Dominate</string>
+			<integer>2</integer>
+			<string>dominate.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Charge and Obliterate have a 50% chance to make your next Smash used within 15 seconds an automatic critical hit.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Charge and Obliterate have a 100% chance to make your next Smash used within 15 seconds an automatic critical hit.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Relentless Fury
+</string>
+			<integer>2</integer>
+			<string>relentlessfury.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Builds 5 Fury when Predation ends.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Builds 10 Fury when Predation ends.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Shii-Cho Mastery
+</string>
+			<integer>2</integer>
+			<string>shiichomastery.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>While in Shii-Cho Form, your attacks ignore 10% of your targets&apos; armor.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>While in Shii-Cho Form, your attacks ignore 20% of your targets&apos; armor.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Interceptor</string>
+			<integer>2</integer>
+			<string>interceptor.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases movement speed by 20% for 5 seconds after using Obliterate.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases movement speed by 40% for 10 seconds after using Obliterate.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Gravity</string>
+			<integer>1</integer>
+			<string>gravity.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the rage cost of all movement-slowing effects by 1.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Undying</string>
+			<integer>2</integer>
+			<string>undying.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases damage reduction by 1%. Additionally reduces the cooldown of Undying Rage by 15 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases damage reduction by 2%. Additionally reduces the cooldown of Undying Rage by 30 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Dark Resonance
+</string>
+			<integer>3</integer>
+			<string>darkresonance.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage of all Force attacks by 10%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage of all Force attacks by 20%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage of all Force attacks by 30%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array/>
+		<array>
+			<string>Force Crush
+</string>
+			<integer>1</integer>
+			<string>forcecrush.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Rage: 4, Cooldown: 21 seconds, Range: 10m
+</string>
+					<string>Progressively slows the target from 60% to 10% movement speed over 5 and deals (current weapon) kinetic damage each second. At the end of the duration, the target is crushed and takes an additional (current weapon) kinetic damage.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+	</array>
+</dict>
+</plist>

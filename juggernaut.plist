@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Immortal (Defense)</key>
+	<array>
+		<array>
+			<string>Enraged Sunder
+</string>
+			<integer>2</integer>
+			<string>enragedsunder.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Sundering Assault has a 50% chance to build 1 additional rage.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Sundering Assault has a 100% chance to build 1 additional rage.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Quake</string>
+			<integer>2</integer>
+			<string>quake.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Smash has a 50% chance to lower the accuracy of affected targets by 5% for 18 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Smash has a 100% chance to lower the accuracy of affected targets by 5% for 18 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Battle Cry
+</string>
+			<integer>3</integer>
+			<string>battlecry.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Charge and Obliterate have a 33.34% chance to make the next Force Scream activated cost no rage.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Charge and Obliterate have a 66.68% chance to make the next Force Scream activated cost no rage.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Charge and Obliterate have a 100.02% chance to make the next Force Scream activated cost no rage.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Guard Stance
+</string>
+			<integer>3</integer>
+			<string>guardstance.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your melee and ranged defense by 2% while in Soresu Form.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your melee and ranged defense by 4% while in Soresu Form.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your melee and ranged defense by 6% while in Soresu Form.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Lash Out
+</string>
+			<integer>2</integer>
+			<string>lashout.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the rage cost of Retaliation by 1 while Soresu Form is active.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the rage cost of Retaliation by 2 while Soresu Form is active.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Intimidation</string>
+			<integer>2</integer>
+			<string>intimidation.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the rage cost of Chilling Scream and Backhand by 1.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the rage cost of Chilling Scream and Backhand by 2.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Blade Barricade
+</string>
+			<integer>3</integer>
+			<string>bladebarricade.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Retaliation now increases melee and ranged defenses by 2% for 6.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Retaliation now increases melee and ranged defenses by 4% for 12.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Retaliation now increases melee and ranged defenses by 6% for 18.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Invincible</string>
+			<integer>1</integer>
+			<string>invincible.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Cooldown: 180 seconds
+</string>
+					<string>Reduces all damage taken by 40% for 10.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Unleashed</string>
+			<integer>2</integer>
+			<string>unleashed.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Unleash by 15.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Unleash by 30.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Heavy Handed
+</string>
+			<integer>3</integer>
+			<string>heavyhanded.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Backhand, Smash and Sweeping Slash by 5%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Backhand, Smash and Sweeping Slash by 10%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Backhand, Smash and Sweeping Slash by 15%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Shield Specialization
+</string>
+			<integer>2</integer>
+			<string>shieldspecialization.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases shield chance by 2%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases shield chance by 4%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Revenge</string>
+			<integer>2</integer>
+			<string>revenge.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>While in Soresu Form, parrying, deflecting, shielding or resisting an attack has a 25% chance to grant Revenge, reducing the rage cost of your next Force Scream or Smash by 1. Lasts 10 seconds and stacks up to 3 times.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>While in Soresu Form, parrying, deflecting, shielding or resisting an attack has a 50% chance to grant Revenge, reducing the rage cost of your next Force Scream or Smash by 1. Lasts 10 seconds and stacks up to 3 times.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Thrown Gauntlet
+</string>
+			<integer>2</integer>
+			<string>throwngauntlet.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Threatening Scream and Force Push by 7.5 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Threatening Scream and Force Push by 15 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Force Grip
+</string>
+			<integer>1</integer>
+			<string>forcegrip.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Choke no longer needs to be channeled, applying its full effect over 3 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Backhand</string>
+			<integer>1</integer>
+			<string>backhand.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Rage: 3, Cooldown: 60 seconds, Range: 4m
+</string>
+					<string>Bashes the target for (current weapon) kinetic damage, stunning it for 4. This ability generates a high amount of threat.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Crash</string>
+			<integer>1</integer>
+			<string>crash.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Charge now stuns the target for 2.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Sonic Barrier
+</string>
+			<integer>2</integer>
+			<string>sonicbarrier.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Scream has a 50% chance to grant Sonic Barrier, which absorbs a moderate amount of damage. Lasts 10 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Scream has a 100% chance to grant Sonic Barrier, which absorbs a moderate amount of damage. Lasts 20 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Dark Blood
+</string>
+			<integer>2</integer>
+			<string>darkblood.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the duration of Endure Pain by 2 seconds. Increases elemental and internal damage reduction by 2.5%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the duration of Endure Pain by 4 seconds. Increases elemental and internal damage reduction by 5%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Sweeping Fury
+</string>
+			<integer>3</integer>
+			<string>sweepingfury.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the frequency at which Soresu Form can generate rage by 33.34. In addition, Sweeping Slash and Vicious Slash have a 1% chance to reduce the active cooldown of Enrage by ?.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the frequency at which Soresu Form can generate rage by 66.68. In addition, Sweeping Slash and Vicious Slash have a 2% chance to reduce the active cooldown of Enrage by ?.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the frequency at which Soresu Form can generate rage by 100.02. In addition, Sweeping Slash and Vicious Slash have a 3% chance to reduce the active cooldown of Enrage by ?.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Crushing Blow
+</string>
+			<integer>1</integer>
+			<string>crushingblow.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Rage: 4, Cooldown: 15 seconds, Range: 4m
+</string>
+					<string>Crushes the target with a mighty blow, dealing (current weapon) weapon damage and applying 3 stacks of armor reduction for (current weapon) seconds. Targets affected by 5 stacks of your armor reduction suffer 15 weapon damage instead.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+	</array>
+	<key>Vengeance (Damage)</key>
+	<array>
+		<array>
+			<string>Improved Sundering Assault
+</string>
+			<integer>2</integer>
+			<string>improvedsunderingassault.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Sundering Assault has a 50% chance to apply one additional stack of sunder armor.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Sundering Assault has a 100% chance to apply one additional stack of sunder armor.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Decimate</string>
+			<integer>3</integer>
+			<string>decimate.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Smash by 10% and lowers its cooldown by 1.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Smash by 20% and lowers its cooldown by 2.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Smash by 30% and lowers its cooldown by 3.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Single Saber Mastery
+</string>
+			<integer>3</integer>
+			<string>singlesabermastery.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases melee damage by 2% while in Shien Form and Shii-Cho Form.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases melee damage by 4% while in Shien Form and Shii-Cho Form.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases melee damage by 6% while in Shien Form and Shii-Cho Form.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Unyielding</string>
+			<integer>2</integer>
+			<string>unyielding.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Generates 2 rage when stunned, put to sleep or knocked down.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Generates 4 rage when stunned, put to sleep or knocked down.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Dreadnaught</string>
+			<integer>2</integer>
+			<string>dreadnaught.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases total Strength by 3%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases total Strength by 6%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Accuracy</string>
+			<integer>3</integer>
+			<string>accuracy.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the accuracy of melee and Force attacks by 1%
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the accuracy of melee and Force attacks by 2%
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the accuracy of melee and Force attacks by 3%
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Pooled Hatred
+</string>
+			<integer>2</integer>
+			<string>pooledhatred.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Whenever your movement is impaired, you gain a 5% bonus to your next melee ability that costs rage. This effect can stack up to 5 times and lasts 10 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Whenever your movement is impaired, you gain a 10% bonus to your next melee ability that costs rage. This effect can stack up to 5 times and lasts 10 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Unstoppable</string>
+			<integer>2</integer>
+			<string>unstoppable.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Charge has a 50% chance to grant Unstoppable, reducing all damage taken by 20% and granting immunity to interrupts and all controlling effects for 4 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Charge has a 100% chance to grant Unstoppable, reducing all damage taken by 20% and granting immunity to interrupts and all controlling effects for 8 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Shien Form
+</string>
+			<integer>1</integer>
+			<string>shienform.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string></string>
+					<string>Enters an aggressive lightsaber form, increasing all damage dealt by 6%. All attacks that cost rage will refund 1 rage when used. In addition, you generate 1 rage when attacked, but this effect cannot occur more than once every 6 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Draining Scream
+</string>
+			<integer>2</integer>
+			<string>drainingscream.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Scream has a 50% chance to cause the target to bleed for (current weapon) damage over 6 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Scream has a 100% chance to cause the target to bleed for (current weapon) damage over 12 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Ruin</string>
+			<integer>1</integer>
+			<string>ruin.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Smash no longer costs rage.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Vengeance</string>
+			<integer>3</integer>
+			<string>vengeance.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Impale by 2 and Force Scream by 1.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Impale by 4 and Force Scream by 2.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Impale by 6 and Force Scream by 3.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Deadly Reprisal
+</string>
+			<integer>1</integer>
+			<string>deadlyreprisal.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Generates 1 additional rage when taking area effect damage while Shien Form is active.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Huddle</string>
+			<integer>2</integer>
+			<string>huddle.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases total Endurance by 50%. In addition, Intercede has a 2% chance of applying its effect to you as well.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases total Endurance by 100%. In addition, Intercede has a 4% chance of applying its effect to you as well.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Eviscerate</string>
+			<integer>2</integer>
+			<string>eviscerate.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Impale has a 50% chance to cause the target to bleed for (current weapon) internal damage over 6 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Impale has a 100% chance to cause the target to bleed for (current weapon) internal damage over 6 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Impale</string>
+			<integer>1</integer>
+			<string>impale.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Rage: 4, Cooldown: 15 seconds, Range: 4m
+</string>
+					<string>Impales the target for (current weapon) weapon damage.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Savagery</string>
+			<integer>2</integer>
+			<string>savagery.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Impale and Shatter have a 50% chance to increase the critical hit chance of Force Scream and Vicious Throw by 60% for 9 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Impale and Shatter have a 100% chance to increase the critical hit chance of Force Scream and Vicious Throw by 60% for 9 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Deafening Defense
+</string>
+			<integer>2</integer>
+			<string>deafeningdefense.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces all damage taken by 2%. Additionally reduces the cooldown of Intimidating Roar by 7.5.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces all damage taken by 4%. Additionally reduces the cooldown of Intimidating Roar by 15.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Rampage</string>
+			<integer>3</integer>
+			<string>rampage.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Impale and Shatter have a 10% chance to finish the cooldown on Ravage. This effect cannot occur more than once every 15 seconds. Each rank beyond the first reduces this rate limit by 3 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Impale and Shatter have a 20% chance to finish the cooldown on Ravage. This effect cannot occur more than once every 15 seconds. Each rank beyond the first reduces this rate limit by 3 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Impale and Shatter have a 30% chance to finish the cooldown on Ravage. This effect cannot occur more than once every 15 seconds. Each rank beyond the first reduces this rate limit by 3 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array/>
+		<array>
+			<string>Shatter</string>
+			<integer>1</integer>
+			<string>shatter.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Rage: 5, Cooldown: 9 seconds, Range: 4m
+</string>
+					<string>Channels the Force into your lightsaber and crushes your target under its weight, dealing (current weapon) internal damage to a target afflicted by Sundering Assault, with a further (current weapon) internal damage over 12 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+	</array>
+	<key>Rage (Damage)</key>
+	<array>
+		<array/>
+		<array>
+			<string>Stagger</string>
+			<integer>2</integer>
+			<string>stagger.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the duration of Force Charge&apos;s Immobilize effect by 0.5.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the duration of Force Charge&apos;s Immobilize effect by 1.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Malice</string>
+			<integer>3</integer>
+			<string>malice.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike chance of your Force attacks by 2%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike chance of your Force attacks by 4%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike chance of your Force attacks by 6%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Ravager</string>
+			<integer>2</integer>
+			<string>ravager.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Ravage by 5 and Force Choke by 1.5.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Ravage by 10 and Force Choke by 3.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Brutality</string>
+			<integer>2</integer>
+			<string>brutality.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike chance of Vicious Slash by 7.5%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike chance of Vicious Slash by 15%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Endless Rage
+</string>
+			<integer>1</integer>
+			<string>endlessrage.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>You now generate 1 rage when attacked in Shii-Cho Form. This effect cannot occur more than once every 6 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Force Alacrity
+</string>
+			<integer>2</integer>
+			<string>forcealacrity.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of all Force abilities while in Shii-Cho Form by 1.5.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of all Force abilities while in Shii-Cho Form by 3.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Payback</string>
+			<integer>2</integer>
+			<string>payback.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Unleash has a 50% chance to heal you for 10% of your maximum health.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Unleash has a 100% chance to heal you for 10% of your maximum health.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Strangulate</string>
+			<integer>2</integer>
+			<string>strangulate.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the pushback suffered while channeling Force Choke by 50%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the pushback suffered while channeling Force Choke by 100%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Obliterate</string>
+			<integer>1</integer>
+			<string>obliterate.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Rage: 3, Cooldown: 15 seconds, Range: 10m
+</string>
+					<string>Jumps to a target, impaling it for (current weapon) weapon damage. Strikes with both weapons if dual wielding.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Saber Strength
+</string>
+			<integer>2</integer>
+			<string>saberstrength.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Vicious Slash and Obliterate by 3%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Vicious Slash and Obliterate by 6%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Unbreakable Rage
+</string>
+			<integer>1</integer>
+			<string>unbreakablerage.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Ravage is now uninterruptible.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Shockwave</string>
+			<integer>2</integer>
+			<string>shockwave.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Each tick of Force Choke and Force Crush grants you Shockwave, increasing the damage your next Smash deals by 12.5%. Stacks up to 4 times.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Each tick of Force Choke and Force Crush grants you Shockwave, increasing the damage your next Smash deals by 25%. Stacks up to 4 times.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Dominate</string>
+			<integer>2</integer>
+			<string>dominate.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Charge and Obliterate have a 50% chance to make your next Smash used within 15 seconds an automatic critical hit.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Force Charge and Obliterate have a 100% chance to make your next Smash used within 15 seconds an automatic critical hit.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Relentless</string>
+			<integer>2</integer>
+			<string>relentless.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Enrage immediately grants 1 additional rage.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Enrage immediately grants 2 additional rage.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Shii-Cho Mastery
+</string>
+			<integer>2</integer>
+			<string>shiichomastery.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>While in Shii-Cho Form, your attacks ignore 10% of your targets&apos; armor.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>While in Shii-Cho Form, your attacks ignore 20% of your targets&apos; armor.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Interceptor</string>
+			<integer>2</integer>
+			<string>interceptor.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases movement speed by 20% for 5 seconds after using Obliterate.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases movement speed by 40% for 10 seconds after using Obliterate.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Gravity</string>
+			<integer>1</integer>
+			<string>gravity.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the rage cost of all movement-slowing effects by 1.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Sundering Throw
+</string>
+			<integer>2</integer>
+			<string>sunderingthrow.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Lowers the cooldown of Saber Throw by 2.5 seconds and causes Saber Throw to apply 1 of sunder armor to the target.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Lowers the cooldown of Saber Throw by 5 seconds and causes Saber Throw to apply 2 of sunder armor to the target.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Dark Resonance
+</string>
+			<integer>3</integer>
+			<string>darkresonance.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage of all Force attacks by 10%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage of all Force attacks by 20%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage of all Force attacks by 30%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array/>
+		<array>
+			<string>Force Crush
+</string>
+			<integer>1</integer>
+			<string>forcecrush.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Rage: 4, Cooldown: 21 seconds, Range: 10m
+</string>
+					<string>Progressively slows the target from 60% to 10% movement speed over 5 and deals (current weapon) kinetic damage each second. At the end of the duration, the target is crushed and takes an additional (current weapon) kinetic damage.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+	</array>
+</dict>
+</plist>

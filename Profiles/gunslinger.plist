@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Sharpshooter (Damage)</key>
+	<array>
+		<array/>
+		<array>
+			<string>Sharpshooter</string>
+			<integer>3</integer>
+			<string>sharpshooter.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increase ranged and tech accuracy by 1%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increase ranged and tech accuracy by 2%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increase ranged and tech accuracy by 3%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Steady Shots</string>
+			<integer>2</integer>
+			<string>steady_shots.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Charged Burst, Speed Shot and Wounding Shots by 3%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Charged Burst, Speed Shot and Wounding Shots by 6%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Cover Screen</string>
+			<integer>2</integer>
+			<string>cover_screen.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When exiting cover, you have a 50% chance to gain Cover Screen, increasing ranged defense by 20% for 6 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When exiting cover, you have a 100% chance to gain Cover Screen, increasing ranged defense by 20% for 6 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Trip Shot</string>
+			<integer>2</integer>
+			<string>trip_shot.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Leg Shot by 1.5 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Leg Shot by 3 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Sharp Aim</string>
+			<integer>2</integer>
+			<string>sharp_aim.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Aimed Shot ignores 10% of the target&apos;s armor.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Aimed Shot ignores 20% of the target&apos;s armor.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Ballistic Dampers</string>
+			<integer>2</integer>
+			<string>ballistic_dampers.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Entering cover grants 3 charges of Ballistic Dampers. Each charge absorbs 15% of the damage dealt by incoming attacks. This effect cannot occur more than once every 1.5 seconds. Ballistic Dampers can only be gained once every 6 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Entering cover grants 3 charges of Ballistic Dampers. Each charge absorbs 30% of the damage dealt by incoming attacks. This effect cannot occur more than once every 1.5 seconds. Ballistic Dampers can only be gained once every 6 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Percussive Shot</string>
+			<integer>1</integer>
+			<string>percussive_shot.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When Aimed Shot strikes a target within 10 meters, the target is knocked back several meters.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Quick Aim</string>
+			<integer>2</integer>
+			<string>quick_aim.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Charged Burst and Speed Shot&apos;s critical hits have a 50% chance to reduce the activation time of the next Aimed Shot by 1 second.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Charged Burst and Speed Shot&apos;s critical hits have a 100% chance to reduce the activation time of the next Aimed Shot by 1 second.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Diversion</string>
+			<integer>1</integer>
+			<string>diversion.png</string>
+			<array>
+				<array>
+					<string>Range: 35m, Cooldown: 60 seconds</string>
+					<string></string>
+					<string>Throws a smoking canister at the target, reducing its accuracy by 45% for 9 seconds and exposing the target from cover for 6 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Snap Shot</string>
+			<integer>2</integer>
+			<string>snap_shot.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Entering cover has a 50% chance to make the next Charged Burst activate instantly.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Entering cover has a 100% chance to make the next Charged Burst activate instantly.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Foxhole</string>
+			<integer>1</integer>
+			<string>foxhole.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the energy regeneration rate by 1 per second while in cover.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Burst Volley</string>
+			<integer>3</integer>
+			<string>burst_volley.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Aimed Shot has a 33.4% chance to gran Burst Volley, increasing alacrity by 3% for 6 seconds. While Burst Volley is active, each subsequent Charged Burst has a 33.4% chance to build an additional stack of Burst Volley. Stacks up to 3 times. The initial Burst Volley effect cannot be gained more than once every 30 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Aimed Shot has a 60.6% chance to gran Burst Volley, increasing alacrity by 3% for 6 seconds. While Burst Volley is active, each subsequent Charged Burst has a 60.6% chance to build an additional stack of Burst Volley. Stacks up to 3 times. The initial Burst Volley effect cannot be gained more than once every 30 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Aimed Shot has a 100% chance to gran Burst Volley, increasing alacrity by 3% for 6 seconds. While Burst Volley is active, each subsequent Charged Burst has a 100% chance to build an additional stack of Burst Volley. Stacks up to 3 times. The initial Burst Volley effect cannot be gained more than once every 30 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Spacer</string>
+			<integer>1</integer>
+			<string>spacer.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Pulse Detonator knocks targets back an additional 2. Additionally reduces the activation time of XS Freighter Flyby by 1 second.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Slick Shooter</string>
+			<integer>2</integer>
+			<string>slick_shooter.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical hit chance of Charged Burst, Speed Shot and Trickshot by 2%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical hit chance of Charged Burst, Speed Shot and Trickshot by 4%.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Lay Low</string>
+			<integer>2</integer>
+			<string>lay_low.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Hunker Down and XS Freighter Flyby by 7.5 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Hunker Down and XS Freighter Flyby by 15 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Trickshot</string>
+			<integer>1</integer>
+			<string>trickshot.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Range: 30m, Cooldown: 9 seconds</string>
+					<string>Fires a wild follow-up shot at the target that deals (current weapon) damage. Only usable withing 4.5 seconds immediately following a Charged Burst or Aimed Shot. Fires both blasters if dual wielding.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Recoil Control</string>
+			<integer>2</integer>
+			<string>recoil_control.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the energy cost of Trickshot by 2 and reduces its cooldown by 1.5 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the energy cost of Trickshot by 4 and reduces its cooldown by 3 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Deadeye</string>
+			<integer>5</integer>
+			<string>deadeye.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical damage dealt by Speed Shot, Quickdraw and Trickshot by 6%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical damage dealt by Speed Shot, Quickdraw and Trickshot by 12%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical damage dealt by Speed Shot, Quickdraw and Trickshot by 18%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical damage dealt by Speed Shot, Quickdraw and Trickshot by 24%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical damage dealt by Speed Shot, Quickdraw and Trickshot by 30%.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array/>
+		<array>
+			<string>Rapid Fire</string>
+			<integer>1</integer>
+			<string>rapid_fire.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Cooldown: 90 seconds</string>
+					<string>Immediately finishes the cooldown on Speed Shot and makes the next Speed Shot trigger no cooldown.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+	</array>
+	<key>Saboteur (Damage)</key>
+	<array>
+		<array>
+			<string>Streetwise</string>
+			<integer>3</integer>
+			<string>streetwise.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases Cunning by 3%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases Cunning by 6%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases Cunning by 9%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Bravado</string>
+			<integer>2</integer>
+			<string>bravado.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your maximum energy by 5.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases your maximum energy by 10.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Saboteur&apos;s Utility Belt</string>
+			<integer>2</integer>
+			<string>saboteurs_utility_belt.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Flash Grenade by 7.5 seconds and Thermal Grenade by 1.5 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Flash Grenade by 15 seconds and Thermal Grenade by 3 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Underworld Hardships</string>
+			<integer>2</integer>
+			<string>underworld_hardships.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases total Endurance by 2%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases total Endurance by 4%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Hot Pursuit</string>
+			<integer>2</integer>
+			<string>hot_pursuit.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>You have a 50% chance to gain Hot Pursuit upon exiting cover, allowing you next Charged Burst to used in any situation.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>You have a 100% chance to gain Hot Pursuit upon exiting cover, allowing you next Charged Burst to used in any situation.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Cool Under Pressure</string>
+			<integer>2</integer>
+			<string>frontline_offense.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Cool Head now heals you for [3]% of your total health over 3 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Cool Head now heals you for [6]% of your total health over 3 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Independent Anarchy</string>
+			<integer>3</integer>
+			<string>independent_anarchy.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Sabotage Charge and all area effects by 5%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Sabotage Charge and all area effects by 10%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Sabotage Charge and all area effects by 15%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Sapping Charge</string>
+			<integer>2</integer>
+			<string>sapping_charge.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Shock Charge reduces the target&apos;s movement speed by 15% for the duration.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Shock Charge reduces the target&apos;s movement speed by 30% for the duration.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Shock Charge</string>
+			<integer>1</integer>
+			<string>shock_charge.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Energy: 20, Range: 30m, Cooldown: 18 seconds</string>
+					<string>Hurls an electric shock device that latches on to the target, dealing (current weapon) energy damage over 18 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Dealer&apos;s Discount</string>
+			<integer>2</integer>
+			<string>dealers_discount.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the energy cost of Sabotage Charge, Shock Charge and Incendiary Grenade by 2.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the energy cost of Sabotage Charge, Shock Charge and Incendiary Grenade by 4.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Contingency Charges</string>
+			<integer>2</integer>
+			<string>contingency_charges.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>After Sabotage Charge detonates, it drops 1 on the taget. A Contingency Charge explodes when damaged by blaster fire, dealing (current weapon) kinetic damage to the target. Contingency Charges cannot be detonated more than once every 1.5 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>After Sabotage Charge detonates, it drops 2 on the taget. A Contingency Charge explodes when damaged by blaster fire, dealing (current weapon) kinetic damage to the target. Contingency Charges cannot be detonated more than once every 1.5 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Arsonist</string>
+			<integer>2</integer>
+			<string>arsonist.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical damage dealt by all area effects by 15%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical damage dealt by all area effects by 30%.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Pandemonium</string>
+			<integer>2</integer>
+			<string>pandemonium.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Activating Pulse Detonator has a 50% chance of making the next Charged Burst activate instantly.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Activating Pulse Detonator has a 100% chance of making the next Charged Burst activate instantly.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Insurrection</string>
+			<integer>1</integer>
+			<string>insurrection.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the number of Contingency Charges dropped by Sabotage Charge by 1. In addition, when you contingency Charges detonate, you recover 5 energy.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Hotwired Defenses</string>
+			<integer>2</integer>
+			<string>hotwired_defenses.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the amount of damage absorbed by Defense Screen by 15%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the amount of damage absorbed by Defense Screen by 30%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Sabotage</string>
+			<integer>1</integer>
+			<string>sabotage.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Range: 30m, Cooldown: 60 seconds</string>
+					<string>Detonates an active Shock Charge on the target, immediately dealing (current weapon) kinetic damage to the affected target. Also immediately finishes the cooldown on Cool Head and Defense Screen.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Seize the Moment</string>
+			<integer>2</integer>
+			<string>seize_the_moment.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>After activating Sabotage, the next Sabotage Charge or Incendiary Grenade activated costs 50% less energy.</string>
+				</array>
+				<array>
+					<string>Instant</string>
+					<string>Cooldown: 30 seconds</string>
+					<string>After activating Sabotage, the next Sabotage Charge or Incendiary Grenade activated costs 100% less energy.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Blazing Speed</string>
+			<integer>3</integer>
+			<string>blazing_speed.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Speed Shot has a 33.34% chance when dealing damage to burn the target, dealing (current weapon) elemental damage over 4 seconds. Stacks up to 4 times.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Speed Shot has a 66.8% chance when dealing damage to burn the target, dealing (current weapon) elemental damage over 4 seconds. Stacks up to 4 times.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Speed Shot has a 100% chance when dealing damage to burn the target, dealing (current weapon) elemental damage over 4 seconds. Stacks up to 4 times.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Riot Screen</string>
+			<integer>2</integer>
+			<string>riot_screen.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces all damage taken while in cover by 3% and reduces the cooldown of Scrambling Field by 15 seconds.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces all damage taken while in cover by 6% and reduces the cooldown of Scrambling Field by 30 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Incendiary Grenade</string>
+			<integer>1</integer>
+			<string>incendiary_grenade.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Energy: 20, Range: 30m, Cooldown: 18 seconds</string>
+					<string>Throws an incendiary device that set the target area on fire, dealing (current weapon) elemental damage over 18 seconds to up to 3 targets within 5 meters.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+	</array>
+	<key>Dirty Fighting (Damage)</key>
+	<array>
+		<array>
+			<string>Holdout Defense</string>
+			<integer>2</integer>
+			<string>holdout_defense.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Blaster Whip by 5%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Blaster Whip by 10%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>No Holds Barred</string>
+			<integer>3</integer>
+			<string>no_holds_barred.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases ranged and tech critical chance by 2%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases ranged and tech critical chance by 4%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases ranged and tech critical chance by 6%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Black Market Mods</string>
+			<integer>2</integer>
+			<string>black_market_mods.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases alacrity by 2%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases alacrity by 4%.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Open Wound</string>
+			<integer>1</integer>
+			<string>open_wound.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the duration of Vital Shot by 3 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Mortal Wound</string>
+			<integer>2</integer>
+			<string>mortal_wound.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Vital Shot has a 12.5% chance to tick twice when it inflicts damage.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Vital Shot has a 25% chance to tick twice when it inflicts damage.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Flash Poweder</string>
+			<integer>2</integer>
+			<string>flash_powder.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces all targets&apos; accuracy by 10% for 8 seconds after Flash Grenade ends.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces all targets&apos; accuracy by 20% for 8 seconds after Flash Grenade ends.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Dirty Escape</string>
+			<integer>2</integer>
+			<string>dirty_escape.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Dirty Kick by 7.5 seconds, and increases movement speed by 15% for 4 seconds after activating Dirty Kick.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Dirty Kick by 15 seconds, and increases movement speed by 30% for 8 seconds after activating Dirty Kick.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Cheap Shots</string>
+			<integer>2</integer>
+			<string>cheap_shots.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Quick Shot, Speed Shot and Wounding Shots by 3%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Quick Shot, Speed Shot and Wounding Shots by 6%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Bombastic</string>
+			<integer>2</integer>
+			<string>bombastic.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Ammo: 3, Range: 30m</string>
+					<string>Increases the damage dealt by Thermal Grenade and Shrap Bomb by 4%.</string>
+				</array>
+				<array>
+					<string>Instant</string>
+					<string>Ammo: 3, Range: 30m</string>
+					<string>Increases the damage dealt by Thermal Grenade and Shrap Bomb by 8%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Shrap Bomb</string>
+			<integer>1</integer>
+			<string>shrap_bomb.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Energy: 20, Cooldown: 12 seconds, Range: 30m</string>
+					<string>Hurls a shrap bomb that explodes with razor-sharp shrapnel on impact, causing up to 3 targets within 5 meters to bleed for (current weapon) internal damage over 21 seconds.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Black Market Equipment</string>
+			<integer>3</integer>
+			<string>black_market_equipment.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical hit chance of all periodic effects by 4%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical hit chance of all periodic effects by 8%.</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical hit chance of all periodic effects by 12%.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Quick Getaway</string>
+			<integer>2</integer>
+			<string>quick_getaway.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Dodge by 7.5 seconds and Escape by 15 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Dodge by 15 seconds and Escape by 30 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Feelin&apos; Woozy</string>
+			<integer>2</integer>
+			<string>feelin_woozy.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Shrap Bomb has a 50% chance to reduce the movement speed of all targets by 30% for 6 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Shrap Bomb has a 100% chance to reduce the movement speed of all targets by 30% for 6 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Fighting Spirit</string>
+			<integer>2</integer>
+			<string>fighting_spirit.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Cool Head by 15 seconds. In addition, critical hits with bleed effects restore 1 energy.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Cool Head by 30 seconds. In addition, critical hits with bleed effects restore 2 energy.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Dirty Trickster</string>
+			<integer>2</integer>
+			<string>dirty_trickster.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Surrender has a 50% chance to remove all movement-impairing effects when activated.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Surrender has a 100% chance to remove all movement-impairing effects when activated.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Reopen Wounds</string>
+			<integer>2</integer>
+			<string>reopen_wounds.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical chance of Wounding Shots and Speed Shot by 2%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical chance of Wounding Shots and Speed Shot by 4%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Wounding Shots</string>
+			<integer>1</integer>
+			<string>wounding_shots.png</string>
+			<array>
+				<array>
+					<string>Instant
+</string>
+					<string>Energy: 30, Cooldown: 9 seconds, Range: 10m
+</string>
+					<string>Fires a wave of bolts at the target each second, dealing (current weapon) weapon damage. For each of your bleed effects present on the target during each wave, the target hemorrhages for an additional (current weapon) internal damage. Fires both blasters if dual wielding.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Hold Your Ground</string>
+			<integer>2</integer>
+			<string>hold_your_ground.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Defense Screen by 7.5 seconds and Pulse Detonator by 5 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Defense Screen by 15 seconds and Pulse Detonator by 10 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Cold Blooded</string>
+			<integer>3</integer>
+			<string>cold_blooded.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by bleeding effects by 5% on targets below 30% of max health.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by bleeding effects by 10% on targets below 30% of max health.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by bleeding effects by 15% on targets below 30% of max health.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Hemorrhaging Blast</string>
+			<integer>1</integer>
+			<string>hemorrhaging_blast.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Energy: 10, Cooldown: 15 seconds, Range: 10m
+</string>
+					<string>Deals (current weapon) weapon damage and causes the target to take 30% additional damage from the Smuggler&apos;s next 10 bleed effects. Lasts 15 seconds. Fires both blasters if dual wielding.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+	</array>
+</dict>
+</plist>

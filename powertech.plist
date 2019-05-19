@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Shield Tech (Defense)</key>
+	<array>
+		<array>
+			<string>Rail Loaders
+</string>
+			<integer>2</integer>
+			<string>railloaders.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage of Rail Shot by 3%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage of Rail Shot by 6%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Intimidation
+</string>
+			<integer>3</integer>
+			<string>intimidation.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases damage done by all fire effects by 2%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases damage done by all fire effects by 4%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases damage done by all fire effects by 6%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Combust</string>
+			<integer>2</integer>
+			<string>combust.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Flame Burst and Flame Sweep combust the target, lowering its damage dealt by 2% for 15 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Flame Burst and Flame Sweep combust the target, lowering its damage dealt by 4% for 30 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Rebraced Armor
+</string>
+			<integer>2</integer>
+			<string>rebracedarmor.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases armor rating by 8%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases armor rating by 16%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Steely Resolve
+</string>
+			<integer>3</integer>
+			<string>steelyresolve.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases Aim by 3%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases Aim by 6%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases Aim by 9%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Ion Overload
+</string>
+			<integer>2</integer>
+			<string>ionoverload.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Rocket Punch now has a 50% chance to trigger your Ion Gas Cylinder. In addition, when Ion Gas Cylinder deals damage, it has a (current weapon)% chance to shock the target for 6 additional energy damage over ?.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Rocket Punch now has a 100% chance to trigger your Ion Gas Cylinder. In addition, when Ion Gas Cylinder deals damage, it has a (current weapon)% chance to shock the target for 12 additional energy damage over ?.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Neural Overload
+</string>
+			<integer>1</integer>
+			<string>neuraloverload.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Ion Gas Cylinder damage now lowers the movement speed of the target by 50% for 2 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Ablative Upgrades
+</string>
+			<integer>2</integer>
+			<string>ablativeupgrades.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases absorption by 3% and reduces the cooldown of Kolto Overload by 30 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases absorption by 6% and reduces the cooldown of Kolto Overload by 60 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Oil Slick
+</string>
+			<integer>1</integer>
+			<string>oilslick.png</string>
+			<array>
+				<array>
+					<string>Instant
+</string>
+					<string>Heat: 8, Cooldown: 60 seconds
+</string>
+					<string>Sprays the immediate area with oil. Nearby enemies become unbalanced and their accuracy of ranged and melee attacks is lowered by 20% for 18.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Shield Vents
+</string>
+			<integer>2</integer>
+			<string>shieldvents.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases shield chance by 1%. In addition, shielding an attack has a 25% chance to vent 8 heat. This effect cannot occur more than once every 6 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases shield chance by 2%. In addition, shielding an attack has a 50% chance to vent 8 heat. This effect cannot occur more than once every 6 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Flame Shield
+</string>
+			<integer>2</integer>
+			<string>flameshield.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical chance of Rocket Punch and Flame Sweep by 15%. In addition, shielding an attack has a 25% chance to finish the cooldown on Rocket Punch. This effect cannot occur more than once every 4.5 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical chance of Rocket Punch and Flame Sweep by 30%. In addition, shielding an attack has a 50% chance to finish the cooldown on Rocket Punch. This effect cannot occur more than once every 4.5 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Ion Screen
+</string>
+			<integer>2</integer>
+			<string>ionscreen.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Further increases damage reduction while Ion Gas Cylinder is active by 1%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Further increases damage reduction while Ion Gas Cylinder is active by 2%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Supercharged Ion Gas
+</string>
+			<integer>1</integer>
+			<string>superchargediongas.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Ion Gas Cylinder by 25% and increases its shock duration by 3 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>No Escape
+</string>
+			<integer>2</integer>
+			<string>noescape.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Grapple has a 50% chance to immobilize the target for 3 seconds. In addition, your Stealth Scan has a ?% chance to immobilize the targets it reveals for 3 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Grapple has a 100% chance to immobilize the target for 3 seconds. In addition, your Stealth Scan has a ?% chance to immobilize the targets it reveals for 3 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Flame Surge
+</string>
+			<integer>2</integer>
+			<string>flamesurge.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike bonus damage of Rocket Punch and Flame Sweep by 15%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike bonus damage of Rocket Punch and Flame Sweep by 30%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Jet Charge
+</string>
+			<integer>1</integer>
+			<string>jetcharge.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Cooldown: 15 seconds, Range: 10m-30m
+</string>
+					<string>Jumps to a distant target, dealing (current weapon) kinetic damage, interrupting the target&apos;s current action and immobilizing the target for 3. Cannot be used against targets in cover.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Jet Speed
+</string>
+			<integer>2</integer>
+			<string>jetspeed.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Jet Charge has a 50% chance to increase your movement speed by 30% for 4 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Jet Charge has a 100% chance to increase your movement speed by 30% for 4 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Empowered Tech
+</string>
+			<integer>5</integer>
+			<string>empoweredtech.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases shield chance by 2%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases shield chance by 4%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases shield chance by 6%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases shield chance by 8%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases shield chance by 10%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array/>
+		<array>
+			<string>Heat Blast
+</string>
+			<integer>1</integer>
+			<string>heatblast.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Cooldown: 15 seconds, Range: 10m
+</string>
+					<string>Discharges 8 heat into a fiery blast, dealing (current weapon) elemental damage.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+	</array>
+	<key>Advanced Prototype (Damage)</key>
+	<array>
+		<array>
+			<string>Puncture</string>
+			<integer>3</integer>
+			<string>puncture.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Rail Shot ignores 20% of the target&apos;s armor.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Rail Shot ignores 40% of the target&apos;s armor.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Rail Shot ignores 60% of the target&apos;s armor.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Prototype Electro Surge
+</string>
+			<integer>2</integer>
+			<string>prototypeelectrosurge.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Electro Dart by 5.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Electro Dart by 10.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Prototype Burn Enhancers
+</string>
+			<integer>2</integer>
+			<string>prototypeburnenhancers.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical hit chance of all fire effects by 3%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical hit chance of all fire effects by 6%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Advanced Tools
+</string>
+			<integer>2</integer>
+			<string>advancedtools.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Flame Thrower by 1.5 and Grapple by 5.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Flame Thrower by 3 and Grapple by 10.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Power Armor
+</string>
+			<integer>2</integer>
+			<string>powerarmor.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces all damage taken by 1%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces all damage taken by 2%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Hot Iron
+</string>
+			<integer>2</integer>
+			<string>hotiron.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Flame Burst and Retractable Blade by 3%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Flame Burst and Retractable Blade by 6%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Prototype Cylinders
+</string>
+			<integer>1</integer>
+			<string>prototypecylinders.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the effect of your gas cylinders while they are active:
+Combustible Gas Cylinder: Increases the tech critical hit chance by 3%.
+High Energy Gas Cylinder: Further increases all internal and elemental damage dealt by 3%.
+Ion Gas Cylinder: Increases the damage dealt by Ion Gas Cylinder 8%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Prototype Cylinder Ventilation
+</string>
+			<integer>2</integer>
+			<string>prototypecylinderventilation.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>While High Energy Gas Cylinder is active, you have a 50% chance to vent 8 heat every 6 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>While High Energy Gas Cylinder is active, you have a 100% chance to vent 8 heat every 6 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Rectractable Blade
+</string>
+			<integer>1</integer>
+			<string>rectractableblade.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Heat: 16, Range: 4m
+</string>
+					<string>Plunges a retractable blade into the target that deals (current weapon) kinetic damage and causes the target to bleed for (current weapon) internal damage over 15.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Pneumatic Boots
+</string>
+			<integer>2</integer>
+			<string>pneumaticboots.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases movement speed by 7.5% while High Energy Gas Cylinder is active.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases movement speed by 15% while High Energy Gas Cylinder is active.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Hitman</string>
+			<integer>2</integer>
+			<string>hitman.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Quell by 1.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Quell by 2.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Serrated Blades
+</string>
+			<integer>3</integer>
+			<string>serratedblades.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Retractable Blade&apos;s bleed effect by 5%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Retractable Blade&apos;s bleed effect by 10%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Retractable Blade&apos;s bleed effect by 15%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Flame Barrage
+</string>
+			<integer>2</integer>
+			<string>flamebarrage.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Flame Burst has a 15% chance and Immolate has a 50% chance to make your next Rocket Punch free. This effect lasts 15.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Flame Burst has a 30% chance and Immolate has a 100% chance to make your next Rocket Punch free. This effect lasts 30.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Kolto Vents
+</string>
+			<integer>1</integer>
+			<string>koltovents.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When you vent heat, you regen 7% of your health over 10 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Charged Gauntlets
+</string>
+			<integer>1</integer>
+			<string>chargedgauntlets.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Rocket Punch and Retractable Blade have a 25% chance to make your next Rail Shot critically hit automatically.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Hydraulic Overrides
+</string>
+			<integer>1</integer>
+			<string>hydraulicoverrides.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Cooldown: 30 seconds
+</string>
+					<string>Grants 8 of immunity from movement-impairing effects, knockdowns and physics and increases movement speed by 30%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Prototype Flame Thrower
+</string>
+			<integer>2</integer>
+			<string>prototypeflamethrower.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Flame Burst and Flame Sweep have a 50% chance to grant Prototype Flame Thrower, increasing the damage dealt by your next Flame Thrower by 10%. Stacks up to 5 times.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Flame Burst and Flame Sweep have a 100% chance to grant Prototype Flame Thrower, increasing the damage dealt by your next Flame Thrower by 10%. Stacks up to 5 times.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Prototype Weapon Systems
+</string>
+			<integer>3</integer>
+			<string>prototypeweaponsystems.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage bonus of Rocket Punch, Flame Burst and Immolate by 10%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage bonus of Rocket Punch, Flame Burst and Immolate by 20%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical strike damage bonus of Rocket Punch, Flame Burst and Immolate by 30%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Stabilized Armor
+</string>
+			<integer>2</integer>
+			<string>stabilizedarmor.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>While stunned, you take 10% less damage.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>While stunned, you take 20% less damage.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Immolate</string>
+			<integer>1</integer>
+			<string>immolate.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Heat: 8, Cooldown: 15 seconds, Range: 10m
+</string>
+					<string>Sprays the target with fuel and ignites it into a fireball that deals (current weapon) elemental damage.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+	</array>
+	<key>Pyrotech (Damage)</key>
+	<array>
+		<array>
+			<string>Integrated Cardio Package
+</string>
+			<integer>3</integer>
+			<string>integratedcardiopackage.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases Endurance by 1%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases Endurance by 2%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases Endurance by 3%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Iron Fist
+</string>
+			<integer>2</integer>
+			<string>ironfist.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Rocket Punch by 4%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Rocket Punch by 8%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Bursting Flame
+</string>
+			<integer>3</integer>
+			<string>burstingflame.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Flame Burst has a 33.34% chance to trigger your Combustible Gas Cylinder if active.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Flame Burst has a 66.68% chance to trigger your Combustible Gas Cylinder if active.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Flame Burst has a 100.02% chance to trigger your Combustible Gas Cylinder if active.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Gyroscopic Alignment Jets
+</string>
+			<integer>2</integer>
+			<string>gyroscopicalignmentjets.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>You have a 50% chance to vent 8 heat when stunned, immobilized, knocked down or otherwise incapacitated.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>You have a 100% chance to vent 8 heat when stunned, immobilized, knocked down or otherwise incapacitated.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Sweltering Heat
+</string>
+			<integer>2</integer>
+			<string>swelteringheat.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Combustible Gas Cylinder has a 2% chance when it applies its effects to reduce the movement speed of the target by 50% for 50 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Combustible Gas Cylinder has a 4% chance when it applies its effects to reduce the movement speed of the target by 50% for 100 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Superheated Gas
+</string>
+			<integer>3</integer>
+			<string>superheatedgas.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Combustible Gas Cylinder by 10% and its chance to be triggered by 2%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Combustible Gas Cylinder by 20% and its chance to be triggered by 4%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the damage dealt by Combustible Gas Cylinder by 30% and its chance to be triggered by 6%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Infrared Sensors
+</string>
+			<integer>2</integer>
+			<string>infraredsensors.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases stealth detection by 1, melee and ranged defense by 2.5%, and reduces the cooldown of Stealth Scan by ? seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases stealth detection by 2, melee and ranged defense by 5%, and reduces the cooldown of Stealth Scan by ? seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Incendiary Missile
+</string>
+			<integer>1</integer>
+			<string>incendiarymissile.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Heat: 25, Range: 30m
+</string>
+					<string>Fires a missile that explodes on contact, igniting the target for (current weapon) elemental damage and an additional (current weapon) elemental damage over 18.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Superheated Rail
+</string>
+			<integer>2</integer>
+			<string>superheatedrail.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Rail Shot ignores 50% of the target&apos;s armor. In addition, if Rail Shot hits a burning target, it has a 15% chance to vent 8 heat and refresh the duration of your Combustible Gas Cylinder&apos;s burn effect if present.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Rail Shot ignores 100% of the target&apos;s armor. In addition, if Rail Shot hits a burning target, it has a 30% chance to vent 8 heat and refresh the duration of your Combustible Gas Cylinder&apos;s burn effect if present.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Degauss</string>
+			<integer>2</integer>
+			<string>degauss.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Energy Shield has a 50% chance to remove all movement-impairing effects when activated.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Energy Shield has a 100% chance to remove all movement-impairing effects when activated.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Prototype Particle Accelerator
+</string>
+			<integer>3</integer>
+			<string>prototypeparticleaccelerator.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Flame Burst has a 10% chance and Rocket Punch has a 15% chance to finish the cooldown on Rail Shot and make the next Rail Shot free.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Flame Burst has a 20% chance and Rocket Punch has a 30% chance to finish the cooldown on Rail Shot and make the next Rail Shot free.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Flame Burst has a 30% chance and Rocket Punch has a 45% chance to finish the cooldown on Rail Shot and make the next Rail Shot free.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Rapid Venting
+</string>
+			<integer>2</integer>
+			<string>rapidventing.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Vent Heat by 15.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Reduces the cooldown of Vent Heat by 30.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array>
+			<string>Firebug</string>
+			<integer>2</integer>
+			<string>firebug.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical bonus damage of Combustible Gas Cylinder, Rail Shot, Incendiary Missile and Thermal Detonator by 15%.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases the critical bonus damage of Combustible Gas Cylinder, Rail Shot, Incendiary Missile and Thermal Detonator by 30%.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Rain of Fire
+</string>
+			<integer>3</integer>
+			<string>rainoffire.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Rapid Shots, Rocket Punch, Rail Shot, Unload and Flame Sweep deal 3% additional damage to burning targets.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Rapid Shots, Rocket Punch, Rail Shot, Unload and Flame Sweep deal 6% additional damage to burning targets.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Rapid Shots, Rocket Punch, Rail Shot, Unload and Flame Sweep deal 9% additional damage to burning targets.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Energy Rebounder
+</string>
+			<integer>2</integer>
+			<string>energyrebounder.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When you take damage, you have 50% chance to reduce the active cooldown of Energy Shield by 1.5. This effect cannot occur more than once every 1.5 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>When you take damage, you have 100% chance to reduce the active cooldown of Energy Shield by 3. This effect cannot occur more than once every 1.5 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Burnout</string>
+			<integer>3</integer>
+			<string>burnout.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases tech critical hit chance by 1% and increases the damage dealt by periodic elemental effects by 10% on targets below 30% max health.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases tech critical hit chance by 2% and increases the damage dealt by periodic elemental effects by 20% on targets below 30% max health.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Increases tech critical hit chance by 3% and increases the damage dealt by periodic elemental effects by 30% on targets below 30% max health.
+</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Automated Defenses
+</string>
+			<integer>2</integer>
+			<string>automateddefenses.png</string>
+			<array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Critical hits have a 50% chance to reduce the active cooldown on Kolto Overload and Thermal Sensor Override by 3. This effect cannot occur more than once every 1.5 seconds.
+</string>
+				</array>
+				<array>
+					<string></string>
+					<string></string>
+					<string>Critical hits have a 100% chance to reduce the active cooldown on Kolto Overload and Thermal Sensor Override by 6. This effect cannot occur more than once every 1.5 seconds.
+</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+		<array>
+			<string>Thermal Detonator
+</string>
+			<integer>1</integer>
+			<string>thermaldetonator.png</string>
+			<array>
+				<array>
+					<string>Instant</string>
+					<string>Heat: 16, Cooldown: 15 seconds, Range: 30m
+</string>
+					<string>Hurls a thermal detonator that adheres to the target and detonates after several seconds. Standard and weak enemies enter a state of panic while the explosive is active. The explosion deals (current weapon) kinetic damage when it detonates. Standard and weak targets are knocked back from the blast. Shares a 15-second cooldown with Explosive Dart.</string>
+				</array>
+			</array>
+		</array>
+		<array/>
+		<array/>
+	</array>
+</dict>
+</plist>
